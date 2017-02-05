@@ -1,0 +1,2079 @@
+Name: е на Еуратек ауто Type: кафе Date: 08:50 Jan 19 2017 Address: град София, Хан Кубрат 27
+Name: Фреш Type: кафе Date: 15:33 Jan 19 2013 Address: София,жк Надежда 1,бл. 111
+Name: Камино Type: бар Date: 02:00 Jan 21 2017 Address: град София, ул. Неофит Рилски 70
+Name: Чановете Type: механа Date: 09:41 Oct 26 2015 Address: София, Надежда 1, ул. Кирил Дрангов 81, до метростанция Надежда
+Name: е Еуратек ауто Type: кафе Date: 03:00 Oct 18 2016 Address: град София, ул. Хан Кубрат  27
+Name: N/A Type: кафе Date: 17:02 Jan 15 2013 Address: София жк Надежда 1 в бл 111 или 112
+Name: N/A Type: N/A Date: 10:20 Jan 24 2013 Address: София, ул. Сердика 18
+Name: N/A Type: N/A Date: 12:26 Jan 19 2017 Address: град София, ул. Република 39
+Name: N/A Type: N/A Date: 10:12 Dec 15 2012 Address: София, ул. Будапеща  13
+Name: КАФЕ-БАР Type: заведение Date: 12:46 Jan 16 2015 Address: град София, квартал Надежда, бл.111
+Name: N/A Type: бар Date: 01:05 Dec 23 2012 Address: ул. Неофит Рилски 70, София
+Name: N/A Type: N/A Date: 10:00 Jan 25 2013 Address: гр. София, ул.Сердика 18
+Name: N/A Type: N/A Date: 12:52 Dec 19 2013 Address: софия, ул. будапеща
+Name: SBI Type: ресторант Date: 01:20 May 10 2013 Address: София, ул. Искър 20
+Name: Блазе Type: ресторант Date: 12:35 Jan 20 2017 Address: град София, ул. Атанас Манчев  10
+Name: в Надежда 2 Type: кафе Date: 07:04 Feb 28 2013 Address: София, ул. Семафорска
+Name: Emotion Type: клуб Date: 08:47 Jan 20 2017 Address: град София, ж.к Младост 1, ул. Йерусалим 1
+Name: Роден край Type: механа Date: 12:30 Dec 8 2016 Address: град София, Студентски град, ул. Атанас Манчев  18
+Name: N/A Type: N/A Date: 13:41 Nov 13 2012 Address: София, ул. Искър No 20
+Name: N/A Type: N/A Date: 01:25 Mar 19 2014 Address: София, Улица Искър 20
+Name: N/A Type: N/A Date: 03:00 Jan 25 2013 Address: София, ул.Сердика 18
+Name: N/A Type: N/A Date: 12:06 May 17 2013 Address: София, булевард Княгиня Мария Луиза 20
+Name: N/A Type: N/A Date: 00:43 Dec 26 2012 Address: гр.София, ул. Неофит Рилски  70
+Name: N/A Type: N/A Date: 01:48 Dec 17 2012 Address: София, ул. Неофит рилски 70
+Name: Хамбара Type: бар Date: 10:27 Jul 21 2013 Address: София, ж.к. Лозенец, ул. Цветна градина 1
+Name: Централ Type: бистро Date: 13:02 Jan 24 2013 Address: гр. София, ул. Сердика 18
+Name: SBI Type: ресторант Date: 12:40 Oct 18 2016 Address: град София, ул. Искър  20
+Name: Блазе Type: ресторант Date: 12:40 Feb 23 2016 Address: град София, ул. Атанас Манчев  10
+Name: Искър Type: ресторант Date: 11:58 May 28 2013 Address: София, ул. Искър 20
+Name: Emotion Type: клуб Date: 23:08 Jan 12 2013 Address: гр.София, бул. Йерусалим, 1 Младост 1
+Name: е без име Type: кафе Date: 08:55 Jan 5 2016 Address: град София, ж.к.Надежда 2, до блок 211, ул. Св.Никола Нови
+Name: N/A Type: N/A Date: 13:09 Dec 16 2012 Address: Младост, бул, Йерусалим 1, София
+Name: Плаза Type: дискотека Date: 01:00 Mar 31 2013 Address: София, Студентски град, ул. Атанас Манчев 1
+Name: NIGHT FLIGHT Type: дискотека Date: 02:15 May 26 2014 Address: град София, бул. Мария Луиза  20
+Name: N/A Type: бар Date: 12:04 Jan 3 2013 Address: гр. София, ул. Неофит Рилски 70
+Name: Bar&Dinner Type: заведение Date: 09:02 Nov 30 2016 Address: град София, парк Гео Милев
+Name: Еко Type: механа Date: 10:21 Dec 31 2013 Address: град София, бул. Мария Луиза  22
+Name: N/A Type: N/A Date: 01:30 Mar 19 2014 Address: град София, Ул. Искър 20
+Name: N/A Type: N/A Date: 02:30 Dec 27 2012 Address: София, ул. Атанас Манчев 3
+Name: N/A Type: N/A Date: 12:27 May 27 2014 Address: град София, жк Обеля 2
+Name: Азар Type: ресторант Date: 11:28 Jan 20 2017 Address: град София, ул. Крум Попов 84
+Name: ЕТ Джуниар - Петър Мариянов Type: кафе Date: 05:12 Mar 19 2013 Address: София, кв. Надежда 2, ул. Бъдник 6
+Name: N/A Type: N/A Date: 20:00 Dec 15 2012 Address: гр. София, ж.к. Младост 1, бул. Йерусалим 1
+Name: N/A Type: N/A Date: 11:37 Feb 8 2013 Address: гр. София, ул. Атанас Манчев 10, Студенски град ресторант Блазе
+Name: N/A Type: N/A Date: 22:00 Dec 14 2012 Address: ж.к Младост, бул. Йерусалим  1, София
+Name: ЕТ Джуниар - Петър Мариянов Type: кафе Date: 05:00 Feb 21 2013 Address: София, кв. Надежда 2, ул. Бъдник 6
+Name: N/A Type: N/A Date: 06:30 Dec 22 2013 Address: гр.София,жк.Свобода,срещу блок 1, на ул.Никола Жеков
+Name: N/A Type: N/A Date: 10:44 Dec 21 2012 Address: Гр. София ул.Крум Попов 64
+Name: Арбат Type: бар Date: 03:02 Jul 29 2013 Address: София, ул. Шипка 24
+Name: Азар Type: ресторант Date: 09:40 Mar 21 2016 Address: град София, ул. Крум Попов  84
+Name: Mega Dance Type: клуб Date: 03:04 Jul 27 2013 Address: София, Студентски град, бул. Акад. Борис Стефанов, Зимен дворец на спорта
+Name: Роялс Type: заведение Date: 06:30 Dec 29 2013 Address: град София, кв. Обеля, ул. 11  9
+Name: Patlajan Type: заведение Date: 11:00 Dec 19 2015 Address: град София, кв. Надежда, бул. Ломско шосе  71
+Name: за хранене Sweet bar & grill Type: ресторант Date: 12:07 Jan 10 2017 Address: град София, ул. Св. Преображение, бл. 328
+Name: Tифани Type: заведение Date: 12:32 Dec 10 2016 Address: град София, ул. Иван Денкоглу 12
+Name: N/A Type: ресторант Date: 01:20 Jan 27 2013 Address: София, бул. Обелски път
+Name: Камино Type: бар Date: 12:44 Jan 7 2017 Address: град София, ул. Неофит Рилски 70
+Name: N/A Type: N/A Date: 08:37 Mar 16 2016 Address: град София, кв. Обеля
+Name: Ветрило 2 Type: пицария Date: 02:59 Jul 28 2013 Address: София, жк. Стрелбище ул Орехова гора 42А
+Name: Ниагара Type: ресторант Date: 11:31 Jan 7 2017 Address: град София, жк Дружба 2, ул. Обиколна 4
+Name: N/A Type: N/A Date: 13:59 Dec 9 2012 Address: София, бул. Арсеналски 5
+Name: Синатра Type: бар Date: 12:57 Mar 9 2013 Address: София, бул. Арсеналски 5
+Name: Ветрило Type: пицария Date: 02:58 Jul 29 2013 Address: София, жк Борово, ул. Солун с/у бл 43
+Name: Синатра Type: бар Date: 12:39 Mar 9 2013 Address: софия, бул. арсеналски 5
+Name: N/A Type: заведение Date: 04:50 Dec 7 2016 Address: град София, ул. Алабин 35
+Name: Синатра Type: бар Date: 01:45 Mar 9 2013 Address: гр. София, Бул. Арсеналски 5
+Name: N/A Type: N/A Date: 10:02 Dec 2 2016 Address: град София, бул. Черни връх 1
+Name: Желание Type: ресторант Date: 03:37 Jan 18 2017 Address: град София, жк Дружба 1, бл. 71
+Name: е Авалон Type: кафе Date: 05:27 Jan 18 2017 Address: град София, жк. Младост 1, бл 12 б
+Name: N/A Type: N/A Date: 01:36 Dec 8 2016 Address: град София, ул. Дякон Игнатий 5
+Name:  Mr Pizza Type: ресторант Date: 08:00 Nov 22 2016 Address: град София, ул. Верила 3
+Name: N/A Type: N/A Date: 01:00 Jan 18 2017 Address: град София, зала Фестивална
+Name: билярд E-motion Type: бар Date: 09:30 Nov 25 2016 Address: град София, бул. Йерусалим  1
+Name: Аркадия Type: ресторант Date: 12:16 Nov 25 2016 Address: град София, ул. Крум Попов 64, вх. А
+Name: N/A Type: N/A Date: 12:14 May 20 2015 Address: град София, ж.к. Люлин 2, бл. 216, вх. Г.
+Name: N/A Type: N/A Date: 01:00 Jan 1 2013 Address: гр. София, ул. Цветна Градина 1
+Name: Аркадия Type: ресторант Date: 04:23 Feb 24 2014 Address: град София, ул. Крум Попов  64
+Name: One coffee Type: кафе Date: 12:26 Jul 17 2013 Address: София, метростанция Кюри, на ъгъла на ул. Ж. Кюри и бул.Драган Цанков
+Name: Лондон Type: бар Date: 01:48 Feb 4 2014 Address: град София, ул. Проф. Джовани Горини  10
+Name: Patron Type: бар Date: 08:37 Nov 25 2016 Address: град София, ул. Иван Денкоглу 34
+Name: Vibo Bar Type: бар Date: 12:30 Mar 4 2014 Address: град София, Център, ул. Триадица  4
+Name: Vibo Bar Type: бар Date: 01:30 Feb 28 2014 Address: град София, ул. Триадица  4
+Name: Дойранъ Type: механа Date: 09:15 Nov 25 2016 Address: град София, ул. Генерал Стефан Тошев  19
+Name: - пицария Верона Type: заведение Date: 10:34 May 30 2013 Address: София, жк Младост 3, ул. Филип Аврамов 17
+Name: Аркадия Type: ресторант Date: 01:01 Mar 25 2013 Address: София, ул. Крум Попов 64, вх. А
+Name: Casa de Cuba Type: бар Date: 01:00 Oct 30 2016 Address: град София, кв. Лозенец, ул. Цветна градина  1
+Name: N/A Type: N/A Date: 13:07 Oct 10 2012 Address: гр.София, жк.Св.Троица, бул.Сливница 65 (спирка Оряхово), ТК Глобус
+Name: N/A Type: N/A Date: 10:30 Jan 7 2017 Address: град София, ул. Мария Луйза 45
+Name: N/A Type: N/A Date: 10:56 Nov 26 2016 Address: град София, Студенски град
+Name: La trattoria Type: ресторант Date: 01:42 Feb 21 2014 Address: град София, бул. Александър Малинов 51, зад сграда Метро сити
+Name: Puzzle Type: ресторант Date: 22:40 Jan 5 2013 Address: софия, ул. Цветна градина 2
+Name: N/A Type: N/A Date: 09:26 Oct 29 2016 Address: град София, бул. Черни връх  38
+Name: N/A Type: N/A Date: 05:07 Jul 15 2013 Address: София, бул. Гоце Делчев 6
+Name: Sweet bar and grill Type: ресторант Date: 05:00 Jan 5 2015 Address: град София, Парк Гео Милев
+Name: N/A Type: N/A Date: 11:16 Jan 29 2013 Address: София, ул. Димитър Хаджикоцев 12
+Name: N/A Type: N/A Date: 02:34 Apr 24 2014 Address: град София, ул. Цветна градина  1,ул. Димитър Хаджикоцев
+Name: N/A Type: N/A Date: 01:27 Feb 22 2014 Address: гр. София, ул. Атанас Узунов  87, зала Фестивална
+Name: N/A Type: N/A Date: 10:00 Dec 9 2016 Address: град София, Младост 1, бул. Йерусалим  1
+Name: в Едисон Type: заведение Date: 03:20 Mar 22 2015 Address: град София, ул. Едисон  11
+Name: N/A Type: N/A Date: 07:00 Dec 5 2013 Address: София, кв. Гео Милев, ул. Николай Коперник, зала Фестивална
+Name: Катерина Type: бар Date: 11:51 Jan 17 2017 Address: град София, пл. Славейков 7A
+Name: Edison Type: ресторант Date: 09:10 Apr 14 2016 Address: град София, ул. Едисон 11
+Name: ресторант КУБА ЛИБРЕ Type: бар Date: 01:50 Apr 28 2014 Address: град София, жк Люлин, бл. 902 П
+Name: N/A Type: N/A Date: 12:56 Apr 26 2016 Address: град София, бул. България, бензиностанция ЕКО
+Name: House of rock Type: бар Date: 01:13 Jan 8 2017 Address: град София, ул. Парчевич 26
+Name: за хранене Мераклийското Type: заведение Date: 08:31 Dec 1 2016 Address: град София, ул. Пиротска  104
+Name: Фиоре Type: ресторант Date: 10:38 Mar 24 2013 Address: София, бул. Гоце Делчев No 69
+Name: Библиотеката Type: клуб Date: 02:10 Oct 9 2016 Address: град София, бул. Васил Левски 88
+Name: N/A Type: N/A Date: 04:31 Mar 7 2015 Address: град София, ж.к. Люлин 9, бл. 902 П
+Name: N/A Type: N/A Date: 09:15 Nov 15 2016 Address: град София, бул. Шипченски проход  2
+Name: е Masaya Type: кафе Date: 05:23 Feb 22 2014 Address: град София, ул. Ген. Никола Жеков
+Name: N/A Type: N/A Date: 12:39 Dec 3 2016 Address: град София, бул. Никола Й. Вапцаров 35
+Name: Маскара Type: клуб Date: 04:20 Nov 20 2016 Address: град София, ул. Георги С. Раковски 113
+Name: Рибката Type: заведение Date: 06:20 Nov 15 2016 Address: град София, Младост 4, ул. Атанас Москов и Самара
+Name: N/A Type: клуб Date: 12:42 Jul 27 2014 Address: град София, ул. Леге 2
+Name: Магията на чергите Type: механа Date: 11:14 Dec 3 2016 Address: град София, Студентски град, бл 60
+Name: Ниагара Type: ресторант Date: 01:15 Nov 10 2016 Address: гр. София, ул. Дойран  2
+Name: N/A Type: N/A Date: 08:25 Nov 18 2016 Address: град София, бул. Александър Малинов  51
+Name: N/A Type: N/A Date: 05:36 Jun 4 2016 Address: град София, бул. Мария Луиза 45
+Name: N/A Type: N/A Date: 03:30 Dec 25 2016 Address: град София, ул. Шипка 26
+Name: N/A Type: N/A Date: 01:40 Nov 16 2016 Address: град София, бул. Ал. Стамболийски  124
+Name: N/A Type: N/A Date: 06:10 Jan 21 2017 Address: град София, ул. Делийска воденица 29
+Name: Бест Type: ресторант Date: 01:56 Jan 10 2017 Address: град София, бул. Никола Й. Вапцаров 1
+Name: пицария Sweet bar & grill Type: ресторант Date: 03:00 Oct 30 2016 Address: град София, Гео Милев, ул.Манастирска 35 /до зала Фестивална
+Name: Ямас Type: ресторант Date: 02:40 Nov 18 2016 Address: град София, ул. Дойран 15
+Name: Прадо Type: пицария Date: 08:30 Nov 14 2016 Address: град София, пл. Велчова завера 3
+Name: Swingin Hall Type: бар Date: 02:00 Dec 26 2016 Address: град София, бул. Драган Цанков 8
+Name:  SASA MALL PARADISE Type: ресторант Date: 09:20 Jan 20 2017 Address: град София, бул. Черни връх 100, Парадайз център, ниво 2
+Name: Търтей Type: бистро Date: 07:30 Nov 11 2016 Address: град София, ул. 13-ти март  12
+Name: Кандахар Type: ресторант Date: 09:30 Nov 13 2016 Address: град София, бул. Евлоги и Христо Георгиеви  4
+Name: Jim Beam Type: клуб Date: 11:43 Dec 26 2016 Address: град София, бул. Витоша 31-33
+Name: Брум Type: бар Date: 10:51 Oct 31 2016 Address: град София, ул. Цар Самуил 33
+Name: N/A Type: N/A Date: 09:32 Feb 27 2014 Address: София , ж. к.  Света Троица  на улица Трън, ресторантът се казва  Точно 
+Name: Pizza Gray (Corner) Type: ресторант Date: 03:47 Nov 5 2016 Address: град София, булевард Сливница 228
+Name: Роден край Type: механа Date: 12:55 Dec 6 2016 Address: град София , ул. Атанас Манчев 3
+Name: на хотел Камелот Type: механа Date: 10:00 Dec 31 2016 Address: Софийска област, язовир Искър, на 32 км от София, по главния път за Самоков и Боровец
+Name: Хамбара Type: бар Date: 01:23 May 6 2015 Address: град София, ул. Шести септември  22
+Name: Детски кът FUN Type: ресторант Date: 03:00 Nov 5 2016 Address: град София, Sofia Ring Mall
+Name: бивш Арес Type: ресторант Date: 08:30 Nov 4 2016 Address: град София, ж.к.Борово, ул. Разград  4
+Name: N/A Type: пицария Date: 19:00 Oct 11 2012 Address: софия, борово, ул солун бл 43
+Name: Wish Type: кафе Date: 08:10 Jan 14 2017 Address: град София, Студентски град, ул. Иван Странски 7
+Name: до детска площадка Type: заведение Date: 04:55 Jul 19 2013 Address: София, жк Дианабад, бл.6
+Name: Вкусното кебабче Type: ресторант Date: 12:01 Jul 22 2013 Address: София, ул. Сан Стефано 20
+Name: Цариград Type: механа Date: 12:01 Jan 7 2017 Address: град София, бул. Цариградско шосе 113 Б
+Name: N/A Type: N/A Date: 12:08 Nov 17 2016 Address: град София, Централна ЖП гара, предгаров площад (срещу тоалетната с бели чадъри)
+Name: е ИПАН Type: кафе Date: 06:48 Jan 13 2014 Address: град София, жк Разсадника, бл 20Б, вх Б
+Name: Рио Type: заведение Date: 20:27 Jan 11 2013 Address: София ж.к. Западен парк срещу 135-то СОУ Ян Амос Коменски ул Суходолска
+Name: Happy Type: ресторант Date: 09:09 Oct 14 2016 Address: град София, бул, Черни връх 100
+Name: Happy paradise mall Type: ресторант Date: 02:25 Oct 2 2013 Address: софия, бул. черни връх 100
+Name: N/A Type: заведение Date: 13:00 Oct 27 2012 Address: София, бул.П.ДЕРТЛИЕВ 60
+Name: N/A Type: N/A Date: 08:59 Oct 10 2015 Address: град София, бул. Черни връх  100
+Name: Ла Кубанита Type: ресторант Date: 12:50 Jul 20 2013 Address: София, ул.Битоля 2
+Name: Трифон Зарезан Type: бирария Date: 12:17 Jan 29 2015 Address: град София, бул. Вардар, до бл. 34
+Name: Елеа Type: ресторант Date: 08:30 Jan 29 2014 Address: град софия, Бул. Черни връх, Парадайс център
+Name: Playground Type: заведение Date: 11:00 Sep 20 2013 Address: София, бул. Черни връх 100
+Name: N/A Type: ресторант Date: 13:29 Oct 21 2012 Address: гр. София , ул.Суходолска  2 ж.к. Западен парк , срещу бл.52, 1373
+Name: Табакера Type: кафе Date: 09:32 Nov 1 2013 Address: София, жк. Люлин 9, ул. Тодор Влайков 27
+Name:  Crystal burger & steak Type: ресторант Date: 06:20 Nov 13 2016 Address: град София, ул. Околовръстен път 214, Sofia ring mall, етаж 3
+Name: N/A Type: N/A Date: 08:30 Nov 20 2015 Address: град София, бул. Царица Йоанна  15, Търговски център МегаМол
+Name: N/A Type: N/A Date: 22:00 Dec 14 2013 Address: София, улица Ген. Асен Николов 23
+Name: N/A Type: заведение Date: 11:43 Jan 3 2013 Address: София, ул.Тодор Влайков 27
+Name: N/A Type: N/A Date: 02:16 Nov 18 2016 Address: град София, бул. Йерусалим  1
+Name: Етно Type: ресторант Date: 08:14 Nov 18 2016 Address: град София, ул. Алабин  35
+Name: N/A Type: N/A Date: 22:15 Nov 3 2012 Address: гр. София бул. Сливница
+Name: Пойзън (Poison) Type: бар Date: 11:53 Nov 18 2016 Address: град София, ул. Аксаков 11
+Name: N/A Type: N/A Date: 10:30 Mar 7 2015 Address: град София, бул. Йерусалим
+Name: N/A Type: N/A Date: 01:04 Jan 15 2015 Address: град София, жк Люлин 1, бл. 033
+Name: N/A Type: N/A Date: 02:08 Nov 14 2016 Address: град София, зала Фестивална
+Name: Sweet Bar & Grill Type: ресторант Date: 11:56 Nov 22 2016 Address: град София, жк Младост 3, ул. Свето Преображение бл. 328
+Name: N/A Type: N/A Date: 03:04 Mar 21 2013 Address: София, жк Люлин 1, бл.033
+Name: N/A Type: N/A Date: 13:45 Dec 4 2012 Address: София булевард ломско шосе КАФЕ-АВТОМИВКА РЕЛАКС
+Name: N/A Type: заведение Date: 13:35 Oct 9 2012 Address: София, кв. Стрелбище, ул. Орехова гора 42А
+Name: Бар нов берлин Type: бар Date: 00:17 Nov 22 2013 Address: софия, Султан тепе 14
+Name: N/A Type: N/A Date: 01:45 Dec 27 2014 Address: град София, ж.к. Връбница 2, ул. Златен клас, магазин Т-маркет
+Name: N/A Type: N/A Date: 01:59 Oct 6 2012 Address: София, площад Славейков 4
+Name: Тайни Type: ресторант Date: 01:00 Jun 13 2013 Address: софия, Черковна 70
+Name: Patlajan Type: заведение Date: 03:56 Mar 15 2015 Address: град София, бул. Ломско шосе  171
+Name: N/A Type: N/A Date: 10:40 Oct 16 2016 Address: град София, ул. Днепър  2
+Name: Нов Берлин Type: клуб Date: 08:37 Dec 6 2013 Address: София, ул. Султан Тепе 18
+Name: N/A Type: кафе Date: 19:53 Oct 8 2012 Address: гр. София, ул.Джовани Горини  4
+Name: Grill House Type: ресторант Date: 03:00 May 4 2014 Address: град София, на входа на Южен парк от към бул. Витоша
+Name: N/A Type: N/A Date: 16:29 Dec 12 2013 Address: София, кръстовището на Славянска и Шишман
+Name: N/A Type: N/A Date: 01:30 Jul 8 2013 Address: София, жк Люлин 8, бул. Царица Йоана 65
+Name: N/A Type: N/A Date: 01:06 May 14 2014 Address: град София, кв. Стрелбище, ул. Златна врата  4, до ул. Нишава
+Name: N/A Type: N/A Date: 22:41 Dec 26 2012 Address: София, пл. Славейков  7А
+Name: sweet bar and grill Type: ресторант Date: 09:00 May 3 2014 Address: град София, Зала Фестивална до стадион Академик
+Name: N/A Type: N/A Date: 00:20 Dec 14 2013 Address: София, Народно Събрание 4
+Name: Happy  Type: ресторант Date: 08:00 May 10 2014 Address: град София, бул. Г.С. Раковски  145, срещу НАТФИЗ
+Name: N/A Type: N/A Date: 13:11 Jan 9 2013 Address: гр. София, пл. Славейков  7А
+Name: N/A Type: N/A Date: 21:17 Jan 9 2013 Address: София, ул.Калоян  6 /Хотел Рила/
+Name: Катерина Type: бар Date: 01:32 Jan 9 2013 Address: гр. София, пл. Славейков  7А
+Name: N/A Type: N/A Date: 01:17 Feb 24 2015 Address: град София, ул. Захари Стоянов  27, ж.к. Люлин 3
+Name: Bar&Dinner Fiore Type: кафе Date: 17:10 Jan 13 2013 Address: София жк Бояна, ул. Иваница Данчев 17
+Name: Катерина Type: бар Date: 07:41 Dec 7 2013 Address: София, площад Славейков 7А, в безистена
+Name: сладкарница Даниели-ИН ООД Type: кафе Date: 03:37 Apr 14 2015 Address: град София, предгаров площад, Трафик Маркет, офис 59
+Name: Texas Type: бистро Date: 09:41 Feb 5 2013 Address: гр. София, ж-к Гео Милев, ул.Лидице 33 (на ъгъла с ул.Постоянство)
+Name: N/A Type: N/A Date: 05:20 May 14 2016 Address: град София, Галакси мол, бул. Шипченски проход  18
+Name: N/A Type: N/A Date: 06:30 Dec 12 2013 Address: София, Централна автогара - Студентски град
+Name: N/A Type: N/A Date: 07:20 Oct 14 2012 Address: гр. София, ул. Верила 3
+Name: е в офис сграда -Търговски център 2000 Type: кафе Date: 02:36 Apr 15 2014 Address: град София, Мария-Луиза,  9-11
+Name: Club 365 Type: заведение Date: 01:12 Oct 27 2013 Address: София, ул. Шипка 1
+Name: N/A Type: N/A Date: 06:28 Mar 11 2014 Address: Град София, ул. Лидице 33
+Name: N/A Type: N/A Date: 07:00 Feb 28 2013 Address: град София, бул.Ал.Пушкин, площад Знаме на мира
+Name: N/A Type: N/A Date: 23:39 Dec 14 2012 Address: София, булевард Васил Левски, срещу Народната библиотека
+Name: 365 Type: бар Date: 11:00 Jun 28 2013 Address: София, Кръстовището на ул. Оборище и бул. Васил Левски
+Name: N/A Type: клуб Date: 08:30 Sep 6 2013 Address: гр. София, бул. Ал. Стамболийски 29
+Name: N/A Type: кафе Date: 18:26 Jan 6 2013 Address: София Бул. Ал. Стамболийски 81
+Name: Кайрака Type: ресторант Date: 08:26 Sep 30 2015 Address: град София, Дружба 2, ул. Обиколна, бл. 271
+Name: Sweet Type: заведение Date: 10:28 Mar 28 2014 Address: град София, жк. Гео милев, ул. Атанас Узунов, зачла Фестивална
+Name: и кафене  365 Type: бар Date: 12:13 Feb 13 2016 Address: град София , ул. Шипка  1
+Name: N/A Type: N/A Date: 10:55 Oct 10 2012 Address: София, ул. Тодор Каблешков 45
+Name: N/A Type: N/A Date: 10:58 Oct 10 2012 Address: София, Тодор Каблешков 45
+Name: N/A Type: N/A Date: 11:38 Oct 10 2012 Address: София, ж.к. Стрелбище, ул. Хайдушка гора и ул. Орехова гора
+Name: BurgeR in House Type: заведение Date: 01:08 Sep 22 2015 Address: град София, Околовръстен път  214
+Name: N/A Type: N/A Date: 10:46 Jan 31 2013 Address: София, жк младост4, бл. 470
+Name: N/A Type: N/A Date: 10:45 Sep 18 2013 Address: София, бул. Витоша 158
+Name: Трифон Зарезан Type: механа Date: 02:31 Feb 12 2014 Address: град София, ул. Димитър Манов 16
+Name: N/A Type: N/A Date: 01:19 Jan 27 2013 Address: София, Бул. Васил Левски 88
+Name: N/A Type: заведение Date: 11:59 Oct 17 2012 Address: гр. София, ул. Шести септември между Граф Игнатиев и Хан Крум
+Name: Готвача Type: заведение Date: 02:01 Feb 26 2014 Address: град София, ул. Милин камък
+Name: N/A Type: N/A Date: 01:38 Dec 26 2012 Address: гр. София, бул. Васил Левски  88
+Name: N/A Type: N/A Date: 23:15 Jan 4 2013 Address: София,Бул. Васил Левски 88
+Name: N/A Type: заведение Date: 01:13 Oct 17 2012 Address: гр. София, Пл. Народно събрание  3
+Name: Трифон Зарезан Type: механа Date: 04:29 Feb 8 2014 Address: град София, ул. Димитър Манов  16
+Name: N/A Type: N/A Date: 01:47 Dec 25 2012 Address: София, бул. Васил Левски 88, сградата на Националната библиотека
+Name: Chique Type: ресторант Date: 12:40 Mar 15 2013 Address: София, Ул. Димитър Манов 17
+Name: di modulo Type: бар Date: 00:42 Nov 30 2013 Address: софия, ул. зар самуил 50
+Name: N/A Type: N/A Date: 01:58 Dec 26 2012 Address: гр. София, бул. Васил Левски  88
+Name: N/A Type: N/A Date: 12:44 Mar 15 2014 Address: град София, ул.Цар Самуил 50
+Name: N/A Type: N/A Date: 09:24 Feb 4 2014 Address: град София, Студентски град, до блок 60
+Name: Friend Type: ресторант Date: 12:50 Mar 4 2016 Address: град София, жк Красна поляна, ул. Възкресение 62
+Name: е Катерина Type: кафе Date: 05:07 Jan 1 2014 Address: град София, площад Славейков  7А
+Name: La Scara Type: ресторант Date: 09:22 Feb 4 2014 Address: София, Студентски град, до блок 60
+Name: Катерина Type: кафе Date: 07:00 Jan 4 2014 Address: град София, пл. Славейков 7А, безистена
+Name: N/A Type: N/A Date: 08:29 Mar 16 2015 Address: град София, ж.к. Младост 3, ул. Свето Преображение, бл. 328
+Name: LaSkara Type: ресторант Date: 02:52 Jan 8 2014 Address: град София, Студентски град, до блок 60
+Name: Винарната Type: пицария Date: 18:45 Jan 31 2013 Address: гр.София, кв. Овча купел 1, бул. Монтевидео 43
+Name: N/A Type: N/A Date: 02:25 Feb 20 2016 Address: град София, ж.к. Младост 3, ул. Свето Преображение бл. 328
+Name: Трафа Type: бирария Date: 08:27 Feb 5 2016 Address: град София, жк Овча купел, ул. Анастасия Димитрова
+Name: Sweet bar & gril Type: ресторант Date: 12:20 May 13 2016 Address: град София, жк Младост 3, ул. Свето Преображение, бл. 328
+Name: N/A Type: N/A Date: 12:41 Feb 12 2015 Address: град София
+Name: N/A Type: N/A Date: 08:50 Feb 11 2014 Address: град София , Жк. Овча Купел-1 Бл414
+Name: Тiffany Type: бар Date: 12:10 Feb 8 2014 Address: град София, ул. Денкоглу  12-14
+Name: Тифани Type: клуб Date: 11:42 Mar 30 2013 Address: София, ул Иван Денкоглу 12
+Name: Каручката Type: заведение Date: 12:00 Oct 5 2013 Address: София, бул. Мария Луиза 45
+Name: TIFFANY Type: клуб Date: 12:10 Jun 4 2016 Address: град София, ул.Иван Денкогу 12-14
+Name: N/A Type: N/A Date: 09:30 Dec 22 2015 Address: град София , Зона Б-18, бл. 8
+Name: N/A Type: N/A Date: 22:07 Feb 9 2013 Address: София, Бул. Мария луиза 45
+Name: Тифани Type: бар Date: 01:00 Feb 28 2016 Address: град София, ул. Иван Денкоглу  12
+Name: Хъшове Type: заведение Date: 09:32 Sep 23 2016 Address: град София, бул. Мария Луйза  45
+Name: N/A Type: N/A Date: 11:05 Apr 3 2015 Address: град София, Младост 3, ул. Св.Преображение до бл.328
+Name: N/A Type: N/A Date: 12:56 Jan 10 2015 Address: град София, бул. Мария Луиза  45
+Name: Хамбара Type: бар Date: 12:17 Feb 14 2013 Address: гр. София, ул. 6ти септември 22
+Name: LaScara Type: ресторант Date: 04:17 Jan 31 2014 Address: град София, Студентски град, до блок 60
+Name: N/A Type: N/A Date: 07:32 Apr 2 2013 Address: гр. София, пл. България  1 (подлеза на НДК), бинго НОВА
+Name: Хамбара Type: бар Date: 07:45 Mar 3 2013 Address: София,.ул. 6-ти септември 22.
+Name: N/A Type: N/A Date: 12:30 Feb 21 2014 Address: град София, Младост 4, блок 418
+Name: Friends в Красна поляна Type: пицария Date: 17:18 Jan 6 2013 Address: София бул. Възкресение 62
+Name: N/A Type: N/A Date: 02:20 Jan 1 2015 Address: град София, площад България 1, в сградата на НДК
+Name: Апартамента Type: кафе Date: 01:47 Jan 30 2013 Address: София, ул. Неофит Рилски 68
+Name: Friends Type: пицария Date: 04:54 Feb 13 2013 Address: София, Красна поляна, бул. Възкресение 62
+Name: Оливър Type: пицария Date: 10:29 May 20 2014 Address: град София, жк Младост 4, бл. 425А
+Name: N/A Type: бар Date: 23:51 Dec 14 2012 Address: гр. София ул. 6-ти септември 22
+Name: N/A Type: N/A Date: 01:51 Jan 30 2013 Address: София, бул. България 1
+Name: N/A Type: N/A Date: 06:39 Dec 29 2013 Address: град София, бул. Черни връх  100
+Name: N/A Type: бар Date: 01:05 Jan 27 2013 Address: гр.София, ул. 6-ти септември 22
+Name: Чергите Type: механа Date: 12:00 Nov 26 2016 Address: град София, Студенски град, ул. Проф. Д-р Иван Странски (до бл.60)
+Name: N/A Type: ресторант Date: 07:30 Oct 22 2013 Address: София, бул. Черни връх 100
+Name: Dream bar Type: заведение Date: 01:52 Sep 16 2016 Address: град София, бул. България 1
+Name: N/A Type: N/A Date: 02:40 Nov 27 2016 Address: град София, ул. Граф Игнатиев 1
+Name: Корнер Type: бар Date: 12:04 Nov 27 2016 Address: град София, жк. Лозенец, Никола Вапцаров  35
+Name: N/A Type: кафе Date: 08:27 Jan 9 2014 Address: град София, бул. Скобелев  62
+Name: Кошарите Type: ресторант Date: 09:40 Sep 23 2016 Address: град София, бул. Никола Й. Вапцаров  1
+Name: Steppenwolf Type: бар Date: 00:11 Nov 22 2013 Address: София, Бул. Васил Левски 150
+Name: La Scara - град София Type: ресторант Date: 12:31 Feb 1 2014 Address: град София, Студентски град, до блок 60
+Name: N/A Type: заведение Date: 06:12 Nov 2 2015 Address: град София, ул.Търговска  19
+Name: Вандевил Type: пицария Date: 01:21 Nov 27 2016 Address: град София, ул. Стария Войн, до блок 23
+Name: Джунглата Type: пицария Date: 07:00 Mar 22 2015 Address: град София, жк Надежда 4, ул.Търговска  7
+Name: N/A Type: бар Date: 00:57 Dec 8 2013 Address: София, ул.Будапеща  6
+Name: Корнер Type: бар Date: 04:25 Feb 25 2014 Address: град София, бул. сливница 228
+Name: N/A Type: N/A Date: 01:45 Jan 6 2015 Address: град София, бул. Сливница  228
+Name: Зорбас Type: ресторант Date: 09:02 Mar 29 2015 Address: град София, кв. Лозенец, бул. Черни връх  6
+Name: Папа Джо Type: ресторант Date: 09:45 Feb 22 2013 Address: София, ул. Св.Св.Кирил и Методий 12
+Name: Папа Джо Type: заведение Date: 09:06 Oct 9 2015 Address: град София, ул. Св.Св.Кирил и Методий  12
+Name: N/A Type: N/A Date: 12:05 May 17 2014 Address: град София , Бул. Цар Освободител # 7 Военен клуб
+Name: N/A Type: N/A Date: 07:30 Dec 23 2013 Address: София, Бул Цар Освободител
+Name: N/A Type: N/A Date: 13:54 Dec 8 2012 Address: гр. София, ж.к. Люлин 10, бл. 146
+Name: N/A Type: N/A Date: 08:30 Jan 10 2014 Address: град София, бул. Цар Освободител, срещу Руската църква
+Name: Бедрум Type: клуб Date: 01:13 Jan 27 2013 Address: гр. София, площад Народно събрание 3
+Name: N/A Type: N/A Date: 23:00 Nov 2 2012 Address: София, Никола Вапцаров 35
+Name: N/A Type: N/A Date: 10:47 Dec 22 2013 Address: София, Обеля 1, бл. 109
+Name: N/A Type: N/A Date: 19:00 Dec 14 2012 Address: Милин камък 14 Арабията, гр. София
+Name: The-Corner Bar Type: ресторант Date: 08:56 Nov 26 2013 Address: София, бул. Никола Вапцаров  35, ет.8
+Name: N/A Type: N/A Date: 10:21 Dec 16 2012 Address: бул. Никола Вапцаров 35, софия
+Name: The corner Type: бар Date: 10:50 Mar 21 2015 Address: град София, бул. Никола Вапцаров  35, етаж 8
+Name: Sky Bar & Dinner The Corner Type: бар Date: 01:00 Jul 7 2013 Address: София, бул. Никола Й. Вапцаров 35, ет.8
+Name: Чергите Type: ресторант Date: 09:55 Dec 21 2013 Address: София, Студентски град бл.60
+Name: N/A Type: N/A Date: 09:32 Mar 25 2014 Address: град София, Стидентски Грaд, бл,60
+Name: Магията на чергите Type: ресторант Date: 11:00 Jan 23 2014 Address: град София, Студентски град, бл.60, вх.Б
+Name: Градина Type: ресторант Date: 05:42 Nov 15 2015 Address: град София, Студентски град, бл. 60
+Name: N/A Type: ресторант Date: 02:23 Apr 17 2014 Address: град СОФИЯ, ул. Дякон Игнатий 5, в сградата на Народния театър, служебен вход, етаж пети.
+Name:  на Народен театър Иван Вазов Type: ресторант Date: 01:00 May 30 2014 Address: град София, ул. Дякон Игнатий  5
+Name: N/A Type: N/A Date: 09:00 Dec 21 2012 Address: София, Булевард Копенхаген 15, Дружба 2
+Name: е Joy Type: кафе Date: 09:50 Mar 19 2013 Address: София, бул. Андрей Ляпчев 71
+Name: Кристал Type: ресторант Date: 02:00 Mar 22 2015 Address: град София, Обеля, бул. Ломско шосе 207
+Name: Синия лъв Type: ресторант Date: 18:24 Jan 15 2013 Address: София ул. Иван Вазов 6
+Name: Intrigue Bar&Dinner Type: ресторант Date: 13:04 Jan 15 2013 Address: гр.София, бул. Витоша 102
+Name: кафе Kристал Type: ресторант Date: 10:00 Nov 3 2013 Address: София, бул. Ломско Шосе 207
+Name: N/A Type: заведение Date: 20:00 Nov 28 2012 Address: София, ул. Андрей Ляпчев 56, стъклена сграда на няколко етажа, заведението е на първи и втори етаж
+Name: maze Type: клуб Date: 01:23 Oct 20 2013 Address: софия, Хр белчев 1
+Name: Кайрака Type: ресторант Date: 08:40 Jul 14 2015 Address: град София, жк Дружба 2, бл. 271
+Name: Кристал 2000 Type: клуб Date: 07:30 Oct 6 2013 Address: София,, бул.Ломско шосе 207
+Name: за хранене и пиене Intrigue bar & dinner Type: заведение Date: 08:50 Jan 23 2013 Address: София, бул. Витоша 102
+Name:  на спортен комплекс Кристал Type: ресторант Date: 12:30 Feb 13 2016 Address: град София, бул. Ломско шосе 207
+Name: MAZE Type: клуб Date: 22:00 Dec 11 2013 Address: град София, улица Христо Белчев  1
+Name: N/A Type: N/A Date: 22:15 Dec 20 2012 Address: София, жк. Дружба 2, бл. 271
+Name: N/A Type: N/A Date: 11:38 Oct 15 2012 Address: София, бул. Патриарх Евтимий 10
+Name: N/A Type: N/A Date: 01:51 Jan 29 2013 Address: София, бул. Витоша 102
+Name: N/A Type: N/A Date: 11:42 Oct 15 2012 Address: гр. София бул. акад. Ив. Ев. Гешов 5
+Name: Гондола Type: ресторант Date: 09:00 Apr 5 2015 Address: град София, ж.к. Дружба-2, бл. 226 (партера)
+Name: Мазе Type: заведение Date: 06:38 Jan 3 2015 Address: град София, ул. Христо Белчев 1
+Name: N/A Type: N/A Date: 23:15 Dec 12 2013 Address: 1 Христо Белчев, 1000, София
+Name: Блазе Type: ресторант Date: 12:50 Jan 5 2015 Address: град София, Студенски град, ул. Атанас Манчев  10
+Name: N/A Type: N/A Date: 12:58 Dec 18 2012 Address: София Люлин 10, бл. 146
+Name: N/A Type: N/A Date: 17:43 Jan 8 2013 Address: гр. София, бул Витоша 102
+Name: Блазе Type: ресторант Date: 12:37 Feb 12 2015 Address: град София, ул. Атанас Манчев  1
+Name: Блазе в Студентски град Type: ресторант Date: 12:48 Feb 5 2015 Address: град София, Студентски град, ул. Атанас Манчев 10
+Name: Блазе Type: заведение Date: 01:32 Mar 11 2015 Address: град София, Студентски град, ул. Атанас Манчев  10
+Name: Блазе Type: ресторант Date: 12:45 Mar 31 2015 Address: град София, Студентски град, ул. Атанас Манчев  10
+Name: Пикантино Type: бистро Date: 19:00 Feb 6 2013 Address: гр. София, ул. 692 10 А, кв. Овча Купел
+Name: N/A Type: заведение Date: 10:59 Oct 16 2012 Address: Град София, ул. Христо Белчев  13
+Name: N/A Type: заведение Date: 11:02 Oct 16 2012 Address: гр. София пл. Света неделя  3
+Name: Комитите Type: механа Date: 07:00 Feb 14 2015 Address: гр. София, кв.Овча купел
+Name: сладкарница Уиш Type: кафе Date: 10:30 Jan 2 2014 Address: град София, Студентски град, ул. Проф. Иван Странски  7
+Name: Градина Type: ресторант Date: 02:15 Oct 9 2016 Address: град София, Студентски град, ул. Проф. д-р Иван Странски в блок 60В
+Name: N/A Type: N/A Date: 11:56 Dec 11 2015 Address: град София бул. Никола Петков 52
+Name: N/A Type: N/A Date: 10:40 Nov 24 2012 Address: София, Д-р Иван Странски 5
+Name: Евъргрийн Type: ресторант Date: 09:30 Dec 19 2015 Address: град София, Студентски град, ул. Проф. д-р Иван Странски, бл. 57 вх. А
+Name: Винарната Type: пицария Date: 12:34 Dec 28 2015 Address: град София, кв. Овча купел 1, бул. Монтевидео  43
+Name: Делфинчето Type: кръчма Date: 09:00 Apr 5 2015 Address: град София, ул. Проф. Кирил Попов 52 (Студентски град)
+Name: Blaze Type: бар Date: 08:00 Oct 5 2013 Address: град София, Ул. Парчевич 26
+Name: Синатра Type: бар Date: 01:00 Mar 31 2013 Address: София, бул. Арсеналски 5
+Name: в BG Wine Bar Type: ресторант Date: 07:45 Mar 30 2016 Address: град София, ул. Парчевич 32
+Name: N/A Type: N/A Date: 09:00 Dec 28 2013 Address: София, Парчевич 33
+Name: N/A Type: заведение Date: 05:13 Dec 21 2013 Address: София, ул. парчевич 26
+Name: Червената къща Type: ресторант Date: 10:44 Dec 16 2013 Address: София, ул. Парчевич 33
+Name: Roderic Type: бар Date: 01:30 Feb 14 2014 Address: град София, ул. Цар Иван Шишман  27
+Name: N/A Type: заведение Date: 01:46 Nov 22 2012 Address: София, пл Славейков 7А
+Name: N/A Type: бар Date: 22:50 Oct 20 2012 Address: София, пл. Славейков  7А
+Name: Джепето Type: пицария Date: 09:00 Oct 25 2013 Address: град София, бул. Панчо Владигеров 44
+Name: N/A Type: заведение Date: 01:11 Nov 21 2012 Address: софия, пл. славейков
+Name: N/A Type: N/A Date: 01:03 Dec 17 2013 Address: София, Цар Иван Шишман 22
+Name: N/A Type: N/A Date: 03:00 Jan 22 2013 Address: София, Надежда 3 ул. Бели дунав
+Name: N/A Type: N/A Date: 13:37 Dec 18 2012 Address: О!Шипка в София, жк.Люлин 10,бл.146
+Name: N/A Type: N/A Date: 04:00 Nov 23 2013 Address: София, ж.к. Люлин-3, бул. Панчо Владигеров 44
+Name: N/A Type: N/A Date: 10:46 Mar 17 2014 Address: Ул. Александър Екзарх, Бл. 224, град София
+Name: Jet Rock Type: бар Date: 08:00 Sep 28 2013 Address: София, бул. Тотлебен 38
+Name: N/A Type: N/A Date: 09:30 Apr 5 2014 Address: град София, бул. Академик Иван Евстатиев Гешов
+Name: N/A Type: N/A Date: 06:00 Dec 23 2013 Address: София ул. Тодорини кукли бл. 19
+Name: N/A Type: N/A Date: 09:40 Apr 5 2014 Address: град София, Бул. Акад. Иван Гешов
+Name: N/A Type: бар Date: 11:07 Oct 15 2012 Address: гр. София ул. 6-ти септември 22 (ул. Хан Крум)
+Name: N/A Type: механа Date: 13:47 Jan 3 2013 Address: гр. София, ул. Лидице  31
+Name: N/A Type: N/A Date: 14:03 Dec 12 2013 Address: София, ж.к. Гео Милев, ул. Лидице  31
+Name: N/A Type: N/A Date: 07:00 Feb 7 2016 Address: град София, ул. Александър Фон Хумболт  35А
+Name: N/A Type: заведение Date: 04:07 Jan 1 2014 Address: София, ул. Лидице 31,
+Name: N/A Type: N/A Date: 16:59 Dec 23 2012 Address: София, Студентски град, ул. 8 декември
+Name: Таван Type: ресторант Date: 09:30 Jan 11 2014 Address: град София бул.България 98 секция D етаж 12
+Name: Грация Type: кафе Date: 11:41 Apr 11 2014 Address: град София, ул. Самоковско шосе  78
+Name: N/A Type: N/A Date: 01:00 Jan 1 2016 Address: град София, ул. Витоша  18
+Name: Чочи Type: клуб Date: 04:27 May 13 2015 Address: град София, кв. Надежда 4, ул. Йордан Хаджиконстантинов  133
+Name: Bar & Grill Grillo Type: бар Date: 07:30 Jan 9 2014 Address: град София, бул. Проф. Цветан Лазаров 13
+Name: N/A Type: N/A Date: 07:31 Jan 16 2013 Address: София ул.Камчия4/Слатина/
+Name: Амиго Type: ресторант Date: 08:22 Dec 5 2015 Address: град София, ж.к. Надежда, бул. Ломско шосе  113
+Name: N/A Type: N/A Date: 11:24 Jul 3 2014 Address: град София, ж.к. Дружба-2, бл.271
+Name: N/A Type: N/A Date: 05:32 Mar 25 2015 Address: град София, ул. Цветна градина  5
+Name: N/A Type: заведение Date: 21:30 Oct 31 2012 Address: гр.София ул. 8-ми декември 13,Студентски град, кафе Pascucci
+Name: Paradise House Type: ресторант Date: 02:07 Mar 29 2013 Address: София, Горубляне, ул. 5-ти ноември 1
+Name: N/A Type: N/A Date: 11:33 Jan 17 2013 Address: София, Център,ул Г.Бенковски и ул.Аксаков
+Name: VS Bar Dinner Type: ресторант Date: 02:58 Mar 21 2013 Address: София, жк Люлин, бул. Царица Йоана 65
+Name: N/A Type: N/A Date: 10:30 Oct 15 2012 Address: ул. Аксаков 18, гр. София
+Name: N/A Type: N/A Date: 10:32 Oct 15 2012 Address: гр. София кв. Борово
+Name: Nuovo Type: ресторант Date: 08:30 Jan 8 2016 Address: град София, бул. Гоце Делчев  6
+Name: Азуро Type: ресторант Date: 04:04 Apr 21 2013 Address: София, бул България 49A 
+Name: BESO bar & dinner Type: ресторант Date: 04:00 Jan 24 2014 Address: град София, ул. Тодор Каблешков  1
+Name: Mr. Pizza Type: пицария Date: 10:03 May 15 2014 Address: град София, бул. България 49Б
+Name: Sole Mio Type: пицария Date: 21:10 Jan 25 2013 Address: гр. София, Люлин 2 срещу блок 204 ул. Александър Станишев
+Name: N/A Type: N/A Date: 10:36 Oct 15 2012 Address: гр. София, пл. Народно събрание  10
+Name: N/A Type: N/A Date: 07:44 Dec 21 2015 Address: град София, бул. Йерусалим  22
+Name: N/A Type: N/A Date: 06:30 Feb 27 2014 Address: град София, Ул.Тодор Каблешков 1
+Name: N/A Type: N/A Date: 20:05 Dec 20 2012 Address: София, Бул Тодор каблешков 1
+Name: N/A Type: N/A Date: 09:00 Mar 25 2015 Address: град София, Младост 1А, до метростанцията
+Name: N/A Type: N/A Date: 10:38 Oct 15 2012 Address: гр. София, пл. Народно събрание  10
+Name: механа Мираж Type: ресторант Date: 09:20 Feb 15 2013 Address: София, Тодор Каблешков 5
+Name: Beso Type: ресторант Date: 05:38 Jan 11 2015 Address: град София, ж.к. Борово, ул. Тодор Каблешков 1
+Name: N/A Type: N/A Date: 01:45 Jan 16 2015 Address: град София, ул. Т. Каблешков  1
+Name: механа Мираж Type: ресторант Date: 09:20 Feb 15 2013 Address: София, Тодор каблешков 5
+Name: Вито Type: ресторант Date: 09:30 Mar 8 2014 Address: София, бул. Арсеналски (срещу Спартак)
+Name: N/A Type: N/A Date: 10:42 Oct 15 2012 Address: гр. София ул. Граф Игнатиев 1
+Name: Happy Лозенец Type: ресторант Date: 09:15 Jun 26 2015 Address: град София, ул. Богатица  36
+Name: е Coffee king Type: кафе Date: 12:28 Mar 24 2013 Address: София, ул. Иван Боримечката 3А
+Name: N/A Type: N/A Date: 10:20 Dec 24 2012 Address: София, Ул. Янтра, No1
+Name: N/A Type: N/A Date: 20:00 Dec 23 2012 Address: София, Ъгъла на бул. Джеймс Баучер и ул. Богатица
+Name:  Fish and Grill  Type: ресторант Date: 09:54 Jun 18 2015 Address: град София, бул. Арсеналски  4
+Name:  Type: пицария Date: 02:13 Feb 7 2013 Address: гр. София, кв. Кремиковци; бл. 27
+Name: Fish and grill Type: ресторант Date: 09:40 Jun 18 2015 Address: град София, бул. Арсеналски  4
+Name: Пицерия Виктория на Черковна Type: ресторант Date: 09:30 Jan 11 2013 Address: София, София 1505, ул. Черковна 75B
+Name: N/A Type: N/A Date: 11:00 Nov 16 2013 Address: София, ъгъла на бул Драган Цанков и ул Добри Войников
+Name: за бързо хранене Type: заведение Date: 03:02 Dec 1 2015 Address: град София, ул. Марагидик  48
+Name: ресторант Марая Type: бар Date: 16:30 Jan 8 2013 Address: бул. Евлоги Георгиев и бул. Христо Смирненски, гр. София
+Name: N/A Type: N/A Date: 21:20 Dec 14 2012 Address: София, София ул.Черковна57
+Name: N/A Type: N/A Date: 13:33 Oct 18 2012 Address: гр. София, бул. Христо Смирненски 1
+Name: Марайа Type: бар Date: 04:51 Feb 9 2013 Address: София, бул.Христо Смирненски и бул.Евлоги Георгиев
+Name: Старата Круша Type: ресторант Date: 14:26 Nov 21 2013 Address: София, Бояна, ул. Беловодски път 6
+Name: Старата Круша Type: ресторант Date: 01:00 Nov 7 2013 Address: София, кв. Бояна, ул. Беловодски път 6
+Name: N/A Type: N/A Date: 10:00 Feb 7 2015 Address: София, улица Иваница Данчев 23, 1616 София
+Name: Rich house Type: заведение Date: 09:14 Oct 20 2013 Address: софия, черковна 87
+Name: Макс Type: бирария Date: 04:56 Mar 22 2015 Address: град София, жк Младост 2
+Name: N/A Type: N/A Date: 09:12 Dec 16 2013 Address: София, ул. Черковна 87
+Name: Rich house Type: ресторант Date: 02:00 Feb 28 2015 Address: град София, ул. Черковна  87
+Name: пицария Тоти Type: ресторант Date: 08:54 Jan 25 2013 Address: София, ул. Свети Киприян 30
+Name: Патладжан  Type: клуб Date: 10:50 Mar 18 2013 Address: София, жк. Надежда, бул. Ломско шосе 71
+Name: Тоти Type: пицария Date: 06:18 Nov 26 2013 Address: София, ж.к. Младост 2, ул. Свети Киприян 30
+Name: N/A Type: N/A Date: 12:35 Jan 22 2014 Address: град София, кв. Надежда, бул. Ломско шосе  71
+Name: Слатина Type: ресторант Date: 08:30 Nov 28 2015 Address: град София, ул. Гео Милев 167, ул. Слатинска
+Name: N/A Type: N/A Date: 11:19 Nov 8 2013 Address: София , Мусагеница
+Name: swinging hall Type: бар Date: 11:50 Oct 19 2013 Address: София, булевард Драган Цанков 8
+Name: Бесо Type: ресторант Date: 05:21 Nov 21 2013 Address: София, ул. Тодор Каблешков 41
+Name: N/A Type: N/A Date: 13:39 Nov 13 2012 Address: София, Тодор Каблешков 45
+Name: Swingin Hall Type: клуб Date: 01:00 Oct 20 2013 Address: София, булевард Драган Цанков 8
+Name: N/A Type: N/A Date: 02:30 Dec 10 2013 Address: София, Ул.Цариградско шосе
+Name: Swinging Hall Type: клуб Date: 11:00 Oct 11 2013 Address: бул. Драган Цанков 8, София
+Name: N/A Type: заведение Date: 13:28 Dec 19 2012 Address: София, бул. Тодор Каблешков1
+Name: аперитив Дени Type: кафе Date: 07:43 Apr 17 2016 Address: град София, ж.к. Левски Г, кафе в трафопоста до бл.23
+Name: Дени Type: кафе Date: 10:05 Jan 9 2013 Address: София кв Левски Г,бл23 А
+Name: N/A Type: N/A Date: 13:50 Nov 28 2012 Address: гр.София бул. Тодор Каблешков 45
+Name: Суингинг хол Type: заведение Date: 10:56 Oct 25 2013 Address: София, бул. Драган Цанков 8
+Name: Катерина Type: бар Date: 01:07 Feb 12 2013 Address: София, пл. Славейков 7A, ет.2, бар Катерина
+Name: Golden Queen Club Type: ресторант Date: 02:42 Mar 9 2013 Address: София, Левски В, Поп Груйо 88A
+Name: аперитив Дени Type: кафе Date: 09:33 Jan 29 2016 Address: град София, ж.к. Левски Г, до бл. 23
+Name: Once Upon A Time Type: заведение Date: 02:00 Jan 26 2013 Address: София, Бул. Васил Левски 88
+Name: N/A Type: N/A Date: 01:30 Jan 11 2013 Address: София, витоша 33
+Name: N/A Type: N/A Date: 08:45 Dec 26 2013 Address: София, Бул. Патриарх Евтимий 6
+Name: Happy Bar & Grill Type: ресторант Date: 04:30 Oct 19 2013 Address: София, Раковска 145
+Name: Thievery Bar Type: бар Date: 11:54 Mar 14 2015 Address: гр. София, ул. Патриарх Евтимий 6
+Name: Happy Bar&Grill Type: ресторант Date: 03:37 Mar 10 2013 Address: София, ул. Г.С.Раковски  145
+Name: Ла Каса Type: заведение Date: 09:50 Mar 22 2016 Address: град София, бул. Васил Левски 45
+Name: HAPPY BAR & GRILL Будапеща Type: ресторант Date: 10:26 Oct 30 2013 Address: София, ул. Г. С. Раковски 145
+Name: Bedroom Type: клуб Date: 02:03 Apr 2 2013 Address: София, пл. Народно Събрание 3
+Name: N/A Type: N/A Date: 08:28 Dec 20 2013 Address: София, ул. Рачо Димчев
+Name: Дон Домат Type: пицария Date: 06:59 Nov 11 2013 Address: София, Бул. Патриарх Евримий 10
+Name: бар NRG Type: бар Date: 23:14 Dec 25 2012 Address: гр.София, бул.Патриарх Евтимий, 8
+Name: Салса Плюс Type: клуб Date: 02:00 Jan 20 2013 Address: София, ул. Аксаков 31
+Name: Мистър Пица Type: ресторант Date: 10:00 Apr 21 2016 Address: град София, бул България 49Б
+Name: N/A Type: N/A Date: 12:45 Jan 1 2016 Address: град София, бул. България  49 Б
+Name: Bedroom Type: клуб Date: 12:48 Mar 28 2013 Address: София, пл. Народно Събрание 3
+Name: Escobar Type: бар Date: 11:59 Feb 11 2013 Address: София, бул. Васил Левски 3
+Name: Хасиенда Type: клуб Date: 09:00 Jan 9 2015 Address: град София, пл. Народно събрание  3
+Name: N/A Type: N/A Date: 02:52 Jan 12 2015 Address: град София, площад България 1, НДК
+Name: N/A Type: N/A Date: 11:00 Jan 17 2015 Address: град София, площад България  1, НДК
+Name: N/A Type: N/A Date: 01:26 Jan 3 2015 Address: град София, НДК, пл. България  1
+Name: N/A Type: заведение Date: 13:06 Dec 26 2012 Address: София, Младост 2, бул. Андрей Ляпчев 56
+Name: Ескобар Type: бар Date: 11:00 Mar 1 2013 Address: София, бул. Васил Левски 3
+Name: Джой Type: заведение Date: 08:00 Oct 16 2013 Address: София, бул. А. Ляпчев
+Name: Студио 5 Type: клуб Date: 10:00 Dec 31 2014 Address: град София, пл. България 1, НДК, вход 3
+Name:  Di modulo Type: заведение Date: 11:33 May 23 2015 Address: град София, ул. Цар Самуил  50
+Name: На Пътищата Type: ресторант Date: 07:25 Feb 11 2013 Address: София, ул. Княз Борис I 95
+Name: Escobar Type: бар Date: 11:00 Feb 22 2013 Address: София, бул. Васил Левски 3
+Name: Rubaiyat Type: ресторант Date: 10:25 Feb 6 2015 Address: град София, пл. България 1, НДК, вход А5 (до пилоните)
+Name: При Петицата Type: ресторант Date: 07:00 Oct 31 2013 Address: София, ул. Княз Борис 112
+Name: N/A Type: заведение Date: 21:34 Dec 21 2012 Address: гр. София, ж.к.Борово, ул. Разград  8
+Name: Каруцата Type: пицария Date: 18:45 Jan 31 2013 Address: гр. София, ул. Юрдан Иванов (ж.к. Овча Купел-1),до бл.516
+Name: N/A Type: N/A Date: 01:56 Jan 5 2013 Address: София, кв. Овча купел, бл. 517
+Name: N/A Type: N/A Date: 01:43 Dec 19 2012 Address: София, бул. България 56А
+Name: Хюрем Султан Type: ресторант Date: 08:00 Oct 9 2013 Address: София, ул. Разград 8
+Name: Хюрем Султан Type: ресторант Date: 08:30 Nov 6 2013 Address: София, кв. Борово, ул. Разград 8
+Name: N/A Type: бар Date: 22:30 Dec 19 2012 Address: София, бул. България 56а
+Name: N/A Type: N/A Date: 12:59 Mar 30 2014 Address: град София, ул. Цар Самуил  50
+Name: Essence  Type: клуб Date: 12:42 Jun 3 2013 Address: София, бул. Александър Стамболийски 29
+Name: е Type: кафе Date: 01:05 Dec 27 2014 Address: град София, ул. Гебедже, кв. Красно село
+Name: сладкарница Карамел Type: кафе Date: 05:06 Jan 4 2014 Address: град София, ул. Крум Попов No 51
+Name: Ха наздраве Type: ресторант Date: 06:54 Feb 10 2013 Address: София, жк. Хаджи Димитър, ул. Скайлер
+Name: N/A Type: N/A Date: 09:06 Dec 31 2013 Address: София, Жк  Люлин 3 ул.  Панчо Владигеров, при Кооперативния пазар
+Name: Вени Type: ресторант Date: 02:29 Feb 26 2013 Address: София, ул. Милин камък 46
+Name: Sugar Type: дискотека Date: 12:10 Mar 8 2015 Address: град София, ул. Княз Борис I  121
+Name: Sugar Type: клуб Date: 11:20 Dec 14 2015 Address: град София, ул. Княз Борис I  121
+Name: е кафе Булевард Type: кафе Date: 09:45 Mar 14 2015 Address: гр.София, Бул. Панчо Владигеров
+Name: При хаджията Type: ресторант Date: 06:50 Feb 5 2015 Address: град София, кв. Хаджи Димитър, ул. Уошбърн  41
+Name: механа  При хаджията Type: ресторант Date: 08:38 Mar 1 2014 Address: град София, жк Хаджи Димитър, ул. Уошбърн 41
+Name: N/A Type: N/A Date: 08:20 Nov 28 2013 Address: гр. София, бул. Витоша 158
+Name: N/A Type: клуб Date: 11:14 Jul 7 2015 Address: гр. София, ул Княз Борис 121
+Name: Отечество Type: ресторант Date: 07:00 Mar 15 2013 Address: София, бул Витоша 162
+Name: Джепето Type: пицария Date: 08:20 Feb 10 2014 Address: град София, жк Люлин 3, бул. Панчо Владигеров  44
+Name: N/A Type: N/A Date: 21:00 Dec 22 2012 Address: гр. София, ж.к. Хаджи Димитър, ул. Уошбърн 41, партер - заведение за хранене
+Name: N/A Type: N/A Date: 10:21 Mar 19 2013 Address: София, бул Витоша 162
+Name: Pascucci Type: кафе Date: 12:05 Jan 21 2013 Address: София, ул. 8-ми декември 13,Студентски град
+Name: One and More Type: бар Date: 01:35 Feb 9 2013 Address: ул. 8-ми декември, София
+Name: N/A Type: N/A Date: 07:05 Oct 19 2013 Address: софия, Бул. Възкресение 62
+Name: Friends Type: пицария Date: 11:54 Feb 21 2013 Address: София, Красна поляна, бул. Възкресение 62
+Name: Френдс Type: пицария Date: 06:10 Mar 16 2013 Address: София, бул. Възкресение 62
+Name: Тюркоаз Type: ресторант Date: 01:21 Jan 22 2013 Address: София, бул. Бъкстон 90
+Name:  Тюркоаз  Type: ресторант Date: 03:33 Dec 29 2013 Address: София, Бул. Бъкстон 90
+Name: Тюркоаз Type: ресторант Date: 10:00 Mar 8 2014 Address: град София, бул. Бъкстон  90
+Name: Тюркоаз Type: ресторант Date: 10:30 Mar 8 2014 Address: град София, бул. Бъкстон  90
+Name: N/A Type: N/A Date: 14:24 Nov 22 2013 Address: София, ул. Българска легия 65
+Name: N/A Type: N/A Date: 23:16 Dec 21 2012 Address: София, ул. Оборище  9Б
+Name: Болярите Type: ресторант Date: 12:50 Dec 10 2015 Address: град София, Врабча 24а
+Name: N/A Type: заведение Date: 02:00 Nov 24 2012 Address: София, бул. Васил Левски 88
+Name: Art Kitchen Type: клуб Date: 23:34 Jan 18 2013 Address: София,бул. Янко Сакъзов 20
+Name: Il Mondo Type: ресторант Date: 01:30 Jan 6 2017 Address: град София, ул. Леге 15
+Name: Болярите Type: ресторант Date: 11:14 Dec 12 2015 Address: град София, ул. Врабча 24 а
+Name: Ветрило 2 Type: пицария Date: 07:54 May 15 2013 Address: София, жк. Стрелбище ул Орехова гора 42А
+Name: сладкарница Мандарин Type: кафе Date: 12:30 Oct 7 2013 Address: София, бул. Сливница 65
+Name: Ветрило Type: пицария Date: 07:53 May 15 2013 Address: София, жк Борово, ул. Солун с/у бл 43
+Name: N/A Type: N/A Date: 12:49 Mar 24 2013 Address: София, бул. Сливница  65
+Name: Мамин Кольо Type: механа Date: 11:09 Mar 30 2013 Address: София, ул. Позитано 40
+Name: Арбат Type: бар Date: 11:56 May 15 2013 Address: София, ул. Шипка 24
+Name: N/A Type: N/A Date: 20:15 Dec 14 2013 Address: Гр. София, ул. Позитано 40
+Name: N/A Type: N/A Date: 04:50 Jan 5 2017 Address: град София, ул. Моневидео 39
+Name: N/A Type: N/A Date: 08:49 Mar 23 2015 Address: град София, пл. Възраждане
+Name: Мамин Кольо Type: ресторант Date: 10:00 Oct 26 2013 Address: София, Позитано 40
+Name: N/A Type: N/A Date: 13:08 Jan 2 2013 Address: на ъгъла на бул Евлоги Георгиев и ул. Христо Смирненски , кв. Лозенец, София
+Name: N/A Type: клуб Date: 05:09 Jan 24 2013 Address: гр. София, бул. Джеймс Баучър
+Name: N/A Type: кафе Date: 13:55 Nov 22 2012 Address: София ул.Никола Войновски и ул.Баткун (на ъгъла)
+Name:   Type: клуб Date: 05:33 Mar 19 2013 Address: София, бул. Джеймс Баучър
+Name: Интрига Type: заведение Date: 12:50 Jan 6 2017 Address: град София, ул. Славянска 26
+Name: N/A Type: N/A Date: 08:59 Jan 6 2017 Address: град София, ул. Св. Седмочисленици 2
+Name: N/A Type: N/A Date: 01:07 Jan 1 2014 Address: град София, ул. Първа Българска армия  18А
+Name: N/A Type: заведение Date: 12:03 Dec 24 2013 Address: София, ул. 6ти септември 55
+Name: N/A Type: пицария Date: 13:07 Dec 18 2012 Address: София, жк Люлин 10, бул Д-р Петър Дертлиев, пицария О!Шипка 4
+Name: Кафе Лилавото Type: кафе Date: 07:00 Jan 14 2013 Address: София, Хаджи Димитър бл.55
+Name: АМОР Type: кафе Date: 12:30 Dec 16 2012 Address: ж.к. Надежда - 1, бл. 172, София
+Name: Маслина Type: ресторант Date: 06:20 Jan 6 2017 Address: град София, ул. Резбарска 31
+Name: Импако Type: ресторант Date: 02:08 Jan 7 2017 Address: град София, бул. Ал. Стамболийски 186
+Name: в жилищен блок Type: заведение Date: 07:32 Sep 23 2013 Address: София, в. Сухата река, бл. 208, вх. В
+Name: N/A Type: бистро Date: 08:44 Jan 5 2014 Address: София, ул. Русалски Лък 1
+Name: Синатра Type: бар Date: 11:00 May 18 2013 Address: София, Бул. Арсеналски 5
+Name: Дамаск Type: бар Date: 03:30 May 19 2016 Address: град София, ул. Оборище  98
+Name: Bar&Grill Sweet Type: бар Date: 07:51 May 13 2013 Address: София, кв. Младост 3, ул Свето Преображение, до блок 328
+Name: Биад Type: клуб Date: 01:00 May 18 2013 Address: София, ул. Гурко 16
+Name: Т&М Type: ресторант Date: 08:00 Apr 6 2014 Address: град София, ул. Юри Венелин  34
+Name: N/A Type: N/A Date: 10:00 Jan 2 2017 Address: град София, кв. Лозенец, бул. Джеймс Баучер 100
+Name: N/A Type: N/A Date: 02:00 May 18 2013 Address: София, ул. Аксаков 11
+Name: N/A Type: ресторант Date: 12:50 May 17 2013 Address: София, бул. Джеймс Баучер 124
+Name: Марайа Type: ресторант Date: 11:00 Feb 28 2013 Address: София, бул.Евлоги Георгиев и ул.Христо Смирненски
+Name: ето на ул. Неофит Рилски 68 Type: кафе Date: 07:21 Jan 4 2015 Address: град София, ул. Неофит Рилски  68
+Name: N/A Type: N/A Date: 10:43 Jan 22 2013 Address: София, бул.Евлоги Георгиев и ул.Христо Смирненски
+Name: N/A Type: N/A Date: 02:30 Dec 28 2013 Address: София, Младост 3, м/у блок 328 и 329 - Sweet Bar & Grill
+Name: Ветрило в Борово Type: пицария Date: 21:00 Dec 14 2012 Address: София, кв. Борово, ул. Солун срещу Бл.43
+Name: N/A Type: N/A Date: 11:00 Mar 30 2013 Address: София, бул. Княгиня Мария Луиза 106
+Name: N/A Type: N/A Date: 05:56 Jan 6 2017 Address: град София, ул. Никола Войновски, бл.87
+Name: Суийт Бар енд Грил Type: ресторант Date: 09:39 May 10 2013 Address: София, жк Младост 3 ул. Свято Преображение, бл.328
+Name: N/A Type: бар Date: 08:47 Jun 9 2013 Address: София, ул. Христо Белчев 12 /В мазе на стара къща/
+Name: Патладжан Type: ресторант Date: 09:50 Jan 6 2017 Address: град София,бул. Ломско шосе  71
+Name: N/A Type: N/A Date: 13:23 Dec 7 2012 Address: Гр. София, жк. Люлин 6, бул. Панчо Владигеров, Кооперативен пазар, пицария Кери
+Name: Маскара Type: клуб Date: 03:05 May 10 2013 Address: София, бул.Раковски 113
+Name: Smile (Смайл) Type: заведение Date: 08:42 May 25 2013 Address: София, кв. Бояна, ул. Сборище 3
+Name: N/A Type: заведение Date: 01:51 Dec 13 2012 Address: гр.София, ж.к.Надежда, до бл.429
+Name: София Type: механа Date: 12:47 May 25 2013 Address: София, бул.Княгиня Мария Луиза 106
+Name: Маскара Type: клуб Date: 12:13 May 10 2013 Address: София, бул.Раковски 113
+Name: Маскара Type: клуб Date: 03:18 May 10 2013 Address: София, бул.Раковски 113
+Name: N/A Type: N/A Date: 11:28 May 25 2013 Address: София, бул. Гоце Делчев 6
+Name:  Пица Италия Type: пицария Date: 02:00 Apr 26 2015 Address: град София, ул. Генерал Скобелев  46
+Name: Elidis Bar&Dinner Type: кафе Date: 10:33 Mar 15 2013 Address: София, бул. Скобелев 62
+Name: е Елидис кафе Type: кафе Date: 08:30 Oct 3 2013 Address: София, бул. Скобелев 62
+Name: Грозд Type: ресторант Date: 01:00 Jan 7 2017 Address: град София, бул. Цар Освободител 21
+Name: и грил Елидис Type: бар Date: 01:43 Jan 6 2017 Address: град София, бул. Скобелев 62
+Name: Глори Type: клуб Date: 06:40 May 20 2013 Address: София, ул. пирински проход 24а
+Name: Ветрило Type: пицария Date: 01:24 May 9 2013 Address: София, жк Борово, ул. Солун с/у бл 43
+Name: Чановете Type: механа Date: 11:00 Dec 31 2016 Address: град София, Надежда, ул. Кирил Дрангов 81
+Name: N/A Type: заведение Date: 13:09 Nov 27 2012 Address: София, ъгъла на ул.Лайош Кошут N30 и бул.Скобелев
+Name: N/A Type: N/A Date: 01:45 Jan 6 2013 Address: гр. София, бул. Сливница 228
+Name: РЕЛАКС Type: заведение Date: 12:33 Feb 8 2015 Address: град София, бул. Ломско шосе  73, комплекс РЕЛАКС
+Name: N/A Type: N/A Date: 07:41 Jul 20 2016 Address: град София , улица Поп Богомил  23
+Name: Чикаго Type: бар Date: 02:00 May 18 2013 Address: София, бул. Дондуков 9
+Name: Mega Dance Type: клуб Date: 01:59 May 9 2013 Address: София, Студентски град, бул. Акад. Борис Стефанов, Зимен дворец на спорта
+Name: N/A Type: заведение Date: 12:39 Nov 28 2013 Address: София, бул.Мария Луиза
+Name: N/A Type: N/A Date: 09:40 May 23 2013 Address: София, жк. Младост 3, ул. Свето Преображение, бл. 328
+Name: N/A Type: N/A Date: 13:00 Dec 13 2012 Address: Emotion club София
+Name: Мурафети Type: ресторант Date: 01:00 May 23 2013 Address: София, ул.Страцин 4
+Name:  Once upon a time Biblioteka Type: клуб Date: 01:06 May 12 2013 Address: София, Б. Васил Левски 88
+Name: Синатра Type: бар Date: 12:20 May 18 2013 Address: София, Бул. Арсеналски 5
+Name: Арбат Type: бар Date: 11:49 May 29 2013 Address: София, ул. Шипка 24
+Name: Ветрило Type: пицария Date: 03:36 Feb 17 2013 Address: София, жк Борово, ул. Солун с/у бл 43
+Name: Наше село Type: ресторант Date: 09:11 Feb 7 2015 Address: град София, бул. Иван Гешов  15
+Name: Ветрило Type: пицария Date: 12:00 May 31 2013 Address: София, жк Борово, ул. Солун с/у бл 43
+Name: Ветрило Type: пицария Date: 11:30 May 28 2013 Address: София, жк Борово, ул. Солун с/у бл 43
+Name: Eclipse Type: заведение Date: 04:12 May 27 2013 Address: София, ул. Позитано 8
+Name: N/A Type: N/A Date: 12:30 May 31 2013 Address: София, Ул.Доктор Людвик Заменхоф 86
+Name: - Пицария Ветрило Type: заведение Date: 08:00 May 21 2013 Address: София, ул. Орехова гора 42А
+Name: Ветрило 1 Type: пицария Date: 01:20 Feb 3 2013 Address: София, жк. Борово,ул. Солун 43
+Name: Патрон Type: бар Date: 10:00 Oct 7 2016 Address: град София, ул. Денкоглу  34
+Name: Ветрило 2 Type: пицария Date: 11:48 May 26 2013 Address: София, жк. Стрелбище ул Орехова гора 42А
+Name: Лорка Type: бар Date: 06:06 May 20 2013 Address: София, ул. Славянска 24
+Name: N/A Type: заведение Date: 10:34 Dec 4 2012 Address: София площад Славейков 4(вход откъм улица Гладстон)
+Name: Patron xo cafe & shot bar Type: бар Date: 11:50 Jan 9 2015 Address: град София, ул. Денкоглу  34
+Name: Ветрило Type: ресторант Date: 23:27 Jan 2 2013 Address: София, кв. Борово, ул. Солун, с/у блок 43
+Name: N/A Type: N/A Date: 12:05 Mar 21 2013 Address: София, бул. Гоце Делчев 6
+Name: N/A Type: N/A Date: 04:14 May 21 2013 Address: София, ул. Перник
+Name: Арбат Type: бар Date: 01:27 May 9 2013 Address: София, ул. Шипка 24
+Name: N/A Type: N/A Date: 09:00 Jan 31 2015 Address: София, ул. Денкоглу 34
+Name: Брилянтин Type: бар Date: 12:10 May 20 2013 Address: София, ул. Московска 3
+Name: Младостъ Type: механа Date: 01:40 May 30 2013 Address: София, жк Младост 1, ул. Димитър Моллов 23
+Name:  Patron Cafe & Shots Bar Type: заведение Date: 05:50 Apr 10 2016 Address: град София, ул. Денкоглу  34
+Name: Арбат Type: бар Date: 11:15 Apr 19 2013 Address: София, ул. Шипка 24
+Name: Червената къща Type: ресторант Date: 09:41 May 21 2013 Address: София, ул. Петър Парчевич 33
+Name: Болярка Type: механа Date: 10:00 Jan 1 2016 Address: град София, ул. Румен Войвода  21
+Name: Арбат Type: бар Date: 02:37 Mar 23 2013 Address: София, ул. Шипка 24
+Name: 789 Type: ресторант Date: 12:00 Jun 2 2013 Address: София, бул. Св. Климент Охридски 47
+Name: N/A Type: N/A Date: 10:20 Apr 26 2016 Address: град София, ул. Иван Денкоглу  34
+Name: Грамофон Type: клуб Date: 01:00 May 10 2013 Address: гр. София, ул. Будапеща 6
+Name: БИАД Type: дискотека Date: 02:30 May 19 2013 Address: София, ул. Гурко 16
+Name:  Once upon a time Biblioteka Type: клуб Date: 01:06 May 12 2013 Address: София, Б. Васил Левски 88
+Name: Еверест Type: ресторант Date: 07:27 May 28 2013 Address: София, жк Младост 1, бул. Андрей Сахаров 12
+Name: енд динър Тифани Type: бар Date: 02:02 Nov 1 2015 Address: град София, ул. Иван Денкоглу 12, център София
+Name: Арбат Type: бар Date: 11:21 Apr 25 2013 Address: София, ул. Шипка 24
+Name: Sweet Bar and grill Type: заведение Date: 06:09 Jan 9 2014 Address: град София ул. Атанас Узунов, до зала Фестивална
+Name: Bar&Grill Sweet Type: бар Date: 03:27 Jun 1 2013 Address: София, ул Свето Преображение, до блок 328
+Name: Бохема Type: клуб Date: 12:15 Apr 18 2015 Address: град София, бул. Дондуков 1, в подлеза при Министерски съвет
+Name: е в  Дружба 1 бл 122 Type: кафе Date: 09:00 Oct 10 2013 Address: София, Дружба бл. 122
+Name: Биад Type: клуб Date: 01:30 May 19 2013 Address: София, ул. Гурко 16
+Name:  и в кухнята на бирария Елит Type: бар Date: 11:48 May 29 2013 Address: София, ЖК Разсадника, ул.Хъшове, бл65
+Name: Дойран Type: механа Date: 09:02 Apr 14 2014 Address: град София, ул. Генерал Стефан Тошев  19
+Name: N/A Type: N/A Date: 22:04 Dec 30 2012 Address: гр. София, ул. Шипченски проход  4
+Name: Баш бар Type: бар Date: 10:41 May 31 2013 Address: София, Ул. Цар Иван Асен 2 31
+Name: N/A Type: N/A Date: 02:00 May 29 2014 Address: град София, Ул.Братя Пешеви 10
+Name: Joya Type: ресторант Date: 09:34 Oct 28 2013 Address: София, ул. Симеонов Век 17А. Входът е от страната на ул. Борис Христов
+Name: Дойранъ Type: механа Date: 10:00 Sep 19 2016 Address: град София, ул. Стефан Тошев 19
+Name:  My bar Type: бар Date: 12:13 May 12 2013 Address: София, бул. Шипченски проход  18
+Name: Калипсо Type: ресторант Date: 07:48 May 26 2013 Address: София, улКостенски водопад 58
+Name: N/A Type: N/A Date: 11:11 Dec 13 2012 Address: София улица Куманово срещу блок 5
+Name: БИАД Type: клуб Date: 04:18 May 19 2013 Address: София, ул. Гурко 16
+Name: Боримечката Type: ресторант Date: 10:43 Dec 31 2016 Address: София, Академик Борис Стефанов 6
+Name: N/A Type: N/A Date: 10:40 May 31 2013 Address: София, Бул. Витоша 102
+Name: N/A Type: N/A Date: 04:46 Jan 23 2016 Address: град София, ул. Ястребец 25-А
+Name: N/A Type: N/A Date: 12:04 Jan 31 2013 Address: София, Гео Милев, бул. Шипченски проход 17, бл. 230, вх. А
+Name: Sweet Type: заведение Date: 10:30 Feb 8 2014 Address: град София, ул. Атанас Узунов, в зала Фестивална
+Name: Бесо Type: бар Date: 09:40 May 28 2013 Address: София, бул. Тодор Каблешков 41
+Name: Джим Бийм Type: бар Date: 02:20 May 17 2013 Address: София, бул. Витоша 31-33
+Name: N/A Type: N/A Date: 04:30 Feb 28 2014 Address: град София, ул. Атанас Узунов, зала Фестивална
+Name: Purple coffee and BAR   Type: бар Date: 11:30 Dec 20 2013 Address: София, Борис Христов 9
+Name: Ветрило Type: пицария Date: 12:45 Oct 11 2016 Address: град София, ул. Солун 47
+Name: При Радо Type: ресторант Date: 09:00 May 15 2013 Address: София, ж.к. Западен парк, ул. Суходолска 2, с/у бл. 52
+Name: Камино Type: бар Date: 01:00 May 18 2013 Address: София, ул. Неофит Рилски 70
+Name: Миленката Type: бар Date: 10:39 May 16 2013 Address: София, Студентски град, бл.22
+Name: Бордо Type: ресторант Date: 08:00 May 30 2013 Address: СОфия, жк Дианабад, ул. Николай Хайтов,бл.45 и бл.46
+Name: N/A Type: N/A Date: 08:01 Nov 1 2013 Address: София, ул. Солун, срещу блок. 43
+Name: N/A Type: N/A Date: 11:38 Nov 7 2013 Address: гр.София; кв.Борово; ул. Солун, срещу блок 43
+Name: Моргана Type: пицария Date: 08:17 Apr 1 2014 Address: град София, кв. Лозенец, ул. Арх. Миланов  46
+Name:   Type: клуб Date: 01:47 Jun 2 2013 Address: София, бул. Джеймс Баучър 100
+Name: Петрус Type: ресторант Date: 04:37 May 15 2016 Address: град София, бул. Свети Наум  48
+Name: Ветрило кв. Борово Type: ресторант Date: 09:18 Dec 4 2013 Address: София, ул. Солун, срещу бл. 43
+Name: Чифликь Type: механа Date: 10:53 Jul 22 2014 Address: град София, ул. Джеймс Баучър 1
+Name: Sofia live club Type: клуб Date: 12:14 May 11 2013 Address: София, пл. България 1, НДК, подлез с фонтаните
+Name: N/A Type: N/A Date: 02:11 Nov 7 2015 Address: София, ж.к. Лозенец ул. Златовръх 4
+Name: N/A Type: N/A Date: 00:38 Jan 1 2013 Address: Панчарево, област София, Самоковско шосе  83
+Name: 65 светулки Type: бар Date: 11:30 Oct 11 2015 Address: град София, ул. Солунска 65
+Name: Ориша Type: бар Date: 01:33 May 11 2015 Address: град София, ул. Солунска  50
+Name: N/A Type: N/A Date: 08:30 Feb 19 2016 Address: град София, Студентски град
+Name: Bar&Grill Sweet Type: бар Date: 12:15 May 9 2013 Address: София, кв. Младост 3, ул Свето Преображение, до блок 328
+Name: N/A Type: N/A Date: 01:08 Dec 22 2012 Address: София, цар Освободител, ресторант България
+Name: N/A Type: N/A Date: 08:30 Feb 12 2015 Address: София , Ул. Солунска 54
+Name: N/A Type: N/A Date: 03:00 May 6 2015 Address: гр. София, Студентски град
+Name: DaDa Cultural Bar Type: бар Date: 12:10 Jun 1 2013 Address: София, Ул. Бенковски 10
+Name: N/A Type: N/A Date: 11:04 May 24 2013 Address: София, бул. Княгиня Мария Луиза 45
+Name: Миленката Type: бирария Date: 12:49 Jun 2 2013 Address: София, Студ. град, ул.Проф.Георги Брадистилов 1А
+Name: Bar 9 Type: бар Date: 10:23 Jan 31 2014 Address: град София, ул. Гладстон  9
+Name: Ветрило 2 Type: пицария Date: 07:56 May 30 2013 Address: София, жк. Стрелбище ул Орехова гора 42А
+Name: Bar&Grill Sweet Type: бар Date: 06:58 May 30 2013 Address: София, кв. Младост 3, ул Свето Преображение, до блок 328
+Name: Вar Nime Type: бар Date: 10:13 Jan 31 2014 Address: град София, Ул. Уилиам Гладстон 9
+Name: Mega Dance Type: клуб Date: 01:51 May 29 2013 Address: София, Студентски град, бул. Акад. Борис Стефанов, Зимен дворец на спорта
+Name: Лесковачка сръбска скара Type: ресторант Date: 01:51 Mar 13 2015 Address: град София, ул. Борис Христов  18
+Name: Дон Вито на ул. Гео Милев и Благородна Type: пицария Date: 08:27 Aug 2 2013 Address: София, ул. Гео Милев 37 А
+Name: Дианджели Type: ресторант Date: 11:53 May 29 2013 Address: София, жк.Люлин 3 ,бул.Захари Стоянов 27
+Name: N/A Type: клуб Date: 05:58 Jun 4 2013 Address: София, ул. Будапеща-6
+Name: N/A Type: N/A Date: 11:26 Dec 14 2012 Address: в заведение E-motion намиращо се на бул. Йерусалим 1 в София
+Name: N/A Type: N/A Date: 12:17 Nov 20 2013 Address: гр. София ж.к. Гео Милев - зала Фестивална
+Name: Дървеното Type: бистро Date: 08:00 May 8 2013 Address: София, ж.к. Сухата Река, Русалски Лък 1, срещу пожарната
+Name: N/A Type: клуб Date: 02:00 Oct 21 2012 Address: София, ул. Будапеща  6
+Name: Ветрило 2 Type: пицария Date: 01:39 Jun 28 2013 Address: София, жк. Стрелбище ул Орехова гора 42А
+Name: sweer bar & grill Type: ресторант Date: 09:35 Oct 10 2013 Address: софия, зала Фестивална
+Name: Ветрило 2 Type: пицария Date: 01:22 May 9 2013 Address: София, жк. Стрелбище ул Орехова гора 42А
+Name: Sweet Type: заведение Date: 09:00 Oct 30 2015 Address: град София, жк Гео Милев, зала Фестивална
+Name: N/A Type: N/A Date: 12:30 Jul 1 2013 Address: София, жк. Стрелбище, ул.Орехова гора 42А
+Name: Mega Dance Type: клуб Date: 01:57 May 14 2013 Address: София, Студентски град, бул. Акад. Борис Стефанов, Зимен дворец на спорта
+Name: Bar&Grill Sweet Type: бар Date: 07:30 May 8 2013 Address: София, кв. Младост 3, ул Свето Преображение, до блок 328
+Name: Ветрило Type: пицария Date: 11:53 Jul 3 2013 Address: София, жк. Стрелбище ул Орехова гора 42А
+Name: Тавите Type: ресторант Date: 10:00 May 14 2013 Address: София, ул. Рачо Димчев 58
+Name: Егур Егур Type: ресторант Date: 02:31 Feb 8 2014 Address: град София, ул. Три уши  8
+Name: Ветрилото в жк Стрелбище Type: заведение Date: 09:00 Sep 18 2013 Address: София, ул.Орехова гора 42А
+Name: Мандарин Type: кафе Date: 11:37 Jul 12 2013 Address: София, жк.Света Троица бул.Сливница 65
+Name: N/A Type: N/A Date: 01:00 May 26 2013 Address: София, бул. Христо Ботев 61
+Name: N/A Type: N/A Date: 06:11 Feb 25 2014 Address: град София, ул. Три Уши 8
+Name: Once upon a time Библиотека Type: дискотека Date: 02:03 May 26 2013 Address: София, Бул. Васил Левски 88
+Name: Habitat Type: бар Date: 11:40 Jun 8 2013 Address: София, ул. Стефан Караджа 26 /до Сатиричния театър/
+Name: Mr. Pizza Type: пицария Date: 09:49 Oct 8 2013 Address: София, бул. Черни връх 38
+Name: N/A Type: N/A Date: 13:26 Jan 3 2013 Address: гр. София, бул. Черни Връх 150
+Name: Рубаят Type: ресторант Date: 08:49 Jun 11 2013 Address: София , Площад България 1, НДК, вход А5 (до пилоните)
+Name: Mr. Pizza Type: ресторант Date: 09:00 Oct 28 2015 Address: град София, бул. Черни връх 38
+Name: N/A Type: N/A Date: 19:40 Dec 15 2012 Address: кв. Младост 2, ул.Проф.Д.р Васил Златарски (до бл.222), София
+Name: Mr. Pizza Type: пицария Date: 01:31 Oct 8 2013 Address: София, бул. Черни връх 38
+Name: Plazа Type: клуб Date: 01:30 Dec 28 2012 Address: София, Студенски град, ул.Атанас Манчев 6
+Name: N/A Type: ресторант Date: 09:15 Oct 29 2013 Address: София, бул. Черни връх 38
+Name: Карусел Type: дискотека Date: 12:46 Sep 30 2016 Address: град София, ул. Георги С. Раковски 108
+Name: N/A Type: N/A Date: 13:31 Dec 3 2012 Address: Гр. София, жк. Света Троица, бул. Сливница търговски комплекс Илинден
+Name: N/A Type: N/A Date: 22:56 Dec 12 2012 Address: София, Студентски град
+Name: N/A Type: N/A Date: 03:29 Apr 16 2013 Address: гр. София, Ул.Драган Цанков 6
+Name: Карусел Type: дискотека Date: 12:46 Sep 30 2016 Address: град София, ул. Георги С. Раковски 108
+Name: парк хотел витоша  Type: бар Date: 12:37 Jan 19 2013 Address: гр.София, ул.росарио 1
+Name: Рафи 2 Type: бар Date: 08:25 Jun 5 2013 Address: София, бул. Витоша 18
+Name: N/A Type: N/A Date: 12:48 Dec 1 2013 Address: София, бул. Черни Връх 38
+Name: Мистър Пица Type: ресторант Date: 08:00 Oct 24 2013 Address: София, бул. Черни връх 38
+Name: N/A Type: N/A Date: 08:00 Jan 21 2014 Address: град София, ул Георги Брадистилов  1
+Name: Swinging hall Type: бар Date: 11:00 Sep 30 2016 Address: град София, бул. Драган Цанков  8
+Name: N/A Type: N/A Date: 22:51 Nov 28 2013 Address: София, ул.Верила 3
+Name: N/A Type: N/A Date: 13:32 Oct 25 2012 Address: софия, ул. Раковски 113
+Name: Ветрило Type: ресторант Date: 22:22 Jan 12 2013 Address: София ул. Солун 47 срещу бл.43
+Name: Вчера Type: бар Date: 10:26 Sep 24 2015 Address: град София, ул. Раковски  82
+Name: за хранене Mr. Pizza Type: заведение Date: 12:24 Oct 27 2013 Address: гр. София ул. Верила 3
+Name: N/A Type: N/A Date: 10:55 Oct 1 2016 Address: град София, бул. Цариградско шосе 115, ниво 2
+Name: N/A Type: N/A Date: 10:30 Mar 25 2016 Address: град София, ул. Раковски  193
+Name: Мама Миа Type: пицария Date: 06:49 Jul 1 2013 Address: София, ул. Незабравка 25
+Name: Mr. Pizza Type: пицария Date: 09:00 Oct 11 2013 Address: град София, ул. Верила 3
+Name:  Ветрило Type: ресторант Date: 02:28 Jan 19 2014 Address: град София, жк Борово
+Name: Мr. Pizza Type: ресторант Date: 09:36 Oct 11 2013 Address: град София, ул. Верила 3
+Name: Tequila Type: клуб Date: 01:43 Jul 1 2013 Address: София, Площад Народно събрание 4
+Name: Sweet Bar & Grill Type: ресторант Date: 12:49 Oct 24 2013 Address: София, зала Фестивална
+Name: N/A Type: N/A Date: 21:00 Oct 10 2013 Address: София, верила 3
+Name: за хранене Per Tutti Type: заведение Date: 03:20 Sep 21 2016 Address: град София, ж.к. Борово, ул. Топли дол  5
+Name: N/A Type: N/A Date: 08:27 Oct 19 2013 Address: София, зала Фестивална
+Name: N/A Type: N/A Date: 12:15 Feb 2 2014 Address: град София, ул. Г.С. Раковски  193
+Name: N/A Type: N/A Date: 20:00 Feb 4 2013 Address: гр. София, ж.к. Гео Милев, ул. Манастирска  35
+Name: Текила  Type: бар Date: 01:38 Jun 30 2013 Address: София, пл. Народно Събрание  4
+Name: N/A Type: N/A Date: 13:00 Nov 9 2013 Address: гр. София, ж.к. Гео Милев, ул. Манастирска  35, зала Фестивална
+Name: N/A Type: N/A Date: 01:40 Oct 19 2013 Address: София, зала Фестивална
+Name: N/A Type: заведение Date: 13:03 Dec 31 2012 Address: София ж.к. Борово
+Name: Синатра Type: клуб Date: 11:35 Oct 8 2016 Address: град София, бул Арсеналски  5
+Name: Ветрило Type: ресторант Date: 10:05 Oct 18 2013 Address: София, кв.Борово, бл. 43
+Name: N/A Type: ресторант Date: 22:00 Dec 13 2013 Address: град София бул. Акад. Иван Евстатиев Гешов 15
+Name: Swinging hall Type: бар Date: 12:34 Oct 15 2016 Address: град София, бул. Драган Цанков 8
+Name: Sweet Bar and Grill Type: ресторант Date: 02:00 Dec 6 2013 Address: ул. манастирска 35, София
+Name: N/A Type: N/A Date: 08:45 Jun 11 2013 Address: гр. София, ул. Летоструй
+Name: Суит Бар & Грил в зала Фестивална Type: заведение Date: 06:36 Nov 3 2013 Address: София, ж.к. Гео Милев, ул. Манастирска  35
+Name: Патладжан Type: ресторант Date: 06:25 Oct 15 2016 Address: град София, бул. Ломско шосе  71
+Name: N/A Type: кафе Date: 13:12 Dec 28 2012 Address: София, ул Иван Рилски 11
+Name: Наше село Type: ресторант Date: 10:23 Mar 12 2016 Address: град София, бул. Акад. Иван Гешов  15
+Name: N/A Type: N/A Date: 07:03 Jan 9 2014 Address: София, бул. Драган Цанков 23
+Name: Swingin Hall Type: бар Date: 12:26 Oct 9 2016 Address: град София, бул. Драган Цанков 8
+Name: N/A Type: N/A Date: 03:04 Mar 19 2013 Address: София, ул. Лъчезар Станчев 4
+Name: N/A Type: N/A Date: 13:23 Feb 7 2013 Address: гр. София, бул. Акад. Иван Гешов 15
+Name: Ниагара Type: ресторант Date: 12:10 Mar 28 2013 Address: София, ул. Дойран 2
+Name: Ниагара Type: ресторант Date: 07:46 Nov 20 2015 Address: град София, ул. Дойран  2
+Name: N/A Type: N/A Date: 10:57 Oct 15 2016 Address: град София, бул. Витоша 18Б
+Name: N/A Type: N/A Date: 02:10 Jun 11 2013 Address: гр. София, Ул. Лъчезар Станчев 4
+Name: Глори Type: клуб Date: 06:00 Oct 11 2016 Address: град София, ул. Пирински проход 24А
+Name:  Tohun Bar&Dinner Type: ресторант Date: 07:30 Oct 16 2016 Address: град София, ул. Милин Камък 16
+Name: Ниагара Type: ресторант Date: 11:50 Mar 27 2013 Address: София, ул. Дойран 2
+Name: N/A Type: N/A Date: 13:01 Dec 8 2012 Address: София, бул. Сливница и ул. Габрово
+Name: N/A Type: N/A Date: 06:25 Sep 22 2013 Address: София, ул. Габрово  4
+Name: N/A Type: N/A Date: 01:03 Dec 20 2012 Address: пл. Славейков 4, София
+Name: N/A Type: N/A Date: 10:26 Mar 30 2013 Address: София, бул. Гоце Делчев 6
+Name: N/A Type: N/A Date: 09:12 Mar 25 2013 Address: София, бул. Гоце Делчев 6
+Name: N/A Type: N/A Date: 06:30 Nov 26 2013 Address: гр. София, бул. Черни Връх No. 13
+Name: MY BAR Type: бар Date: 10:50 Oct 15 2016 Address: град София, ул Шипченски проход 18
+Name: N/A Type: N/A Date: 12:47 Feb 14 2015 Address: гр. София бул. Сливница 228
+Name: N/A Type: N/A Date: 15:00 Nov 21 2013 Address: София, Черни връх 13
+Name: N/A Type: N/A Date: 12:52 Apr 16 2013 Address: гр. София, бул. Гоце Делчев 6
+Name: Sterling club Type: бирария Date: 11:10 Jun 1 2013 Address: София, Ул. Екзарх Йосиф 103
+Name: Sterling Type: бар Date: 08:17 Jan 29 2016 Address: град София, ул. Екзарх Йосиф  103
+Name: N/A Type: N/A Date: 07:30 Mar 14 2016 Address: град София, булевард Сливница 228
+Name: и кафе Fuego Type: ресторант Date: 08:30 Mar 20 2014 Address: гр. София, ул. Дилянка  20
+Name: Totally Erected Type: клуб Date: 01:42 Dec 28 2012 Address: София, ул. Иван Вазов 12
+Name: N/A Type: клуб Date: 10:31 Dec 27 2012 Address: София, пл Славейков 4
+Name: Bar & Grill Sweet Type: ресторант Date: 10:00 Oct 23 2013 Address: София, ул. Свето Преображение, бл. 328
+Name: N/A Type: N/A Date: 16:36 Dec 12 2013 Address: София, ул. Неразделни
+Name: Грамофон Type: клуб Date: 11:17 Jun 17 2013 Address: София, ул.Будапеща  6
+Name: N/A Type: ресторант Date: 07:35 Oct 9 2013 Address: София, Младост 3, ул Свето Преображение, до блок 328
+Name: N/A Type: N/A Date: 01:15 Dec 28 2012 Address: Тодор Каблешков 41, София - BESO
+Name: N/A Type: заведение Date: 09:36 Dec 19 2013 Address: гр.София ул.Свето преображение
+Name: Once Upon a Time Библиотека Type: клуб Date: 01:40 Jun 16 2013 Address: София, бул. Васил Левски 88
+Name: N/A Type: бар Date: 13:35 Nov 24 2012 Address: София, ул. Крум Попов (на ьгьла на бул.Евлоги Георгиев и ул. Христо Смирненски)
+Name: МАКС Type: бирария Date: 07:57 Oct 18 2013 Address: София, супермаркет МАКС, Малдост-2
+Name: Мармалад Type: заведение Date: 12:16 Mar 14 2014 Address: град София, ул. Крум Попов  4
+Name: Горещ тиган Type: ресторант Date: 10:03 Feb 14 2014 Address: град София, ул. Сан Стефано  18
+Name: за хранене Sweet bar and grill Type: заведение Date: 12:30 Oct 31 2015 Address: град София, Младост 3, ул. Свето Преображение, бл.328
+Name: N/A Type: заведение Date: 08:26 Jan 23 2013 Address: София, ул.Николай Павлович 1
+Name: bar and grill Type: ресторант Date: 01:15 Jun 1 2014 Address: град София, Младост 4, бул Александър Паскалев
+Name: Ла Кубанита Type: клуб Date: 17:26 Jan 7 2013 Address: София жк Бели Брези, ул. Битоля, 2
+Name: N/A Type: N/A Date: 12:55 Apr 17 2013 Address: гр. София, кв. Надежда 4, ул. Йордан Хаджиконстантинов  133
+Name: N/A Type: клуб Date: 09:30 Dec 19 2012 Address: софия, ул. иван асен 2
+Name: Ла Кубанита Type: ресторант Date: 10:44 Mar 30 2013 Address: София, ул.Битоля 2-зад бензиностанция Шел на бул.България
+Name: Наше село Type: ресторант Date: 08:49 Oct 7 2016 Address: град София, ул. Академик Иван Гешов  15
+Name: N/A Type: N/A Date: 19:15 Dec 1 2013 Address: София, ж.к. Младост 4, блок 416
+Name: N/A Type: N/A Date: 10:40 Mar 30 2013 Address: София, ул.Битоля 2-зад бензиностанция Шел на бул.България
+Name: la pergola Type: ресторант Date: 09:00 Oct 7 2016 Address: град София, ул. Балчик  9
+Name: Бъфало Type: ресторант Date: 04:40 Oct 8 2016 Address: град София, жк Люлин, ул. Панчо Владигеров  20
+Name: Св. Дух Type: заведение Date: 10:28 Oct 1 2015 Address: София, град Нови Искър, Кумарица, ул. Светъл път
+Name: Арбат Type: бар Date: 01:40 Jun 26 2013 Address: София, ул. Шипка 24
+Name: ресторант Дионис Type: ресторант Date: 10:00 Jun 11 2013 Address: София, ул. Враня 20
+Name: Тифани Type: клуб Date: 11:45 Sep 23 2016 Address: град София, ул. Иван Денкоглу  12
+Name: Градина Type: ресторант Date: 10:19 Feb 22 2014 Address: град София, Студентски град, улица Професор д-р Иван Странски, бл. 60
+Name: Ветрило Type: пицария Date: 01:36 Jun 25 2013 Address: София, жк Борово, ул. Солун с/у бл 43
+Name: Maze Type: клуб Date: 12:48 Dec 28 2015 Address: град София, ул. Христо Белчев  1
+Name: Maze Type: клуб Date: 10:00 Dec 26 2015 Address: град София, ул. Христо Белчев 1
+Name: Бедрум Type: клуб Date: 12:34 Jun 11 2013 Address: София, пл.Народно събрание 3
+Name: Sweet bar&grill Type: бар Date: 01:49 Oct 29 2016 Address: град София, Зала Фестивална
+Name: N/A Type: бар Date: 01:00 Dec 22 2012 Address: гр. София, ул. Малко Търново  2
+Name: Катерина Type: бар Date: 05:35 Oct 29 2016 Address: град София, пл. П.Р. Славейков 7А (в безистена)
+Name: Jim Beam Type: дискотека Date: 03:45 Feb 13 2016 Address: град София, Студентски град, ул. Атанас Манчев 3
+Name: Миил Комерс Type: ресторант Date: 05:00 Oct 5 2016 Address: град София, жк.Дружба 1, пазара, зад заложна къща Евро комерс
+Name: Boombar Type: заведение Date: 06:18 Oct 5 2016 Address: град София, Студентски град, ул. Академик Стефанов 2а до МТел
+Name: N/A Type: заведение Date: 13:58 Oct 19 2012 Address: София, ул. Верила 3, Mr. Pizza ресторант
+Name: N/A Type: клуб Date: 00:42 Oct 20 2012 Address: София на ул. Иван Шишман и Славянска, под ресторант Мачу Пикчу, вратата на клуба е обикновенно заключена, има звънец.
+Name:  на Спортен център Кристал Type: ресторант Date: 10:03 Mar 26 2016 Address: град София, бул. Ломско шосе  207
+Name: Sound Wave Type: клуб Date: 12:15 Jun 29 2013 Address: София, ул. Академик Борис Стефанов 4, слиза се по стълби до подземен етаж.
+Name: N/A Type: заведение Date: 23:02 Oct 18 2012 Address: София, кв. Драгалевци, ул. Крайречна  26
+Name: Poison Type: бар Date: 12:30 Sep 18 2015 Address: град София, Аксаков 11А
+Name: Рубайят  Type: ресторант Date: 10:30 Jun 11 2013 Address: София, Площад България 1, НДК, вход А5 (до пилоните)
+Name: N/A Type: N/A Date: 12:49 Jan 1 2016 Address: град София, ул. Аксаков 11 А
+Name: N/A Type: заведение Date: 13:25 Jan 3 2013 Address: гр. София, ул. Аксаков  11А
+Name: Mega Dance Type: клуб Date: 01:43 Jun 27 2013 Address: София, Студентски град, бул. Акад. Борис Стефанов, Зимен дворец на спорта
+Name: Пойзън Type: бар Date: 12:04 Mar 9 2014 Address: град София, ул. Аксаков 11а
+Name: СССР  Type: ресторант Date: 09:22 Feb 5 2015 Address: град София, ул. Адомировска  24
+Name: gatsby Type: ресторант Date: 11:47 Feb 7 2014 Address: град софия, ул.никола габровски 39
+Name:  Дамаскино Type: ресторант Date: 09:00 Oct 10 2015 Address: град София, кръстовище на ул. Цар Симеон и бул. К. Величков
+Name: Трите смока Type: ресторант Date: 11:00 Mar 29 2013 Address: София, Ъгълът на ул. Пиротска и ул. Зайчар
+Name: N/A Type: N/A Date: 13:46 Nov 26 2012 Address: София, Дианабад
+Name: Бъфало Type: заведение Date: 08:41 Oct 21 2016 Address: град София, жк Люлин, бул. Панчо Владигеров 20
+Name: N/A Type: N/A Date: 09:34 May 31 2014 Address: град София, ул. Христо Белчев 13
+Name: N/A Type: N/A Date: 09:35 Apr 17 2014 Address: град София, ул. Христо Белчев 13
+Name:  Type: клуб Date: 02:00 Oct 4 2013 Address: София, пл. Народно събрание 4
+Name: N/A Type: N/A Date: 07:30 Mar 9 2014 Address: град София, ул. Христо Белчев 13
+Name: di modulo Type: клуб Date: 12:55 Mar 9 2014 Address: град София, ул., Добрила 9
+Name: N/A Type: N/A Date: 10:42 Mar 17 2014 Address: Ул. Христо Белчев 13, град София
+Name: Магията на Чергите Type: механа Date: 01:44 Nov 29 2015 Address: град София, Студентски град, бл. 60
+Name: Бар Бедрум Type: бар Date: 02:40 Jan 20 2013 Address: София, Пл. Народно събрание
+Name: N/A Type: N/A Date: 08:11 Apr 12 2014 Address: град София. ул. Христо Белчев  13
+Name: и динер 60/60 Type: бар Date: 12:00 Oct 25 2016 Address: град София, бул. Мария Луиза 63
+Name: Jack Type: бар Date: 06:09 Jan 14 2014 Address: град София, пл. България  1, НДК
+Name: N/A Type: N/A Date: 01:39 Oct 24 2012 Address: гр. София бул. Ботевградско Шосе 40
+Name: N/A Type: N/A Date: 13:33 Oct 21 2012 Address: гр. София ул. Дойран 2
+Name: Траяна Type: ресторант Date: 01:58 Apr 20 2016 Address: град София, ул. Лом  1
+Name: е Flocafe Type: кафе Date: 08:00 Nov 15 2013 Address: София, Пл. Света Неделя
+Name: N/A Type: N/A Date: 19:00 Oct 20 2012 Address: гр. София, ул. Орехова гора  42А
+Name: Мечките Type: ресторант Date: 02:32 Mar 18 2014 Address: град София, ж.к. Гео Милев, ул. Лидице  31
+Name: Траяна Type: ресторант Date: 02:07 Apr 20 2016 Address: град София, ул. Лом  1
+Name: Талпа Type: бирария Date: 07:10 Dec 16 2015 Address: град София , ул. Христо Чернопеев 6
+Name: Синият лъв Type: ресторант Date: 08:07 May 29 2015 Address: град София, ул. Иван Вазов  6
+Name: N/A Type: кафе Date: 22:00 Oct 20 2012 Address: София, бул. Осми декември
+Name: N/A Type: N/A Date: 20:12 Dec 21 2012 Address: софия, пл.света неделя
+Name: Терасата Type: кафе Date: 08:30 Nov 2 2015 Address: град София, ж.к. Сухата река, ул. Александър Екзарх 11, до бензиностанция Rompetrol
+Name: N/A Type: ресторант Date: 22:30 Oct 20 2012 Address: София, ул. Тодор Каблешков  45
+Name: Варщайнер Type: бирария Date: 06:15 Mar 28 2014 Address: град София , ул. Гурко  7А
+Name: N/A Type: N/A Date: 08:19 Jan 19 2014 Address: град София, Надеждал Бл.329, р 13
+Name:  Бижу Type: ресторант Date: 09:54 Feb 7 2015 Address: град София, Младост 1а, ул. Кръстьо Раковски  2, блок 509
+Name: Intrigue Bar&Dinner Type: ресторант Date: 04:13 Feb 2 2013 Address: гр. София, бул. Витоша 102
+Name: Партер Type: бистро Date: 23:30 Oct 20 2012 Address: София, ул. Добруджа  9
+Name: N/A Type: ресторант Date: 12:23 Jan 26 2013 Address: София, Студентски град, бл.59, вх.б
+Name: Тавана Type: ресторант Date: 09:00 Jan 18 2014 Address: град София, бул. България  98, Бизнес сграда Астра, етаж 12
+Name: N/A Type: кафе Date: 12:32 Dec 12 2013 Address: София, ул. Ген Хосе де Сан Мартин
+Name: Тортуга Type: ресторант Date: 11:43 Jan 24 2014 Address: град София, кв. Редута, ул. Попова шапка  44
+Name: Таван Type: ресторант Date: 03:40 Feb 18 2014 Address: град София, бул. България  98, Бизнес сграда Астра, етаж 12
+Name: N/A Type: ресторант Date: 01:04 Jan 26 2013 Address: София, Студентски град, бл.59, вх.б
+Name: - пицария Мистър Пица Type: заведение Date: 07:00 Apr 3 2014 Address: град София, бул. България 47 А
+Name: N/A Type: N/A Date: 07:00 Feb 11 2014 Address: град София, Младост 1, бул. Сахаров 14
+Name: Swinging Hall Type: клуб Date: 11:00 Nov 16 2013 Address: София, бул. Драган Цанков 8, на ъгъла с ул. Добри Войников
+Name: без име Type: кафе Date: 11:31 Feb 10 2016 Address: град София, кв. Овча Купел, ул. Любляна 38
+Name: N/A Type: N/A Date: 11:20 Jan 23 2014 Address: град софия, Ул иван шишман 22
+Name: Под липите Type: ресторант Date: 09:40 Sep 18 2016 Address: град София, ул. Елин Пелин 1
+Name: Под липите Type: ресторант Date: 02:25 Jun 30 2013 Address: София, ул. Елин Пелин 1
+Name: Backyard Type: бар Date: 11:00 Mar 29 2014 Address: град София, ул. Цар Иван Шишман 22
+Name: N/A Type: N/A Date: 08:16 Mar 9 2014 Address: град София, ул. Професор д-р Иван странски 5
+Name: Къщата Type: ресторант Date: 10:56 Jun 8 2013 Address: София, Студентски Град, ул.Проф.д-р Иван Странски, блок 59
+Name: Билкова Type: бар Date: 01:18 Jan 11 2014 Address: град София, ул. Иван Шишман  22
+Name: Добро Type: ресторант Date: 09:00 May 23 2016 Address: град София, ул. Петър Парчевич  35
+Name: градина Йоли Type: ресторант Date: 03:00 Nov 8 2013 Address: София, София, кв. Дървеница, ул. Иван Боримечката 22
+Name: Backyard Type: бар Date: 12:49 Mar 6 2014 Address: град София, ул. Цар Иван Шишман  22
+Name: N/A Type: N/A Date: 13:10 Dec 20 2012 Address: Ул. Парчевич 33, София
+Name: N/A Type: N/A Date: 11:15 Jan 17 2015 Address: София, бул. Цариградско шосе  115
+Name: N/A Type: N/A Date: 11:00 Feb 20 2016 Address: град София, бул. Цариградско шосе  115, Тhe Mall
+Name: бирария Дървеното Type: ресторант Date: 12:00 May 16 2016 Address: град София, ул. Русалски лък/ул. Тодорини кукли, до пазара на стадион Герена
+Name:  игуана Type: ресторант Date: 07:50 Feb 14 2013 Address: софия, ул. проф. петър ников 8
+Name: Ла Пиацета Type: ресторант Date: 10:00 Mar 7 2014 Address: град София, кв. Лозенец, ул. Цветна градина 5
+Name: N/A Type: N/A Date: 03:00 Dec 21 2012 Address: София, Христо Ботев
+Name: N/A Type: N/A Date: 22:03 Nov 1 2012 Address: София, жк.Люлин, бул. Джавахарлал
+Name: N/A Type: N/A Date: 05:00 Apr 12 2014 Address: град София, жк. Младост 2, бл. 245
+Name: N/A Type: N/A Date: 20:21 Nov 14 2012 Address: София бул. Витоша 180 Golden Nero,обособено затворено място за пушачи,което не отговаря на изискванията за две отворени страни.
+Name: N/A Type: N/A Date: 12:00 Apr 25 2015 Address: град София, ул. Драган Цанков  8
+Name: Патладжан Type: ресторант Date: 07:00 Mar 12 2014 Address: град София, жк Надежда, бул. Ломско шосе  26
+Name: Густоза Type: ресторант Date: 10:38 Jan 16 2014 Address: град София, ул. Александър Момчев, срещу бл. 30, до 148-мо СОУ
+Name: Дървеното Type: ресторант Date: 09:56 May 17 2014 Address: град София, жк Сухата Река, Русалски лък 1
+Name: N/A Type: N/A Date: 12:00 Mar 27 2015 Address: град София, кв. Сухата река, ул. Тодорини кукли
+Name: При Петицата Type: ресторант Date: 12:19 Jan 29 2016 Address: град София, ул. княз Борис Първи  112
+Name: Ескобар Type: бар Date: 10:40 Mar 1 2013 Address: София, бул. Васил Левски 3
+Name: Swinging hall Type: бар Date: 11:53 Jan 4 2014 Address: град София, бул. Драган Цанков  8
+Name: N/A Type: N/A Date: 20:30 Jan 6 2013 Address: София, ул. Черковна 75 В
+Name: Графит Type: ресторант Date: 07:09 Aug 7 2013 Address: София, ул. Три уши 2
+Name: N/A Type: N/A Date: 10:00 Dec 8 2013 Address: София, булевард Драган Цанков 8
+Name: Катерина Type: бар Date: 12:07 Oct 20 2013 Address: София, пл. Славейков 7A
+Name: N/A Type: N/A Date: 13:59 Dec 28 2012 Address: гр. София, бул. Джеймс Баучер  124
+Name: Swinging Hall Type: заведение Date: 01:00 Oct 19 2013 Address: София, бул. Драган Цанков 8
+Name: Катерина Type: бар Date: 08:30 Mar 6 2013 Address: София, пл. Славейков 7
+Name: N/A Type: N/A Date: 13:25 Dec 28 2012 Address: гр. София, бул. Джеймс Баучер  124
+Name: Катерина Type: бар Date: 11:00 Mar 12 2016 Address: град София, пл. Славейков  7, безистен
+Name: N/A Type: N/A Date: 16:11 Jan 2 2013 Address: София, бул. Джеймс Баучер 124
+Name: Hacienda Club Type: клуб Date: 02:01 Feb 1 2015 Address: град София, Площад Народно събрание  3
+Name: N/A Type: N/A Date: 12:27 Dec 23 2012 Address: Гр. София, бул. Джеймс Баучер 124
+Name: ве Ревю Type: клуб Date: 01:30 Jan 27 2013 Address: гр. София, пл. Народно събрание  10
+Name: Катерина Type: бар Date: 07:32 Feb 15 2015 Address: гр. София, пл. Славейков 7, в двора
+Name: Брилянтин Type: бар Date: 02:40 Dec 29 2013 Address: София, Центъра на София
+Name: Катерина Type: бар Date: 07:00 Jan 4 2014 Address: град София, пл. Славейков 7, безистена
+Name: N/A Type: N/A Date: 01:18 Jan 17 2015 Address: София, ул. Княз Борис I 121
+Name: Шугар Type: клуб Date: 12:35 Jul 17 2016 Address: град София, ул. Княз Борис I 121
+Name: Шугър Type: клуб Date: 04:39 Jan 17 2015 Address: София, ул. Княз Борис  121
+Name: Рубаят Type: ресторант Date: 08:20 Feb 17 2015 Address: град София, пл. България  1, НДК
+Name: HAPPY BAR & GRILL Будапеща Type: ресторант Date: 09:25 Nov 6 2013 Address: София, ул. Г.С.Раковски  145
+Name: HAPPY BAR & GRILL Будапеща Type: ресторант Date: 09:40 Nov 6 2013 Address: София, ул. Г. С. Раковски 145
+Name: Джим Бийм Type: клуб Date: 03:38 Sep 24 2016 Address: град София, ул. Витоша 31-33
+Name: N/A Type: N/A Date: 05:22 Apr 5 2015 Address: град София, ул. Раковски  145
+Name: Вики Type: пицария Date: 07:27 Nov 1 2013 Address: София, ж.к.Левски Г, ул. Поп Грую (бул. Владимир Вазов)
+Name: аперитив Пепино Type: кафе Date: 09:14 Dec 5 2013 Address: София, ул. Константин Фотинов 114
+Name: Петров Type: кафе Date: 12:40 Jan 15 2013 Address: гр.София, кв Левски, ул. Иван Чушков 3
+Name: Сохо Type: бар Date: 07:30 Mar 5 2014 Address: град София, ул Хан Крум  30
+Name: N/A Type: N/A Date: 00:00 Dec 15 2012 Address: бул. Христо Ботев 61, София
+Name: N/A Type: N/A Date: 08:11 Feb 14 2013 Address: София, пл. Възраждане
+Name: N/A Type: N/A Date: 19:00 Nov 26 2012 Address: BESO, София, Тодор Каблешков 41
+Name: БЕСО Type: ресторант Date: 08:00 Apr 16 2015 Address: град София, бул. Тодор Каблешков 45
+Name: N/A Type: N/A Date: 09:30 Sep 20 2016 Address: град София, ул. Шипка  6
+Name: N/A Type: N/A Date: 09:22 Sep 21 2016 Address: град София, ул. Златовръх 2
+Name: HurremSultan Type: ресторант Date: 10:00 Oct 12 2013 Address: София, Ул Разград 8
+Name: Биад Type: клуб Date: 04:40 Sep 20 2016 Address: град София, ул. Ген. Гурко 16
+Name: N/A Type: N/A Date: 22:18 Dec 28 2012 Address: гр. София, жк Младост 1, бул. Андрей Ляпчев  56
+Name: N/A Type: N/A Date: 13:32 Jan 8 2013 Address: гр.София , Младост 2 бул. Андрей Ляпчев 56
+Name: N/A Type: N/A Date: 09:52 Sep 21 2016 Address: град София, бул. Васил Левски 29
+Name: Once upon a time Biblioteka Type: клуб Date: 02:10 Dec 29 2013 Address: София, Библоитека Св. Кирил и Методии
+Name: Joy  Type: кафе Date: 11:28 Jan 26 2013 Address: гр. София, Младост 2 , Бул Андрей Ляпчев 56
+Name: N/A Type: бар Date: 13:03 Jan 26 2013 Address: София, бул. Андрей Ляпчев 56
+Name: Cafe Joy Type: кафе Date: 09:00 Mar 19 2014 Address: град София, Младост, бул. Андрей Ляпчев 56
+Name: N/A Type: N/A Date: 02:19 Jul 27 2014 Address: град София, Национална библиотека
+Name: N/A Type: пицария Date: 05:45 Dec 21 2013 Address: София, ул. Юрдан Иванов, Овча Купел 1
+Name: N/A Type: N/A Date: 02:00 Feb 23 2014 Address: град София, Народна библиотека Св. Св. Кирил и Методий
+Name: Once upon a time Type: бар Date: 12:30 Nov 8 2013 Address: София, Национална библиотека Кирил и Методи
+Name: The Bee Garden Type: ресторант Date: 12:16 Feb 3 2016 Address: град София, жк Лозенец, ул. Свети Седмочисленици 2
+Name: N/A Type: N/A Date: 11:46 Jan 3 2015 Address: град София, бул. Цариградско шосе  115
+Name: The Bee Type: ресторант Date: 01:00 Dec 16 2015 Address: град София, ул. Свети Седмочисленици  2
+Name: Блисс Бар Type: заведение Date: 04:35 Mar 24 2014 Address: град София, ул. Шандор Петьофи  26
+Name: N/A Type: N/A Date: 11:00 Jan 17 2015 Address: град София, Цариградско шосе  115
+Name: Петте кьошета Type: бирария Date: 08:21 Mar 14 2014 Address: град София, бул. Генерал Скобелев  25
+Name:  Type: бар Date: 09:36 Mar 13 2013 Address: София, На пазар Иван Вазов
+Name: Петте Кьошета Type: бирария Date: 12:15 Mar 13 2015 Address: град София, бул. Скобелев  25
+Name: 5-те кьошета Type: бирария Date: 08:00 Sep 10 2015 Address: град София, бул. Скобелев  25 и ул. Цар Петър
+Name: Камино Type: бар Date: 11:30 Dec 28 2016 Address: град София, ул. Неофит Рилски 70
+Name: N/A Type: N/A Date: 12:41 Jul 24 2016 Address: град София бул. Васил Левски 88
+Name: ROCK IT Type: бар Date: 01:00 Jul 30 2016 Address: град София, ул. Георги Бенковски  14
+Name: о се превръща в облаци дим от цигари Type: заведение Date: 11:58 Aug 6 2016 Address: град София, бул. Васил Левски 88, Народна библиотека
+Name: Таван Type: ресторант Date: 09:05 Aug 12 2016 Address: град София, бул. България 98
+Name: N/A Type: N/A Date: 09:13 Sep 28 2016 Address: град София, бул. Тодор Каблешков 45
+Name: N/A Type: N/A Date: 11:25 Sep 26 2016 Address: град София, жк Младост 1, Блок 74 А
+Name: ПРОВОКАТОР Type: клуб Date: 03:56 Sep 24 2016 Address: град София, площад Народно събрание
+Name: N/A Type: N/A Date: 10:34 Sep 29 2016 Address: град София, жк Хаджи Димитър, ул. Макгахан 10, пазара Макгахан
+Name: N/A Type: N/A Date: 06:07 Dec 16 2013 Address: София, Младост 3, до блок 328,
+Name: Три уши Type: клуб Date: 11:49 Dec 16 2012 Address: ул. Три уши  1, София
+Name: N/A Type: N/A Date: 22:51 Dec 29 2012 Address: гр. София, ул. Три уши  1
+Name: Орехчето Type: механа Date: 10:03 Sep 28 2016 Address: град София, ул. Лерин  52
+Name: Синатра Type: бар Date: 02:00 Sep 11 2016 Address: град София, бул. Арсеналски  5
+Name: N/A Type: N/A Date: 08:50 Dec 15 2016 Address: град София, ул. Аксаков  15
+Name: N/A Type: заведение Date: 13:38 Jan 3 2013 Address: гр. София, ул. Крум Христов Стоянов 1, в дясно от входа на ЖП гара Захарна фабрика
+Name: При Шопите Type: механа Date: 09:31 Dec 15 2016 Address: град София, Студентски град, ул. 8-ми декември  43
+Name: ФАБРИКА 126 Type: заведение Date: 10:10 Jan 23 2013 Address: София, бул. Мария Луиза 126
+Name: Фабриката 126 Type: дискотека Date: 11:58 Mar 16 2015 Address: град София, бул. Княгиня Мария Луйза  126
+Name: Лаура Type: ресторант Date: 10:12 Dec 31 2016 Address: град София, бул. България  1, НДК /ниво 2/, вход откъм А4 /по стълбите в дясно/
+Name: Студио 5 Type: бар Date: 11:40 Sep 20 2013 Address: София, пл. България 1
+Name: Сите българи Type: ресторант Date: 07:27 Mar 31 2016 Address: град София, ул. Ген. Столетов 37
+Name: РокИт Type: бар Date: 01:07 Oct 6 2012 Address: София, ул. Георги Бенковски 14, в цялото заведение
+Name: N/A Type: N/A Date: 11:45 Jan 10 2013 Address: София булевард Княгиня Мария Луиза 131
+Name: Black Lodge Type: бар Date: 11:00 Mar 7 2014 Address: град София, бул. Александър Стамболийски 34
+Name: N/A Type: заведение Date: 10:44 Nov 11 2012 Address: София, бул.Витоша 33
+Name: N/A Type: N/A Date: 12:57 Mar 30 2014 Address: град София, бул. Александър Стамболийски  34
+Name: Black Lodge Type: бар Date: 10:15 Mar 7 2014 Address: град София, бул. Александър Стамболийски  34
+Name: RockIt Type: бар Date: 12:50 Jul 17 2016 Address: град София, ул. Георги Бенковски 21
+Name: 365 Type: бар Date: 12:52 Mar 4 2013 Address: София, ул. Шипка 1 (на ъгъла на ул. Оборище и бул. В. Левски)
+Name: 365 Type: заведение Date: 01:00 Mar 9 2013 Address: софия, ул. Шипка 1
+Name: Once Upon a Time Biblioteka Type: клуб Date: 01:30 Jul 17 2016 Address: град София, бул. Васил Левски 88
+Name: Jim Beam Type: дискотека Date: 12:45 Dec 11 2016 Address: град София, бул. Витоша 31
+Name: Галери Type: заведение Date: 04:08 Mar 10 2014 Address: град София, ул. 19 Февруари  1
+Name: Бел Вю Type: ресторант Date: 07:30 Feb 9 2016 Address: град София, бул. Янко Сакъзов 17
+Name: е Cache Cafe Type: кафе Date: 11:10 Dec 12 2016 Address: град София, бул. Арсеналски  2
+Name: N/A Type: N/A Date: 10:07 Apr 3 2015 Address: град София, ул. Сан Стефано  1
+Name: Тукан Type: пицария Date: 01:33 Sep 14 2015 Address: град София, ж.к. Красно село 15-Ж, бул.Тотлебен 71
+Name: Rich House Type: ресторант Date: 11:48 Dec 12 2016 Address: град София, ул. Черковна  87
+Name: Блазе Type: ресторант Date: 01:20 Dec 12 2016 Address: град София, Студентски град, ул. Атанас Манчев  10
+Name: N/A Type: N/A Date: 07:00 Dec 12 2016 Address: град София, зала Фестивална
+Name: N/A Type: N/A Date: 12:57 Sep 20 2012 Address: София, У.Гладстон 32
+Name: Зафиро в присъствие на дете Type: ресторант Date: 02:29 Dec 29 2016 Address: град София бул. Ал. Пушкин 38
+Name: N/A Type: N/A Date: 10:05 Sep 24 2012 Address: София, ул. Орехова гора 42А
+Name: N/A Type: N/A Date: 12:49 Jan 22 2013 Address: София, бул. Мария Луиза 121
+Name:  Type: клуб Date: 05:16 Mar 18 2013 Address: София, кв. Люлин, бл.032 А
+Name: Тара-М Type: клуб Date: 02:35 Mar 21 2013 Address: София, ж.к.  Люлин  1, бл.028
+Name: N/A Type: дискотека Date: 12:39 Sep 23 2012 Address: гр. София бул. Христо Ботев 61
+Name: Level Type: кафе Date: 02:48 Mar 12 2013 Address: София, Люлин 1, бл.32 А, ул. 102
+Name: Баяр и пицария Гости Type: клуб Date: 10:56 Sep 19 2013 Address: София, ж.к. Люлин - 2, ул. Ген. Михаил Савов
+Name:  Лозата Type: ресторант Date: 06:30 May 4 2016 Address: град София, ж.к. Лозенец, ул. Йоан Екзарх 21
+Name: Лозата Type: ресторант Date: 09:00 Jun 24 2014 Address: град София, кв. Лозенец, ул. Йоан Екзарх 21
+Name: N/A Type: клуб Date: 12:06 May 26 2014 Address: град София, ул. Република  52
+Name: Зафиро Type: ресторант Date: 10:11 Dec 17 2016 Address: град София, ул. Александър Пушкин 38
+Name: N/A Type: клуб Date: 13:06 Dec 9 2012 Address: Позитано 8, София
+Name: Карабас Барабас Трети Type: бар Date: 08:12 Mar 7 2014 Address: град София, ул. Кирил и Методий 44
+Name: N/A Type: N/A Date: 20:25 Dec 17 2013 Address: София, площад Света Неделя
+Name: N/A Type: заведение Date: 13:46 Jan 11 2013 Address: Пицария Friends Красна Поляна на бул. Възкресение 62, София
+Name: N/A Type: N/A Date: 10:00 Feb 2 2016 Address: град София, ул. Кирил и Методий  44
+Name: N/A Type: N/A Date: 11:38 Jul 20 2016 Address: град София, ул. Поп Богомил 1-3 (заведението се намира на ул. Раковски)
+Name:  на Народния театър Type: ресторант Date: 08:00 Dec 17 2016 Address: град София, ул. Дякон Игнатий 5
+Name: Колхида Type: ресторант Date: 01:38 Jun 2 2015 Address: град София, ул. Поп Богомил  9
+Name: Джепето на ул.Гурко 19 Type: заведение Date: 13:24 Dec 16 2012 Address: ул.Ген Гурко 19, София
+Name: в Mixtape 5 Type: заведение Date: 01:47 Dec 18 2016 Address: град София, в подлеза на НДК под кръстовището на бул.България и бул.Черни връх
+Name: N/A Type: N/A Date: 11:56 Jan 18 2014 Address: град София, ул. Стефан Караджа  26
+Name: N/A Type: N/A Date: 01:53 Dec 29 2016 Address: град София, ул. Пиротска  7
+Name: Синатра Type: бар Date: 03:33 Aug 21 2016 Address: град София, бул. Арсеналски 5
+Name: N/A Type: N/A Date: 11:25 Aug 19 2016 Address: град София, Линия 72, автобус с номер СА 0155
+Name: Сикрет Type: ресторант Date: 10:45 Aug 18 2016 Address: град София, бул. Цар Освободител  12
+Name: N/A Type: ресторант Date: 13:32 Sep 12 2012 Address: гр. София, бул. Гоце Делчев, No 69, ресторант Фиоре
+Name: N/A Type: ресторант Date: 13:25 Dec 9 2012 Address: гр. София, ул. Съборна 14
+Name: N/A Type: N/A Date: 01:40 Sep 30 2012 Address: София
+Name: N/A Type: N/A Date: 12:10 Dec 7 2012 Address: София, ул. Леге, бар Flight
+Name: Т и М Type: ресторант Date: 07:00 Sep 17 2013 Address: гр. София, ул. Юрий Венелин 34
+Name: N/A Type: N/A Date: 02:55 Mar 29 2013 Address: София, Ул. Георги Раковски 113
+Name: N/A Type: N/A Date: 22:30 Dec 22 2012 Address: гр. София, ул. Леге 15
+Name: Конти Type: пицария Date: 09:00 Mar 6 2016 Address: град София, ул. Гео Милев 132
+Name: N/A Type: N/A Date: 22:23 Sep 23 2012 Address: София, Булевард Витоша 18, Boutique Lounge bar
+Name: Маскара Type: клуб Date: 02:00 Jan 10 2014 Address: град София, ул. Г.С.Раковски  113
+Name: Ветрило 2 Type: пицария Date: 08:36 Feb 14 2013 Address: София,жк. Стрелбище ул Орехова гора 42А
+Name: Ветрило Type: пицария Date: 08:40 Feb 15 2013 Address: София, Ул.Орехова гора 42А
+Name: N/A Type: N/A Date: 01:39 Dec 20 2013 Address: София , Ул. Московска
+Name: N/A Type: N/A Date: 20:10 Oct 1 2012 Address: софия кв стрелбище ул.орехова гора
+Name: Ветрило 2 Type: пицария Date: 02:10 Mar 3 2013 Address: София, жк. Стрелбище ул Орехова гора 42А
+Name: Ветрилото в кв. Борово Type: ресторант Date: 13:40 Dec 16 2012 Address: София, кв. Борово, ул. Солун срещу Бл.43
+Name:  Once upon a time Biblioteka Type: дискотека Date: 01:00 Oct 18 2015 Address: град София, бул. Васил Левски 88
+Name: N/A Type: бар Date: 01:52 Oct 3 2012 Address: софия, ул. Верила 5, на ъгъла с Цар Асен
+Name: Ветрило 2 Type: пицария Date: 02:43 Feb 16 2013 Address: София, жк. Стрелбище ул Орехова гора 42А
+Name: Осогово Type: ресторант Date: 00:43 Sep 18 2012 Address: Ресторант Осогово, ул. Осогово, гр. София
+Name: Ветрило Type: пицария Date: 01:57 Feb 14 2013 Address: София, ж.к. Стрелбище, ул.Орехова гора 42А
+Name: о Монтерей Type: заведение Date: 03:07 Apr 20 2016 Address: град София, ж.к. Люлин 10, срещу блок 107, търговски център Принцеса
+Name: N/A Type: N/A Date: 14:00 Dec 22 2012 Address: София, жк. Люлин 10, бл.156
+Name: N/A Type: N/A Date: 13:47 Oct 3 2012 Address: Motto и Арт клуб в София
+Name: N/A Type: N/A Date: 08:30 Nov 20 2015 Address: град София, ж.к. Люлин 9, блок 961
+Name: Ветрило 2 Type: пицария Date: 11:19 Apr 26 2013 Address: София, жк. Стрелбище ул Орехова гора 42А
+Name: SNAKE - BAR & DINNER Type: бар Date: 08:25 Jan 15 2014 Address: град София, Люлин 7, бул. Царица Йоана 49, офис-сграда Киров
+Name: N/A Type: пицария Date: 13:20 Sep 16 2012 Address: гр. София жк. Стрелбище ул Орехова гора 42А
+Name: sweet bar Type: кафе Date: 02:00 Oct 26 2013 Address: София, жк. Младост 3, ул Свето Преображение, до блок 328
+Name: куба либре Type: клуб Date: 04:25 Jan 25 2014 Address: град софия кв.люлин бл.902
+Name: N/A Type: N/A Date: 04:53 Feb 24 2016 Address: град София, кв. Младост 1а, бл. 550
+Name: Special Bar Type: бар Date: 10:18 Apr 30 2014 Address: град София, улица Софийски герой 3
+Name: N/A Type: заведение Date: 04:39 Dec 18 2013 Address: София, ж.к. Лагер, ул.баба Илийца
+Name: Boutique lounge bar Type: бар Date: 22:40 Jan 26 2013 Address: София, бул. Витоша 18
+Name: So bar  Type: кафе Date: 08:30 Feb 11 2016 Address: град София, ул. Софийски герой  3
+Name: N/A Type: N/A Date: 08:33 Mar 6 2014 Address: град София, ул. Софийски герой  1
+Name: ID Type: клуб Date: 01:02 Feb 8 2015 Address: София, улица Кърниградска 19
+Name: I.D. Type: клуб Date: 02:00 Jan 31 2014 Address: град София Ул. Кърниградска 19
+Name: N/A Type: пицария Date: 13:56 Nov 21 2012 Address: гр. София, ж.к. Хаджи Димитър, ул. Гинци 2
+Name: N/A Type: N/A Date: 12:30 Oct 20 2013 Address: София, Ул христо белчев 12
+Name: Ла Плаза Type: пицария Date: 04:17 Sep 29 2013 Address: гр. София, ж.к. Хаджи Димитър ул. Гинци 2
+Name: N/A Type: N/A Date: 10:50 Jan 31 2015 Address: град София, ул. Княгиня Клементина  4
+Name: N/A Type: кафе Date: 13:37 Dec 29 2012 Address: София, булевард Стамболийски 249
+Name: N/A Type: заведение Date: 04:00 Dec 26 2013 Address: София
+Name: N/A Type: заведение Date: 12:35 Jan 25 2014 Address: град София, Константин Величков 59
+Name: N/A Type: N/A Date: 00:08 Dec 1 2012 Address: София орлов мост , заведение  Ариана
+Name: Plazza dance center  Type: дискотека Date: 02:38 Apr 30 2013 Address: София, ул. Атанас Манчев 6
+Name: - CLUB CABARET Type: заведение Date: 11:39 Mar 25 2014 Address: град София, ул. Христо Белчев 12
+Name: N/A Type: N/A Date: 06:01 Apr 21 2013 Address: гр. София, Студентски град, Зимен дворец на спорта, ул.Атанас Манчев 6
+Name: N/A Type: N/A Date: 12:23 Oct 20 2013 Address: София, ул. Христо Белчев 12
+Name: N/A Type: N/A Date: 10:52 Jan 3 2013 Address: 1616 София, кв.Бояна, ул. Иваница Данчев 27
+Name: Sense restaurant 9 floor Type: ресторант Date: 11:03 Feb 13 2014 Address: София, Ул. Цар освободител
+Name: Библиотеката Type: клуб Date: 01:54 Mar 27 2015 Address: град София, бул. Васил Левски 88
+Name: клуб Кабаре Type: бар Date: 01:12 Jan 10 2015 Address: град София, ул. Христо Белчев 12
+Name: пицария Капри Type: ресторант Date: 11:20 Nov 7 2013 Address: София, ж.к. Люлин 10, блок 156
+Name: N/A Type: N/A Date: 06:37 Mar 4 2015 Address: град София, жк Люлин, бул. Джавахарлал Неру  6
+Name: Жул Верн Type: бар Date: 01:08 Jan 26 2014 Address: град София, ул. Георги С. Раковски  127, ет. 2
+Name: Пицария Капри Type: ресторант Date: 10:00 Dec 4 2013 Address: София, жк Люлин 10, бул. Царица Йоана, бл. 156
+Name: N/A Type: N/A Date: 03:54 Dec 26 2012 Address: гр. София, ул. Гурко  16
+Name: N/A Type: N/A Date: 02:29 Jun 1 2014 Address: град София, бул. Раковски  113
+Name: Mascara Type: заведение Date: 12:22 Feb 22 2014 Address: град София, ул. Раковски  113
+Name: N/A Type: N/A Date: 03:06 Dec 26 2012 Address: гр. София, ул. Гурко  16
+Name: N/A Type: клуб Date: 17:11 Jan 3 2013 Address: гр.София, ж.к. Младост 2, бул. Андрей Ляпчев 56
+Name: N/A Type: N/A Date: 10:18 Oct 10 2013 Address: София, Ул. Раковски 123
+Name: N/A Type: клуб Date: 02:00 Feb 21 2014 Address: град София ул.Раковски 113
+Name: N/A Type: N/A Date: 13:14 Jan 3 2013 Address: София, Изток, ул. Тарас Шевченко 3
+Name: N/A Type: N/A Date: 03:21 Dec 26 2012 Address: гр. София, ул. Гурко  16
+Name: N/A Type: N/A Date: 01:03 Apr 22 2013 Address: гр. София, Студентски град, Зимен дворец на спорта, ул.Атанас Манчев 6
+Name: N/A Type: N/A Date: 13:24 Jan 6 2013 Address: София, бул. Джеймс Баучер 100
+Name: N/A Type: N/A Date: 05:00 Jan 24 2013 Address: София, Бул. Джеймс баучер 100
+Name: Тазка Type: ресторант Date: 20:28 Jan 21 2013 Address: София, площад Руски Паметник (Лилава Къща)
+Name: е Кенди Клуб Type: кафе Date: 12:04 Mar 17 2013 Address: София, Бул. Джеймс баучер 100
+Name: Рoison Type: бар Date: 12:32 Feb 21 2016 Address: град София, ул. Аксаков 11
+Name: Канги Type: кафе Date: 06:30 Mar 15 2013 Address: София, бул.Тотлебен 2
+Name: Канги Type: кафе Date: 06:37 Feb 22 2013 Address: София, бул.Тотлебен 2
+Name: Чановете Type: ресторант Date: 11:03 Apr 13 2013 Address: София, Надежда 1, ул. Кирил Дрангов 81
+Name: Чановете Type: ресторант Date: 18:57 Jan 16 2013 Address: София Надежда 1 ул. Кирил Дрангов 81
+Name: Smooth Type: кафе Date: 08:50 Mar 26 2013 Address: София, ул. Дамян Груев 28-30 
+Name: N/A Type: заведение Date: 01:29 Jan 18 2013 Address: София, кафе към тенис кортове Академик
+Name: So bar  Type: кафе Date: 08:00 Feb 17 2016 Address: град София, ул. Георги Софийски  4
+Name: Elidis ground level cafe Type: кафе Date: 08:13 Jul 31 2014 Address: град София, Бул. Скобелев 62
+Name: N/A Type: N/A Date: 19:57 Dec 13 2013 Address: софия надежда 4
+Name: N/A Type: ресторант Date: 12:04 Mar 10 2013 Address: София, ул. Разслатица 5
+Name: Чановете Type: механа Date: 08:00 Mar 8 2016 Address: град София, ул. Кирил Дрангов  81
+Name: Charlie Sheen Type: клуб Date: 11:09 Feb 16 2015 Address: град София, ул. Стефан Караджа  26
+Name: N/A Type: N/A Date: 10:43 Jan 15 2013 Address: София, Ул. Иван Денкоглу 17 , на ъгъла на бул. Витоша
+Name: N/A Type: N/A Date: 02:00 May 1 2013 Address: София, бул. Васил Левски 88
+Name: N/A Type: N/A Date: 00:00 Jan 5 2013 Address: София, ул. Позитано 8
+Name: Релакс на Ломско шосе Type: кафе Date: 06:30 Jan 23 2015 Address: град София, бул. Ломско шосе  73
+Name: РЕЛАКС Type: заведение Date: 02:41 Feb 9 2015 Address: град София, булевард Ломско шосе 73
+Name: Еклипс Type: клуб Date: 11:25 May 3 2013 Address: София, ул.Позитано 8
+Name: Relax Type: бар Date: 04:20 Mar 7 2015 Address: град София, кв. Надежда, бул. Ломско шосе  73
+Name: Весело село Type: ресторант Date: 09:30 Nov 9 2013 Address: София, Парк Борисова градина
+Name: Релакс Type: бар Date: 04:00 Jan 1 2015 Address: град София, бул. Ломско шосе  73
+Name: N/A Type: N/A Date: 09:50 Jan 11 2014 Address: град София, Борисова градина
+Name: Ветрило Type: пицария Date: 08:33 Apr 19 2013 Address: София, жк Борово, ул. Солун с/у бл 43
+Name: N/A Type: N/A Date: 04:27 Dec 2 2015 Address: град София, бул. Цaригрaдско шосе  73
+Name: в комплекс Спортна София Type: кафе Date: 12:50 Mar 9 2013 Address: София, Борисова градина
+Name: Весело село Type: ресторант Date: 10:06 Jan 31 2014 Address: град София, Борисова градина
+Name: Мачу Пикч Type: ресторант Date: 00:37 Dec 20 2012 Address: ул. Славянска 24, София
+Name: The Company Type: ресторант Date: 10:13 Jan 29 2014 Address: град София, ул. Славянска 24
+Name: Глори Type: клуб Date: 21:00 Jan 3 2013 Address: София, ул. Пирински Проход 24А
+Name: N/A Type: N/A Date: 20:00 Dec 28 2012 Address: София, бул. Тодор Каблешков 22
+Name: Бирария Двете Халби Type: ресторант Date: 12:40 Jan 4 2013 Address: София, ж.к. Гоце Делчев, ул. Костенски водопад 71
+Name: N/A Type: заведение Date: 00:49 Dec 3 2012 Address: София, улица Славянска 24
+Name: N/A Type: заведение Date: 13:14 Jan 3 2013 Address: гр. София, ул. пирински проход 24А
+Name: Глори Type: клуб Date: 06:30 Oct 10 2013 Address: София, Ул.Пирински проход 24 А
+Name: N/A Type: N/A Date: 08:44 Oct 31 2013 Address: София, ул Свето Преображение, до блок 328
+Name: Глори Type: ресторант Date: 01:45 Feb 13 2016 Address: град София, жк. Красно село , ул. Пирински проход  24а,
+Name: id клуб Type: бар Date: 01:20 May 25 2014 Address: град София, Ул. Кърниградска, 19
+Name: N/A Type: N/A Date: 07:48 Oct 29 2013 Address: София, Ж.к. Младост 3, ул. Свето Преображение, до блок 328
+Name: ID Club Type: бар Date: 02:00 Sep 7 2013 Address: София, ул. Кърниградска 19
+Name: Глори Type: бар Date: 09:07 Feb 8 2014 Address: град София, жк. Борово, ул. Пирински проход  24А
+Name: Коко Type: клуб Date: 09:44 Apr 16 2013 Address: София, Студентски град, бул. Акад. Б. Стефанов , бл. 24 - ниско тяло
+Name: N/A Type: N/A Date: 10:06 Dec 19 2013 Address: бул. Цариградско шосе 47А, софия
+Name: N/A Type: N/A Date: 09:30 Nov 30 2013 Address: София, Младост 3, ул. Свето Преображение
+Name: N/A Type: N/A Date: 21:30 Dec 5 2012 Address: София
+Name: Bar & Grill Sweet Type: заведение Date: 06:12 Jan 3 2014 Address: град София, ж.к. Младост 3, ул. Свето Преображение до бл. 328
+Name: Царевец Type: ресторант Date: 10:51 Jan 10 2013 Address: София ул. Цар Иван Асен II 32
+Name: N/A Type: N/A Date: 10:30 Aug 16 2013 Address: гр. София, Цариградско Шосе 113
+Name: Mega Dance Type: клуб Date: 11:24 Apr 25 2013 Address: София, Студентски град, бул. Акад. Борис Стефанов, Зимен дворец на спорта
+Name: N/A Type: N/A Date: 10:00 Mar 1 2014 Address: град София, ул. Славянска 24
+Name: 180 Type: клуб Date: 01:33 Apr 25 2013 Address: София, бул. Витоша 180
+Name: N/A Type: заведение Date: 22:00 Oct 28 2012 Address: София, Студентски град, бул. Акад. Б. Стефанов , бл. 24 - ниско тяло
+Name: Sound wave Type: бар Date: 12:00 Mar 13 2016 Address: град София, Студентски град, ул.Академик Борис Стефанов  4
+Name: Playground The Mall Type: бар Date: 10:20 Mar 7 2015 Address: град София, Цариградско шосе  115
+Name: Sownd Wave (бивш Тукан) Type: бар Date: 11:50 Dec 16 2015 Address: град София, ул. Акад. Борис Стефанов  4
+Name: N/A Type: заведение Date: 18:03 Dec 12 2013 Address: софия, улица Димитър Моллов 8
+Name: N/A Type: клуб Date: 19:07 Jan 16 2013 Address: София ул. Будапеща6
+Name: N/A Type: N/A Date: 13:32 Dec 7 2012 Address: София
+Name: N/A Type: N/A Date: 01:30 Dec 23 2012 Address: София, ул.Будапеща  6
+Name: грамофон Type: клуб Date: 23:45 Dec 31 2012 Address: софия, Будапеща 6
+Name: Грамофон Type: клуб Date: 12:48 Jan 15 2013 Address: София ул.Будапеща  6
+Name: Еклипс Type: клуб Date: 21:40 Jan 16 2013 Address: София ул.Позитано 8
+Name: N/A Type: N/A Date: 12:45 Feb 15 2013 Address: София, ул. Тодорини кукли 32
+Name: N/A Type: N/A Date: 22:35 Dec 28 2012 Address: гр. София, ул. Будапеща  13
+Name: аперитив Петров Type: кафе Date: 11:59 Mar 7 2013 Address: София, ж.к Васил Левски, на ул. Иван Чушков 3
+Name: е park cafe Type: кафе Date: 20:41 Dec 28 2012 Address: София, До езерото Ариана
+Name: N/A Type: N/A Date: 12:11 Mar 26 2013 Address: София, Симеоново, ул.Симеоновска 1
+Name: Гръцки ресторант - Елеа Type: ресторант Date: 10:30 Nov 22 2013 Address: София, Мол Парадайз, булевард Черни връх
+Name: N/A Type: N/A Date: 09:06 Jan 5 2015 Address: град София, бул. Възкресение, пред бл.132А
+Name: Петлето Type: ресторант Date: 09:55 Sep 16 2016 Address: град София, ул. Страцин  9
+Name: - пицария Express Type: заведение Date: 02:33 Feb 25 2014 Address: град София, бул.Възкресение
+Name:  кръчма Петлето Type: ресторант Date: 12:22 Dec 16 2013 Address: София, ул. Страцин 9
+Name: ПЕТЛЕТО Type: ресторант Date: 01:32 Jan 30 2013 Address: София, ул. Страцин 9
+Name: N/A Type: N/A Date: 13:03 Dec 29 2012 Address: ресторант Каручката на бул. Мария Луиза 45 в София.
+Name: N/A Type: N/A Date: 08:00 Feb 14 2014 Address: град София, ул. Страцин  9 и ул. Атанас Дуков  29
+Name: Calipso на ул. Костенски Водопад 58 Type: заведение Date: 13:45 Dec 16 2012 Address: София, ул. Костенски Водопад 58
+Name: Чикаго Type: бар Date: 12:30 Sep 1 2013 Address: София, бул. Дондуков 9
+Name: Рубаят Type: ресторант Date: 08:48 Sep 14 2013 Address: София, НДК, бул. България 1, вход А-5
+Name: Калипсо на ул. Костенски водопад 58 Type: заведение Date: 13:53 Dec 16 2012 Address: Гр. София, ул. Костенски водопад 58
+Name: Калипсо Type: ресторант Date: 02:02 Feb 28 2013 Address: София, улКостенски водопад 58
+Name: N/A Type: N/A Date: 23:48 Dec 28 2012 Address: София, жк Дружба 1, в трафопоста между бл. 162 и бл. 165
+Name: 789 Type: кръчма Date: 11:00 Oct 19 2013 Address: град София,Студентски Град, бул. Климент Охридски 47
+Name: N/A Type: N/A Date: 11:00 Feb 14 2015 Address: София, бул.България 98
+Name: 789 Type: ресторант Date: 01:34 Feb 9 2015 Address: град София, бул. Климент Охридски  47
+Name: ВАНИЛА ГАРДЪН Type: ресторант Date: 10:00 Jan 30 2015 Address: град София, Манастирски ливади, ул. Бяла Акация  18
+Name: N/A Type: N/A Date: 22:53 Feb 9 2013 Address: София, Бул. България 98
+Name: N/A Type: заведение Date: 00:45 Dec 23 2012 Address: Ресторант 789, Бул. Свети Климент Охридски 47, София
+Name: Ресторант Галерия Type: ресторант Date: 08:00 Feb 14 2015 Address: София, ул. Пирин 87
+Name: Изток Type: бар Date: 06:11 Feb 16 2014 Address: град София, ул. Тарас Шевченко  5 А
+Name: N/A Type: N/A Date: 13:59 Dec 18 2012 Address: дойран 2, софия
+Name: Ниагара Type: ресторант Date: 01:47 Jun 28 2013 Address: София, ул. Дойран 2
+Name: Изток Type: бар Date: 11:00 Jan 22 2016 Address: град София, ул. Тарас Шевченко  5А
+Name: Изток Type: бар Date: 10:30 Nov 7 2015 Address: град София, ул. Тарас Шевченко  5a
+Name: N/A Type: N/A Date: 13:04 Dec 1 2012 Address: гр. София ул. Три уши  1
+Name: Mega Dance Type: клуб Date: 02:54 Oct 3 2013 Address: София, Студентски град, бул. Акад. Борис Стефанов, Зимен дворец на спорта
+Name: Коко Type: клуб Date: 02:40 Oct 1 2013 Address: София, Студентски град, бул. Акад. Б. Стефанов , бл. 24 - ниско тяло
+Name: Брилянтин Type: клуб Date: 01:30 Sep 15 2013 Address: София, ул. Московска 3
+Name: N/A Type: N/A Date: 12:01 Dec 23 2013 Address: София бул. Ал. Стамболийски 34
+Name: N/A Type: N/A Date: 08:22 Jan 2 2013 Address: София, Ул. Ръковска 163А
+Name: Mega Dance Type: клуб Date: 02:13 Sep 11 2013 Address: София, Студентски град, бул. Акад. Борис Стефанов, Зимен дворец на спорта
+Name: Брилянтин Type: клуб Date: 01:41 Mar 24 2013 Address: София, ул. Московска 3
+Name: Брилянтин Type: дискотека Date: 12:52 Mar 23 2013 Address: София, ул. Московска 3
+Name: Wanna Be Type: клуб Date: 22:04 Jan 7 2013 Address: Адрес: София, ул. Московска  3
+Name: N/A Type: N/A Date: 19:26 Jan 9 2013 Address: София ул. Шипченски проход  18
+Name: N/A Type: заведение Date: 04:01 Apr 13 2014 Address: град София, Ул Атанас Узунов
+Name:  Sweet bar and grill  Type: ресторант Date: 02:41 Feb 20 2016 Address: град София , ул. Атанас Узунов, зала Фестивална
+Name: Езерото Type: ресторант Date: 10:30 Oct 23 2013 Address: София, Околовръстен път
+Name: N/A Type: N/A Date: 00:45 Nov 17 2012 Address: ул. Цар Освободител, София, до военния клуб
+Name: Вкуснотия Type: пицария Date: 02:01 Mar 19 2015 Address: град София, район Нови Искър, бул. Искърско дефиле  251
+Name: Родопска къща Type: ресторант Date: 10:27 Jan 9 2016 Address: град София, Студентски град, бл. 21, ул. 8-ми декември
+Name: N/A Type: N/A Date: 18:34 Jan 6 2013 Address: София ул. Шипченски проход  18
+Name: N/A Type: N/A Date: 13:20 Oct 25 2012 Address: София, Славейков 7А
+Name: Сабросо Type: заведение Date: 06:19 Mar 21 2013 Address: София, ул. Бенковски 6
+Name: N/A Type: бар Date: 21:17 Jan 18 2013 Address: гр.София, бул. Тодор Каблешков 41
+Name: N/A Type: заведение Date: 21:01 Dec 16 2012 Address: Механа Симона, София, Околовръстен път 721
+Name: N/A Type: N/A Date: 01:34 Feb 15 2015 Address: София, ул. Самоков 60
+Name: N/A Type: N/A Date: 01:38 Feb 15 2015 Address: София, Ул. Самоков 60
+Name: Вкуснотия Type: пицария Date: 01:46 Jan 24 2015 Address: град София, район Нови Искър, бул. Искърско дефиле  251
+Name: N/A Type: бар Date: 02:56 Jan 18 2013 Address: гр.София, бул. Тодор Каблешков 41
+Name: N/A Type: N/A Date: 01:16 Nov 24 2013 Address: София, Цар Освободител 2
+Name: My bar Type: бар Date: 11:00 Mar 30 2013 Address: София, ул. Шипченски проход 18
+Name: Black label и ресторант BESO Type: бар Date: 11:50 Mar 30 2013 Address: София, бул. Цар Освободител 7
+Name: Бесо Type: бар Date: 09:36 Feb 16 2013 Address: София, бул. Тодор Каблешков 41
+Name: Бесо Type: бар Date: 09:19 Feb 15 2013 Address: София, бул. Тодор Каблешков 41
+Name: българия Type: ресторант Date: 08:00 Dec 20 2013 Address: софия, цар освободител 4
+Name: Бесо Type: бар Date: 08:30 Feb 17 2013 Address: София, бул. Тодор Каблешков 41
+Name: е Интервю в ПК Д. Благоев Type: кафе Date: 12:44 Dec 4 2013 Address: София, бул. Цариградско шосе 47, Полиграфически комбинат Д. Благоев - сутерен
+Name: за хранене Pizzerito Type: заведение Date: 01:36 Mar 10 2015 Address: град София, ул. Васил Калчев  10
+Name: Джим Бийм Type: клуб Date: 12:13 Sep 28 2013 Address: гр. София, бул. Витоша 31-33
+Name: Пицерито Type: пицария Date: 07:13 Feb 11 2016 Address: град София, жк. Дианабад, ул. Васил Калчев 10
+Name: N/A Type: пицария Date: 12:30 Dec 2 2013 Address: гр. София ул. Гюешево 27
+Name: N/A Type: N/A Date: 06:30 Dec 23 2013 Address: София, Ул. Гюешево 18
+Name: DaDa cultural bar Type: клуб Date: 12:59 Jun 29 2014 Address: град София, ул. Георги Бенковски 10
+Name: N/A Type: N/A Date: 12:45 Dec 23 2012 Address: гр. София, булевард Христо Ботев, 61
+Name: Кафана Стефанович Type: ресторант Date: 07:30 Apr 22 2016 Address: град София, ул. Златовръх 4
+Name: Кафана Стефанович Type: ресторант Date: 08:00 Mar 12 2016 Address: град София, ул. Златовръх  4
+Name: Кафана Стефанович Type: ресторант Date: 10:00 Mar 5 2016 Address: град София, ул. Златовръх  4
+Name: boutique lounge bar Type: бар Date: 09:21 Jan 29 2013 Address: София, бул. Витоша 18
+Name: Boutique Lounge Bar Type: бар Date: 06:00 Jun 20 2013 Address: София, бул. Витоша 18
+Name: Chocolate Type: бар Date: 10:40 Nov 23 2013 Address: гр. София, Ул. Г. С. Раковски 105
+Name: Rockit Type: ресторант Date: 07:15 Mar 17 2013 Address: София, ул. Георги Бенковски 14
+Name:  food&music Raffi. terrasse Type: ресторант Date: 08:05 Dec 27 2013 Address: гр. София, Бул. Витоша 18
+Name: Градина Type: ресторант Date: 11:10 Jan 10 2015 Address: София, Студентски град, улица Иван Странски бл.60 вх.В, в близост до Зимния дворец
+Name: за хранене Sweet Bar & Grill Type: заведение Date: 07:19 Oct 27 2013 Address: София, зала Фестивална
+Name: Шик Type: бар Date: 03:43 Mar 16 2013 Address: София, ул. Д-р Стефан Сарафов
+Name: ресторант Градина Type: ресторант Date: 10:40 Dec 21 2013 Address: софия, ул.Проф Д-Р Иван Странски
+Name: N/A Type: N/A Date: 11:08 Mar 9 2014 Address: София, Студентски град, бул. проф. д-р И. Странски и бул. акад. Борис Стефанов
+Name: N/A Type: N/A Date: 12:09 Jan 18 2015 Address: град София, бул. Цариградско шосе  115
+Name: Котилото Type: ресторант Date: 10:15 Dec 27 2013 Address: София, Драгалевци ул. Крайречна 26
+Name: The Papa at City Type: ресторант Date: 07:45 Nov 7 2013 Address: София, кв. Изток, ул. Методи Попов 24А
+Name: N/A Type: N/A Date: 08:15 Jan 31 2015 Address: град София, бул. Цариградско шосе  115
+Name: Swinging hall Type: клуб Date: 01:00 Apr 29 2016 Address: град София, бул. Драган Цанков  8
+Name: Котилото Type: ресторант Date: 12:30 Dec 15 2015 Address: град София, кв. Драгалевци, ул. Крайречна 26
+Name: N/A Type: ресторант Date: 22:00 Dec 7 2013 Address: София, ул. Крайречна 26
+Name: Ретро Type: бар Date: 10:30 May 31 2013 Address: София, Ул. Росарио 1, кв. Студентски град
+Name: N/A Type: N/A Date: 11:45 Nov 29 2013 Address: София, ул. Росарио 1
+Name: N/A Type: N/A Date: 05:51 Dec 9 2013 Address: София, Студентски Град, ул. Росарио 1
+Name: Карусел Type: заведение Date: 12:07 Apr 10 2016 Address: град София, ул. Георги С. Раковски 108
+Name: Карусел Type: клуб Date: 11:36 Mar 19 2016 Address: град София, ул. Георги Раковски 108
+Name: Carrusel club Type: заведение Date: 12:09 May 6 2016 Address: град София, ул. Раковски 108
+Name: Карусел Type: заведение Date: 12:25 Feb 6 2016 Address: град София, ул. Георги С. Раковски 108
+Name: N/A Type: N/A Date: 03:26 Aug 25 2013 Address: гр. София, пл. Народно събрание 4
+Name: N/A Type: N/A Date: 11:59 Oct 3 2015 Address: град София, ул. Г. С. Раковски  108
+Name: е-сладкарница ГОФРЕТИ Type: кафе Date: 02:27 Jan 15 2015 Address: град София, бул. Захари Стоянов 27, ж.к. Люлин 3
+Name: N/A Type: N/A Date: 09:52 Oct 5 2013 Address: град София, Жк. Овча Купел 1, бул. Президент Линкълн 23
+Name: е Шоколад Type: кафе Date: 10:30 Mar 26 2016 Address: град София, ул. Раковски  193
+Name: N/A Type: N/A Date: 05:55 Feb 28 2016 Address: град София , бул. Захари Стоянов  27
+Name: Гофрети Type: заведение Date: 04:32 Apr 19 2015 Address: град София, жк Люлин ,бул. Захари Стоянов  27
+Name: N/A Type: N/A Date: 12:47 Oct 27 2013 Address: София, Подлез на ул. Раковски и Васил Левски
+Name: Текила Type: клуб Date: 02:00 Mar 17 2013 Address: София, Пл. Народно събрание 4
+Name: е-сладкарница ГОФРЕТИ Type: кафе Date: 08:31 Feb 21 2016 Address: град София, ж.к. Люлин 3, бул. Захари Стоянов 27
+Name: Tequila club Type: дискотека Date: 01:30 Jan 9 2013 Address: София, пл. Народно Събрание  4
+Name: Magnito bar and dinner Type: бар Date: 08:30 Oct 25 2013 Address: София, ул. Г.С.Раковски 112
+Name: Хабитат Type: бар Date: 12:15 Oct 4 2015 Address: град София, ул. Стефан Караджа 26
+Name: N/A Type: N/A Date: 07:52 Jan 9 2014 Address: град София, бул. Черни връх  38
+Name: N/A Type: N/A Date: 02:39 Feb 19 2015 Address: град София, пл. България  1
+Name: Фея Type: ресторант Date: 20:25 Jan 7 2013 Address: гр.София, ж.к. Хладилника, ул. Гатьо Шишков 13А
+Name: Funky Town Type: клуб Date: 11:00 Mar 9 2013 Address: София, бул Витоша 65
+Name: мистър пица Type: пицария Date: 08:00 Dec 14 2013 Address: София, Верила 3
+Name: N/A Type: N/A Date: 01:33 Dec 22 2012 Address: София, ул. Хан Аспарух  37
+Name: Garden house Type: ресторант Date: 02:08 Jun 18 2015 Address: град София, бул. Витоша  69
+Name: N/A Type: N/A Date: 04:28 Apr 19 2013 Address: гр. София, ул. Битоля 2
+Name: Happy Bar& Grill Type: ресторант Date: 07:00 Feb 22 2013 Address: София, ж.к. Люлин 7, бул. Джавахарлал Неру 6
+Name: Бялото Type: бистро Date: 07:33 May 12 2014 Address: град София, жк. Мусагеница, бул. Г. М. Димитров  45
+Name: Крос Пойнт Type: бар Date: 07:23 Dec 30 2015 Address: град София, ул. Неразделни  1
+Name: N/A Type: N/A Date: 04:30 Dec 15 2013 Address: София, ул. Манастирска  35
+Name: Крос пойнт Type: бар Date: 10:20 Nov 2 2013 Address: София, ул. Неразделни 1
+Name: Бялото Type: бистро Date: 11:19 Nov 8 2013 Address: София, бул. Г. М. Димитров 42
+Name: N/A Type: N/A Date: 17:41 Dec 12 2013 Address: София, бул. Христо Смирненски 2
+Name: N/A Type: N/A Date: 22:00 Dec 10 2013 Address: София, пл. Народно събрание
+Name: Хасиенда Type: клуб Date: 11:24 Dec 11 2015 Address: град София, площад Народно събрание  3
+Name:  Ветрило Type: ресторант Date: 01:07 Mar 5 2013 Address: София, кв. Борово, ул. Солун 47
+Name: Ветрило Type: ресторант Date: 06:11 Apr 4 2013 Address: София, ул. Солун 47 срещу бл.43
+Name: Ветрило Type: ресторант Date: 08:20 May 1 2014 Address: град София, Кв Борово, ул. Солун 47
+Name: N/A Type: N/A Date: 02:30 Dec 22 2012 Address: гр. София, бул. Христо Ботев  61
+Name: N/A Type: N/A Date: 11:56 Dec 21 2012 Address: София, Христо Ботев 61
+Name: Ниагара Type: ресторант Date: 02:35 Mar 29 2013 Address: София, ул. Дойран 2
+Name: Rose Type: ресторант Date: 11:00 Feb 13 2015 Address: град София, ул. Иван Вазов  3
+Name: Макао Type: бар Date: 11:04 Nov 1 2013 Address: София, ул. 6-ти септември (ул. Иван Вазов)
+Name: Синият лъв Type: ресторант Date: 09:50 Jun 10 2013 Address: София, Ул. Иван вазов 6
+Name: N/A Type: N/A Date: 01:02 Jan 16 2013 Address: софия
+Name: Макао Type: бар Date: 03:20 Mar 10 2013 Address: София, ул. Иван Вазов 12
+Name: N/A Type: N/A Date: 08:26 Oct 8 2013 Address: София, ж.к. Младост 3, ул. Свето Преображение, бл. 328
+Name: N/A Type: N/A Date: 12:00 Dec 27 2015 Address: град София, ъгъла на бул. Евлоги Георгиев и ул. Христо Смерненски ( в градинката )
+Name: N/A Type: N/A Date: 12:56 Dec 10 2013 Address: София, ул. Методи Попов 24А
+Name:  Oliver Type: пицария Date: 07:15 Jan 30 2014 Address: град София , ул. Бъднина  4
+Name: N/A Type: заведение Date: 02:44 Dec 21 2013 Address: ул. Свето Преображение (ж.к. Младост 3, бл. 328), София, София-град 1312
+Name: N/A Type: клуб Date: 17:00 Jan 17 2013 Address: гр.София, ул. Милин Камък 14
+Name: N/A Type: N/A Date: 01:15 Aug 26 2014 Address: град София, Милин Кaмък 21
+Name: N/A Type: заведение Date: 22:23 Dec 13 2013 Address: София, ул. Милин камък 14
+Name: bbq house се пуши Type: ресторант Date: 08:31 Mar 8 2016 Address: град София, бул. Никола Петков 2, Търговски център TRADE HOUSE WEST
+Name: Арабия Type: заведение Date: 11:25 Jan 30 2015 Address: град София, ул. Милин камък  16
+Name: Тохун Type: заведение Date: 11:41 Jan 8 2016 Address: град София, ул. Милин камък 16
+Name: CROSSPOINT  Type: бар Date: 03:59 Mar 25 2014 Address: град София ж.к. Бели Брези, ул. Виктор Григорович 38
+Name: N/A Type: N/A Date: 06:20 Mar 11 2013 Address: София, кв.Хиподрума, посока кв.Борово
+Name: My Way Type: бар Date: 01:18 Apr 4 2014 Address: град София, ул. Малко Търново  2
+Name: N/A Type: N/A Date: 23:00 Nov 24 2012 Address: София, ул. Малко Търново 2, бар My Way
+Name: my way Type: клуб Date: 12:37 Feb 15 2014 Address: Град София, Ул. Малко Търново 2
+Name: My way Type: бар Date: 11:50 Mar 16 2013 Address: София, ул. Малко Търново 2
+Name: N/A Type: N/A Date: 11:41 Jan 31 2014 Address: град София, ул. Малко Търново  1
+Name: Flocafé Type: бар Date: 09:00 Jan 18 2014 Address: град София, пл. Света Неделя  3
+Name: КОНТЕ Type: клуб Date: 12:01 Apr 9 2015 Address: град София, Студентски град, ул. Йордан Йосифов, пред стол 4
+Name: клуб Джентълмен Type: бар Date: 01:30 Apr 2 2014 Address: град София, пл.Света Неделя хотел Шератон , етаж 1
+Name: N/A Type: N/A Date: 19:30 Oct 12 2013 Address: София, площад Света Неделя 4
+Name: N/A Type: N/A Date: 22:00 Dec 13 2013 Address: София, пл. Света Неделя 3
+Name: Сите българи заедно Type: ресторант Date: 09:10 Mar 1 2014 Address: град София, Генерал Столетов 37
+Name: Рубаят Type: ресторант Date: 09:06 Apr 14 2014 Address: град София, пл. България  1, НДК
+Name: Кери Type: пицария Date: 08:05 Jan 18 2014 Address: град София, Люлин 6, ул.612
+Name: N/A Type: N/A Date: 12:13 Feb 7 2015 Address: град София, ул. Христо Белчев 13
+Name: Nexus Type: клуб Date: 05:00 Jan 9 2014 Address: град София, бул. Сливница  127
+Name: N/A Type: N/A Date: 21:30 Jan 8 2013 Address: София Люлин 4, бл. 417, вх. Г
+Name: Рубаят/НДК Type: ресторант Date: 10:00 May 8 2014 Address: НДК, вх. А5, пл. България, 1, град София 1463
+Name: N/A Type: N/A Date: 05:14 Jan 10 2014 Address: град София , жк Света Троица, бул. Сливница  127
+Name: Варщайнер Type: бирария Date: 08:00 Nov 20 2015 Address: град София, ул. Генерал Гурко  7А
+Name: Warsteiner Type: ресторант Date: 08:45 Dec 12 2015 Address: град София, ул. Гурко  7
+Name: Варщайнер Type: ресторант Date: 01:00 Dec 16 2015 Address: град София, ул. Ген. Й. Гурко 7А
+Name: Warsteiner Garden Type: ресторант Date: 09:00 Mar 17 2016 Address: град София, ул. Генерал Гурко 7А
+Name: Wrong bar Type: ресторант Date: 10:17 Jul 13 2016 Address: град София, ул. Шейново 18
+Name: Kashe Type: бар Date: 01:54 Jul 16 2016 Address: град София, бул. Арсеналски 2, CCS
+Name: N/A Type: заведение Date: 22:41 Oct 26 2012 Address: София, ул. 3 уши 1
+Name: N/A Type: N/A Date: 13:32 Oct 31 2012 Address: София кв. Изток, ул Райко Алексиев 40
+Name: Бяла река Type: ресторант Date: 01:29 Mar 22 2014 Address: село Васил Левски, община Карлово, област Пловдив, землището на с. Васил Левски, по главен път София- Бургас
+Name: Неро Type: бар Date: 20:58 Jan 10 2013 Address: гр.София, бул. Витоша  180
+Name: N/A Type: N/A Date: 02:30 Feb 14 2014 Address: град София, бул. Витоша 180
+Name: Once upon a time Biblioteka Type: клуб Date: 01:30 Jul 3 2016 Address: град София, бул. Васил Левски  88
+Name: Марайа Type: бар Date: 01:14 Dec 16 2012 Address: бул. Евлоги Георгиев и ул. Христо Смирненски, София
+Name: Гофрети 2 Type: заведение Date: 12:38 Dec 14 2015 Address: град София, жк. Люлин 7, бул. Индира Ганди 2
+Name: Спирит Type: бар Date: 02:06 Apr 28 2014 Address: град София, жк. Люлин, бул. Царица Йоанна, бл. 961
+Name: N/A Type: N/A Date: 10:19 Mar 10 2014 Address: град София, Люлин 7, бул. Царица Йоана  49, офис-сграда Киров
+Name: Happy Bar & Grill Type: ресторант Date: 04:30 Oct 19 2013 Address: гр. София, Ул.Раковски 96
+Name: N/A Type: ресторант Date: 08:42 Dec 15 2013 Address: София, ул. Раковски 96
+Name: N/A Type: N/A Date: 13:28 Feb 2 2013 Address: град София, ул. Три уши 1
+Name: N/A Type: N/A Date: 01:00 Oct 28 2012 Address: София/Будапеща 6
+Name: N/A Type: N/A Date: 12:00 May 17 2014 Address: град София, ул. Ген. Йордан Венедиков 8
+Name: Кино Type: бар Date: 21:32 Jan 4 2013 Address: София, Ул. Аксаков 15 А
+Name: N/A Type: N/A Date: 22:00 Jan 4 2013 Address: София, Ул. Аксаков 15 А
+Name: Oscar Club Type: бар Date: 10:15 Dec 29 2014 Address: град София, ул. Славянска 15
+Name: N/A Type: N/A Date: 11:11 Feb 6 2015 Address: София, ул. Славянска 15
+Name: N/A Type: N/A Date: 10:00 Mar 26 2013 Address: София, Ул. Добруджа 9
+Name: Партер Type: бар Date: 11:00 Dec 23 2015 Address: град София, ул. Добруджа  9
+Name: Ветрило - Стрелбище Type: ресторант Date: 10:21 Oct 25 2012 Address: София, ж.к. Стрелбище, ул. Орехова гора 42А
+Name: Анкона Type: заведение Date: 09:57 Mar 12 2013 Address: София, ул. Президент Линкълн
+Name: N/A Type: N/A Date: 13:25 Oct 25 2012 Address: София, ул. Будапеща 6
+Name: Ветрило Type: ресторант Date: 09:15 Jun 10 2016 Address: град София, ж.к. Стрелбище, ул. Орехова гора  42А
+Name: N/A Type: ресторант Date: 07:30 Feb 12 2013 Address: София, ул. Симеоновско Шосе 4a
+Name: Sweet Bar & Dinner Type: ресторант Date: 08:15 Jun 13 2016 Address: град София, кв. Гео Милев, зала Фестивална
+Name: Брилянтин Type: клуб Date: 12:10 Jul 19 2014 Address: град София, Московска 3
+Name: N/A Type: N/A Date: 01:12 May 27 2016 Address: град София, жк Люлин 5, бул. Д-р Петър Дертлиев  129
+Name: Jjs bar Type: бар Date: 09:43 Feb 10 2013 Address: София, ул. 6-ти Септември 38
+Name: Two Candles Type: бар Date: 10:10 May 9 2015 Address: град София, ул. 6-ти септември  55
+Name: Two candles Type: бар Date: 12:05 Dec 27 2014 Address: град София, ул. 6ти септември,  55
+Name: JJs Type: бар Date: 08:00 Feb 4 2016 Address: град София, ул. 6ти септември  38
+Name: Кама Сутра Type: бар Date: 03:30 May 24 2014 Address: град София, бул. Дондуков  19
+Name: N/A Type: N/A Date: 19:00 Dec 12 2013 Address: София, ул. Шипка 1
+Name: once upon a time Type: бар Date: 12:51 Mar 23 2014 Address: град софия, Национална библиотека
+Name: Библиотеката Type: дискотека Date: 01:00 May 21 2016 Address: град София, бул. Васил Левски 88, Народна библиотека
+Name: N/A Type: N/A Date: 07:00 Mar 2 2013 Address: София, ж.к. Младост, бул. Андрей Ляпчев 56
+Name: N/A Type: N/A Date: 02:39 May 26 2016 Address: град София, бул. Джеймс Баучер  100, хотел Marinela
+Name: Nuovo Type: заведение Date: 07:40 Feb 3 2016 Address: град София, бул. Гоце Делчев  46
+Name: N/A Type: N/A Date: 13:38 Nov 26 2012 Address: София,бул.Ал.Стамболийски
+Name: N/A Type: N/A Date: 12:30 Nov 14 2013 Address: София, улица Пирин 85
+Name: 365 Type: бар Date: 19:29 Jan 19 2013 Address: гр.София, ул. Шипка 1
+Name: N/A Type: N/A Date: 10:15 Jun 21 2016 Address: град София,зала Фестивална
+Name: Роял пиано  клуб Type: бар Date: 09:30 Jun 15 2016 Address: град София, пл. България 1 /срещу пилоните/
+Name: Мелник Type: ресторант Date: 08:39 Oct 3 2013 Address: град София, Ул. Патриарх Евтимий 22
+Name: Блазе Type: ресторант Date: 12:32 Jun 28 2016 Address: град София, Студентски град, ул. Атанас Манчев  10
+Name: N/A Type: N/A Date: 20:49 Jan 14 2013 Address: гр.София, бул. Христо Ботев 61
+Name: Мелнишка скара при Марто Type: заведение Date: 01:55 Oct 7 2013 Address: София, бул. Патриарх Евтимий 22
+Name: N/A Type: N/A Date: 12:14 May 19 2016 Address: град София, ул. Верила  3
+Name:  Mr Pizza Type: ресторант Date: 10:18 Jun 30 2016 Address: град София, ул. Верила  3
+Name:  Мелнишка скара Type: ресторант Date: 01:00 Oct 20 2013 Address: София, бул. Патриарх Евтимий 22
+Name: Брилянтин Type: бар Date: 01:52 Mar 10 2013 Address: София, ул. Авксентий Велешки 20
+Name: N/A Type: N/A Date: 10:44 May 19 2016 Address: град София, Младост 3, ул. Свето Преображение, блок 328
+Name: Свети Георги Type: ресторант Date: 12:49 Aug 23 2014 Address: град София ЕКЗАРХ СТЕФАН16
+Name: Камино Type: бар Date: 01:00 May 21 2016 Address: град София, ул. Неофит Рилски 70
+Name: При пътицата Type: ресторант Date: 02:30 Jan 3 2014 Address: град София, ул.Княз Борис I  85
+Name: Кукуш Type: механа Date: 08:53 Mar 12 2016 Address: град София, ул. Кукуш  8
+Name: N/A Type: N/A Date: 07:47 Sep 17 2013 Address: София, бул Сливница 65
+Name: N/A Type: N/A Date: 10:25 Feb 24 2013 Address: гр. София, бул. Сливница  65
+Name: N/A Type: N/A Date: 01:16 Jan 26 2013 Address: ул. Кричим 1, София
+Name: Te Quiero Type: ресторант Date: 08:44 Mar 8 2014 Address: град София, бул. България  56а
+Name: N/A Type: ресторант Date: 12:34 Dec 23 2013 Address: София, Тодор Каблешков 45
+Name: Beso Type: ресторант Date: 03:00 Oct 14 2015 Address: град София, ул. Тодор Каблешков 45
+Name: BESO bar and dinner Type: бар Date: 01:20 Sep 29 2015 Address: град София, кв. Бъкстон, ул. Тодор Каблешков 45
+Name: Beso bar and dinner Type: ресторант Date: 06:50 Mar 20 2016 Address: град София, ул. Тодор Каблешков  45
+Name: N/A Type: N/A Date: 01:10 Jan 26 2014 Address: град София, ул. Тодор Каблешков  45
+Name: N/A Type: заведение Date: 10:38 Jan 11 2013 Address: София Стамболийски 34
+Name: N/A Type: N/A Date: 08:10 Dec 21 2013 Address: София, пазар Иван Вазов, снек-бар АМИРА
+Name: N/A Type: заведение Date: 15:26 Nov 15 2013 Address: София,ul. Razgrad N8,
+Name: N/A Type: заведение Date: 08:08 Feb 26 2014 Address: град София, ул. Козлодуй  140
+Name: GATSBY Type: заведение Date: 11:48 Jan 27 2014 Address: град София,кв. Дианабат,ул.Никола Габровски 39
+Name: N/A Type: N/A Date: 11:09 Mar 9 2013 Address: София, Бул. Княгиня Мария Луиза N 45
+Name: Ветрило жк. Борово Type: пицария Date: 23:09 Jan 14 2013 Address: Пицария Ветрило, ул. Солун, жк. Борово, гр. София
+Name: Каручката Type: ресторант Date: 12:52 Mar 17 2013 Address: София бул Мария Луиза 45
+Name: N/A Type: N/A Date: 11:00 Feb 21 2015 Address: град София, бул. Цар Освободител  9
+Name: N/A Type: N/A Date: 21:35 Dec 21 2012 Address: гр. София, ул. Шипка  26
+Name: 9th Avenue Night Club Type: бар Date: 12:03 Feb 15 2014 Address: град София, Цар Освободител 9
+Name:  Type: бар Date: 09:30 Oct 13 2013 Address: софия, ул. шипка 26
+Name: Проя Type: ресторант Date: 02:19 Feb 8 2014 Address: град София, ул. Маринковица  2Б
+Name: N/A Type: N/A Date: 07:11 Jan 2 2014 Address: град София, бул. Цар Освободител  16, хотел Senses
+Name: N/A Type: N/A Date: 21:10 Dec 23 2012 Address: София,ул.Шипка 26
+Name: клуб Клуб Девето авеню -бивши Червило Type: бар Date: 03:00 Dec 15 2013 Address: София, Бул Цар Освободител 9
+Name: N/A Type: N/A Date: 22:30 Dec 22 2012 Address: София,ул Шипка 26
+Name: N/A Type: клуб Date: 01:00 Feb 1 2014 Address: град София, бул. Цар Освободител 9
+Name: N/A Type: N/A Date: 22:30 Dec 22 2012 Address: София,ул.Шипка 26
+Name: N/A Type: N/A Date: 12:34 Dec 16 2012 Address: бул. Драган Цанков  8, София
+Name: Регал Type: ресторант Date: 19:49 Jan 21 2013 Address: София, ж.к. Стрелбище, ул. Траянови врата 65
+Name: N/A Type: N/A Date: 01:30 Sep 18 2016 Address: град София, бул. Драган Цанков  8
+Name: N/A Type: N/A Date: 01:54 Jan 19 2013 Address: София, бул. Драган Цанков 8
+Name: Избата Type: ресторант Date: 12:29 Nov 1 2013 Address: София, ул.Пиер Дегейтър 2
+Name: N/A Type: N/A Date: 10:30 Mar 11 2014 Address: град София, Стрелбище
+Name: N/A Type: N/A Date: 13:26 Nov 16 2012 Address: София, бул. Драган Цанков 8
+Name: Poison Type: бар Date: 12:56 Sep 29 2013 Address: София, ул. Аксаков 15А
+Name: N/A Type: N/A Date: 09:50 Mar 9 2013 Address: София, Ул. Златишки проход
+Name: N/A Type: клуб Date: 10:08 Jan 26 2013 Address: гр. София, бул. Драган Цанков 8
+Name: Пойзън  Type: бар Date: 03:07 Jan 13 2013 Address: София ул. Аксаков 15А
+Name: N/A Type: N/A Date: 23:00 Dec 15 2012 Address: ул. Аксаков 15, гр. София
+Name: клуб Конте Type: бар Date: 11:22 Feb 28 2015 Address: град София, Студентски град, ул. Йордан Йосифов  4, пред Студ. стол 4
+Name: Саймън Type: ресторант Date: 01:11 Feb 12 2013 Address: София, кв. Витоша, ул Проф. Христо Вакарелски 5 А
+Name:  Централ Type: ресторант Date: 12:50 Sep 20 2013 Address: София, Ул. Пиротска No 7
+Name: modera cafe Type: клуб Date: 00:22 Dec 8 2013 Address: софия, Йордан Йосифов 8а, Студентски град
+Name: N/A Type: N/A Date: 12:22 Mar 24 2013 Address: София, ул.Позитано 8
+Name: Jim Beam Type: бар Date: 12:08 Sep 28 2013 Address: София, бул.Витоша 31-33
+Name: Джим Бийм Type: бар Date: 02:00 Sep 7 2013 Address: гр. София, бул. Витоша 31-33
+Name: Jim Beam Type: клуб Date: 03:00 Jan 20 2013 Address: София, бул. Витоша 33
+Name: Таркан Type: ресторант Date: 08:50 Feb 14 2014 Address: град София, ул. Цар Иван Асен II  91
+Name: N/A Type: бар Date: 13:46 Nov 21 2012 Address: София, бул. Арсеналски 5
+Name: Мезе Type: ресторант Date: 09:30 Mar 25 2015 Address: град София, жк Изток, ул.Николай Хайтов 12
+Name: Конак Type: ресторант Date: 08:40 Feb 12 2016 Address: град София, ж.к Изток, ул. Академик Методи Попов 26
+Name: Конак Type: ресторант Date: 01:50 Oct 25 2016 Address: град София, ул. Акад. Методи Попов  26
+Name: При шопите Type: заведение Date: 10:28 Dec 18 2015 Address: град София, Студентски град, ул. 8-ми декември  43
+Name: При Шопите Type: заведение Date: 01:49 Jun 23 2015 Address: град София, Студентски град, ул. 8-ми декември  43
+Name: N/A Type: N/A Date: 10:00 Mar 21 2015 Address: град София, Студенски град, ул. 8-ми декември  43
+Name: N/A Type: N/A Date: 11:05 Nov 10 2013 Address: София, ул. Будапеща 8
+Name: N/A Type: N/A Date: 05:56 Dec 9 2013 Address: София, Студентски Град, ул. 8-ми Декември 43
+Name: N/A Type: N/A Date: 02:09 Dec 6 2013 Address: София, ж.к. Люлин 3, ул. 301
+Name: N/A Type: клуб Date: 07:10 Feb 15 2014 Address: град София Осогово 2
+Name: Фло кафе Type: кафе Date: 08:00 Nov 26 2013 Address: София, Плошад Св. Неделя 3
+Name: Folk Club Capital Type: заведение Date: 22:00 Feb 10 2013 Address: София, ул.Позитано 3
+Name: Енигма Type: клуб Date: 12:17 Jan 1 2014 Address: град София, ул. Позитано  3
+Name: N/A Type: N/A Date: 12:36 Dec 19 2013 Address: София, Съборна
+Name: Капитал Type: бар Date: 13:30 Feb 10 2013 Address: София, Позитано 3
+Name: Cubo club Type: клуб Date: 12:32 Dec 20 2013 Address: София, Ул Съборна
+Name: БЛАЗЕ Type: заведение Date: 01:23 Sep 29 2015 Address: град София, Студентски град, ул. Атанас Манчев  10
+Name: Блазе Type: ресторант Date: 02:59 Oct 15 2015 Address: град София, Студентски град, ул. Атанас Манчев  10
+Name: Клуб Билионер Type: дискотека Date: 01:20 Jan 26 2013 Address: гр.София, ул. Съборна 3
+Name: Cubo Type: клуб Date: 01:30 Feb 6 2014 Address: град София, ул. Съборна  3
+Name: тратория 33 стола Type: ресторант Date: 09:02 Mar 15 2013 Address: София, ул. асен златаров 1
+Name: Тетучо Type: ресторант Date: 10:00 May 2 2014 Address: Ул. Оборище, 63, град София 1504
+Name: Добро Type: ресторант Date: 04:20 Oct 21 2013 Address: София, бул. Янко Сакъзов 23A
+Name: Механче Type: механа Date: 10:10 Feb 6 2014 Address: град София, ул. Ангел Кънчев  26
+Name:  Rosso fiore Type: ресторант Date: 09:00 Mar 2 2015 Address: София, бул. Гоце Делчев  69
+Name: Варщтайнер Type: ресторант Date: 11:07 Apr 29 2014 Address: град София, ул. Раковски 163 А
+Name: Fiora Type: заведение Date: 10:15 Dec 19 2013 Address: София, бул. Гоце делчев 69
+Name: Fiore Type: ресторант Date: 07:54 Aug 22 2015 Address: град София, бул. Гоце Делчев  69
+Name:  Варщайнер Type: бирария Date: 09:40 Dec 16 2015 Address: София , ул. Георги Раковски  163А
+Name: Фиоре Type: заведение Date: 09:40 Mar 1 2013 Address: София, бул. Гоце Делчев 69
+Name: Cultural Bar Type: заведение Date: 23:00 Dec 15 2012 Address: София, ул. Оборище 4
+Name: Fiore Type: ресторант Date: 11:39 Dec 27 2014 Address: гр. София, ж.к. Бели брези, бул.Гоце Делчев 69
+Name: N/A Type: N/A Date: 13:26 Dec 22 2012 Address: гр. София, ул. Солун, срещу бл. 43
+Name: N/A Type: N/A Date: 11:25 Dec 6 2012 Address: София, ул Солун, срещу бл 43, р-т Ветрило
+Name: N/A Type: N/A Date: 01:25 Mar 3 2014 Address: град София, Тодор Каблешков 45-47
+Name: Миражь Type: механа Date: 08:00 Feb 7 2015 Address: град София, бул. Тодор Каблешков  22
+Name: Егеон Type: ресторант Date: 21:54 Jan 25 2013 Address: гр.София, бул. Тодор Каблешков 49
+Name: Ресторант Пастел - Pastel Pizza and Grill Type: ресторант Date: 08:50 Nov 18 2013 Address: София, Студентски град
+Name: Ветрило Type: ресторант Date: 03:05 Feb 25 2014 Address: град София, ул.Родопски извор и ул. Солун, срещу бл. 43
+Name: Снейк Type: заведение Date: 06:20 Feb 18 2015 Address: град София, Люлин 7, бул. Царица Йоана 49, офис-сграда Киров
+Name: Дел Соле Type: пицария Date: 12:03 Oct 25 2013 Address: София, кв. Борово, ул. Родопски извор, бл. 235
+Name: N/A Type: N/A Date: 12:37 Jan 29 2013 Address: гр. София, Студентски град
+Name: N/A Type: N/A Date: 01:00 Dec 25 2012 Address: София, Леге
+Name: Bedroom Type: клуб Date: 02:00 Jan 12 2014 Address: град София, ул. Леге  2
+Name: клуб Bedroom (Бедруум) Type: бар Date: 11:00 Jan 3 2014 Address: град София, ул. Леге  2
+Name: BEDROOM PREMIUM Type: клуб Date: 11:30 Jan 4 2014 Address: град София, ул. Леге  2.
+Name: Bedroom Type: клуб Date: 12:30 Jan 11 2014 Address: София, ул. Леге  2, до пресечката с ул. Позитано
+Name: Снейк Type: бар Date: 12:41 Jan 14 2013 Address: София, Люлин 7 бул. Царица Йоана 49
+Name: Snake Type: бар Date: 03:00 Nov 28 2015 Address: град София, бул. Царица Йоанна  49
+Name: N/A Type: N/A Date: 08:45 Feb 1 2015 Address: гр. София, ул. Цар Симеон и ул. Вита
+Name: бирария Дондуков Type: ресторант Date: 01:45 Oct 7 2013 Address: София, бул. Дондуков 14
+Name: N/A Type: N/A Date: 09:00 Oct 22 2013 Address: София, Бул. Дондуков 14
+Name: Cotton club Type: бар Date: 02:00 Mar 23 2013 Address: София, Зимен дворец на спорта, Студентски град
+Name: N/A Type: N/A Date: 01:10 Mar 11 2013 Address: София, Студентски град, Зимен дворец
+Name: Ню Йорк Type: бар Date: 05:40 Dec 21 2015 Address: град София, ул. Осогово 49
+Name: N/A Type: дискотека Date: 01:22 Jan 20 2013 Address: Зимен дворец на спорта,1700 София, Студентски град
+Name: Ветрило 2 Type: пицария Date: 08:00 Mar 9 2013 Address: София, жк. Стрелбище, ул.Орехова гора 42А
+Name: NEW YORK Type: бар Date: 01:30 Mar 14 2015 Address: град София, ул. Осогово  49
+Name: N/A Type: N/A Date: 12:10 Dec 22 2012 Address: София, ул. Позитано, механа Мамин Кольо
+Name: Коко Type: клуб Date: 03:39 Apr 8 2013 Address: София, Студентски град, бул. Акад. Б. Стефанов , бл. 24
+Name: Камините Type: механа Date: 11:34 Mar 23 2013 Address: София, кв Павлово, бул. Цар Борис III 205
+Name: Марая Type: заведение Date: 10:55 Mar 25 2013 Address: София, ул. Герги С. Раковски 123
+Name: Комините Type: механа Date: 12:21 Jan 22 2014 Address: град София, бул. Цар Борис III  205 (в локалното)
+Name: N/A Type: кафе Date: 01:22 Jan 10 2013 Address: гр. София автогара Овча Купел
+Name: сладкарница Нирвани Type: кафе Date: 07:20 Mar 4 2013 Address: София, кв. Враждебна, ул. 8 92
+Name: N/A Type: N/A Date: 12:36 Dec 23 2012 Address: гр. София, ул. Цар Борис III 80
+Name: Марайа Фюжън Type: бар Date: 11:34 Mar 29 2013 Address: София, ул. Г.С. Раковски 123
+Name: за хранене и пиене Intrigue bar & dinner Type: заведение Date: 20:50 Jan 23 2013 Address: София, пл. Баба Неделя 6
+Name: ЕВРОФУТБОЛ Type: кафе Date: 04:36 Mar 16 2016 Address: град София, кв.Врждебна, ул. 8  95
+Name: Кафе приятели Type: заведение Date: 06:23 Mar 16 2016 Address: град София, бул. Ботевградско шосе  268
+Name: Ветрило Type: пицария Date: 06:45 Dec 8 2013 Address: София, Хайдушка гора, Стрелбище
+Name: N/A Type: N/A Date: 09:40 Jan 6 2014 Address: София, Бул. Витоша 34
+Name: Еврофутбол Type: заведение Date: 08:43 Feb 2 2016 Address: град София, ул. Дедеагач  40
+Name: Зеко Type: ресторант Date: 08:00 Dec 23 2013 Address: софия, На входа на южния парк,откъм бул. Витоша
+Name: N/A Type: N/A Date: 08:22 Jul 1 2015 Address: гр. София, Бул. Патриарх Евтимий и бул. Витоша
+Name: Диференте Type: кафе Date: 03:46 Feb 9 2013 Address: София, кв. Белите брези, ул. Нишава, бл.13
+Name: Диференте Type: кафе Date: 08:04 Feb 17 2013 Address: София, кв. Белите брези, ул. Нишава, бл.13
+Name: и грил перфект Type: бар Date: 08:30 Jan 10 2013 Address: софия, Орлов мост
+Name: N/A Type: N/A Date: 02:17 Apr 11 2013 Address: Град София
+Name: N/A Type: N/A Date: 07:20 Sep 28 2015 Address: град София, Орлов мост
+Name: N/A Type: заведение Date: 21:53 Dec 21 2012 Address: София, ул. Тодор Каблешков  22
+Name: Мираж Type: механа Date: 10:02 Mar 8 2013 Address: София, бул. Тодор Каблешков 22
+Name: N/A Type: N/A Date: 11:00 Dec 29 2013 Address: София, ул. Мургаш 2
+Name:   bar wrong Type: бар Date: 10:27 Jan 9 2014 Address: София, ул. Шейново 18
+Name: Мираж Type: ресторант Date: 11:00 Dec 6 2013 Address: София, Ул.Тодор Каблешков 22
+Name: Българка Type: механа Date: 09:30 Nov 2 2013 Address: София, бул. Цариградско шосе 2
+Name: Българка Type: механа Date: 11:15 Jan 18 2014 Address: град София, бул. Цариградско шосе  2
+Name: Двете халби Type: бирария Date: 08:30 Mar 1 2013 Address: гр. София, ул. Костенски водопад 71
+Name: Двете халби Type: бирария Date: 11:59 Jan 3 2013 Address: София ж.к. Гоце Делчев, ул. Костенски водопад 71
+Name: N/A Type: N/A Date: 04:30 Mar 19 2013 Address: София, бул. Джеймс Баучър 100
+Name: Bar&Grill Sweet Type: бар Date: 07:55 Apr 6 2013 Address: София, кв. Младост 3, ул Свето Преображение, до блок 328
+Name: N/A Type: заведение Date: 22:25 Dec 12 2012 Address: София, Костенски водопад 71
+Name: Двете халби Type: ресторант Date: 08:35 Oct 26 2013 Address: София ж.к. Гоце Делчев, ул. Костенски водопад 71
+Name: Боримечката Type: ресторант Date: 10:30 Jan 24 2015 Address: град София, Студентски град, ул. Акад. Борис Стефанов 8
+Name: Боримечката Type: ресторант Date: 10:12 Jan 24 2015 Address: София, Студентски град, улица Акад. Борис Стефанов 8
+Name: Лайм Лайт (Изток) Type: бар Date: 05:15 Feb 16 2014 Address: град София, ул. Тарас Шевченко  3
+Name: Изток Type: бар Date: 11:30 Nov 2 2013 Address: София, кв.Изгрев, ул. Тарас Шевченко 3
+Name: Арбат Type: бар Date: 21:46 Jan 4 2013 Address: гр.София, ул. ШИПКА No 34
+Name: N/A Type: N/A Date: 10:30 Mar 23 2013 Address: София, бул. Драган Цанков
+Name:  Веселото село Type: ресторант Date: 10:31 Mar 7 2015 Address: град София, Борисова градина
+Name: Бесо Type: ресторант Date: 21:46 Jan 4 2013 Address: гр.София, бул. Тодор Каблешков 41
+Name: Калипсо Type: ресторант Date: 01:08 Mar 4 2013 Address: София, улКостенски водопад 58
+Name: Ескобар Type: бар Date: 00:28 Dec 8 2013 Address: бул. Васил Левски 3, София, 1142
+Name: КОКО в Студентски град Type: клуб Date: 10:59 Mar 21 2014 Address: град София, Студентски град, бул. Акад. Б. Стефанов , бл. 24 - ниско тяло
+Name: N/A Type: N/A Date: 10:08 Oct 15 2013 Address: София, ж.к.Младост 3, бул. Ал. Малинов бл.314
+Name: Арт клуб Type: бар Date: 07:07 Nov 25 2013 Address: София, ул. Цар Иван Асен II 6
+Name: N/A Type: ресторант Date: 10:33 Jan 3 2013 Address: София Люлин 4, до блок 423
+Name: N/A Type: заведение Date: 22:30 Jan 4 2013 Address: софия
+Name: N/A Type: N/A Date: 13:48 Dec 31 2012 Address: гр. София, Симеоновско шосе  162
+Name: N/A Type: N/A Date: 01:09 Jan 12 2014 Address: град София, кв. Симеоново, ул. Витошки езера  25
+Name: N/A Type: N/A Date: 05:25 Dec 21 2013 Address: София, Кръстовището на Бул. Витоша 1 и ул. Бяла Черква
+Name: клуб 365 Type: клуб Date: 11:30 Dec 13 2013 Address: София, Ул. Шипка #1
+Name: N/A Type: N/A Date: 07:20 Jan 18 2015 Address: град София, кв. Симеоново, ул. Витошки езера  25
+Name: Club 365 на ул. Шипка 1 Type: клуб Date: 01:00 Oct 20 2013 Address: град София, ул. Шипка 1 (кръстовището на ул.Оборище и бул. В. Левски
+Name: Bar & Dinner Bellissimo Type: бар Date: 10:42 May 19 2014 Address: град София, ул. Шипка 46
+Name: N/A Type: N/A Date: 10:36 Dec 10 2015 Address: град София, бул.България  54, до бензиностанция ОМВ
+Name: Рубаят Type: ресторант Date: 07:38 Nov 13 2013 Address: София, НДК, вход А5
+Name: Рубаят Type: ресторант Date: 09:28 Sep 14 2013 Address: София, НДК, вх. А5
+Name: Beso Type: бар Date: 02:30 Jan 12 2014 Address: град София, ул. Тодор Каблешков
+Name: Ресторант Рубаят Type: ресторант Date: 09:50 Oct 1 2013 Address: София, НДК
+Name: One and more в кв Type: клуб Date: 01:40 Feb 9 2013 Address: София, ул. 8-ми декември 45
+Name: N/A Type: N/A Date: 09:50 Nov 16 2013 Address: София, Тодор Каблешков
+Name: N/A Type: N/A Date: 06:30 Jan 29 2014 Address: град София, Улица Тодор Каблешков
+Name: Рубаят Type: ресторант Date: 10:19 Nov 8 2012 Address: София, НДК, бул. България 1
+Name: Bulgaria Type: клуб Date: 05:00 Dec 6 2015 Address: град София, бул. България  54, непосредствено до ОМВ.
+Name: Black Lodge Type: клуб Date: 23:00 Jan 4 2013 Address: гр. София бул. Ал. Стамболийски 34
+Name: Ориент на хотел Феста Type: ресторант Date: 12:37 Jul 22 2015 Address: град София, бул. България  83
+Name: с/у църквата Type: кафе Date: 08:18 Mar 6 2013 Address: Скравена, обл. София
+Name: N/A Type: N/A Date: 08:00 Mar 2 2016 Address: град София, ул. Георги Раковски 96
+Name: N/A Type: N/A Date: 13:53 Jan 7 2013 Address: гр.София, ул. Лавеле 19
+Name: Бесо Type: бар Date: 08:33 Feb 17 2013 Address: София, бул. Тодор Каблешков 41
+Name: N/A Type: N/A Date: 01:11 Mar 16 2015 Address: град София, кв. Манастирски ливади, ул. Пирин  85
+Name: Галерия Type: заведение Date: 07:00 Mar 1 2014 Address: град София, ул. Пирин 85
+Name: N/A Type: N/A Date: 12:03 Oct 31 2013 Address: София, Волуяк, ул. Зорница 109
+Name: N/A Type: N/A Date: 09:26 Jan 30 2016 Address: град София, ул. Цар Самуил  33
+Name: N/A Type: N/A Date: 01:31 Feb 15 2014 Address: обл. София, общ. Столична, град Нови Искър, ул. Искърско дефиле
+Name: regione calabria Type: пицария Date: 11:00 Dec 21 2013 Address: софия, Кв. Сердика ул. Гюешево 24
+Name: Монро Type: клуб Date: 09:27 Mar 28 2013 Address: София, ул. Христо Белчев46
+Name: N/A Type: бар Date: 11:38 Jan 18 2013 Address: София, ул. Христо Белчев 46
+Name: N/A Type: N/A Date: 01:38 Mar 9 2014 Address: град София, бул. Цар Освободител 7
+Name: N/A Type: заведение Date: 01:04 Jan 22 2013 Address: София, бул.Евлоги Георгиев и ул.Христо Смирненски
+Name: N/A Type: N/A Date: 11:30 Mar 14 2014 Address: град София, бул. Цар Освободител  7
+Name: N/A Type: N/A Date: 01:00 Apr 18 2015 Address: град София, бул. Цар Освободител  7
+Name: градина Изгрев Type: ресторант Date: 11:26 Feb 19 2015 Address: град София, ул. Тарас Шевченко, зад китайския ресторант
+Name: N/A Type: N/A Date: 12:40 Jan 10 2015 Address: град София, Студентски град, ул. Йордан Йосифов  8А и бл. 35
+Name: N/A Type: N/A Date: 03:38 Sep 20 2013 Address: София, Студентски град, блок 35
+Name: бар Камино Type: бар Date: 12:50 Dec 28 2013 Address: софия, Неофит Рилски
+Name: Камино Type: бар Date: 01:39 Dec 27 2013 Address: София, Неофит Рилски
+Name: Камино Type: бар Date: 12:50 Jun 21 2015 Address: град София, ул. Неофит Рилски  70
+Name: N/A Type: N/A Date: 04:51 Mar 9 2013 Address: София, бул.Евлоги Георгиев и ул.Христо Смирненски
+Name: Маскара Type: клуб Date: 01:15 May 14 2016 Address: град София, бул. Г.С. Раковски 113, в Националната опера
+Name: N/A Type: N/A Date: 12:41 May 14 2016 Address: град София, ул. Леге 2
+Name: N/A Type: N/A Date: 02:02 May 16 2016 Address: град София, кв. Младост 3, ул. Свето преображение
+Name: MAGNITO grande Type: бар Date: 06:44 Nov 13 2013 Address: Град София, ул. Г. С. Раковски 112
+Name: КЕВА Type: ресторант Date: 22:00 Dec 31 2012 Address: София, ул. Раковски 114
+Name: Магнито Type: бар Date: 01:30 May 3 2014 Address: ул. Г.С. Раковски 112, София 1000
+Name: N/A Type: N/A Date: 12:45 Feb 14 2015 Address: София Московска 2
+Name: Фея Type: ресторант Date: 13:28 Jan 8 2013 Address: гр. София ж.к. Хладилника; ул. Гатьо Шишков 13А
+Name: Грамофон Type: клуб Date: 01:00 May 15 2016 Address: град София, ул. Будапеща  6
+Name: Роял ( бивш Рубаят) Type: клуб Date: 07:48 May 9 2016 Address: град София, пл. България  1, НДК, вход А5
+Name: Фея Type: ресторант Date: 09:05 May 12 2014 Address: град София, Ул. Гатьо Шишков 13А
+Name: Пица Рома Type: пицария Date: 09:05 May 10 2016 Address: град София, ж.к. Стрелбище, ул. Златни врата 4
+Name: Фея Type: ресторант Date: 12:00 Apr 22 2016 Address: град София, ул. Гатьо Шишков  13а
+Name: N/A Type: N/A Date: 02:51 May 17 2016 Address: град София, кв. Редута, зала Фестивална
+Name: N/A Type: N/A Date: 01:20 May 2 2016 Address: град София, Красно село, ул. Пирински проход  24А
+Name: Нексус Type: клуб Date: 12:44 Jan 14 2014 Address: град София, бул. Сливница  127
+Name: MY BAR Type: заведение Date: 06:50 May 4 2016 Address: град София, ул. Шипченски проход 18
+Name: Виктория Type: ресторант Date: 08:00 Sep 20 2013 Address: София, Бул. България 118
+Name: Godzila Type: ресторант Date: 10:20 May 5 2016 Address: град София, бул. Васил Левски 75, Спортна палата
+Name: за хранене Type: заведение Date: 04:00 Mar 27 2015 Address: град София, пл. Света Неделя  4
+Name: Tequila Type: дискотека Date: 12:08 Apr 30 2016 Address: град София, пл. Народно Събрание  4
+Name: N/A Type: N/A Date: 11:16 Feb 27 2014 Address: град София, Ул. Шейново 18
+Name: N/A Type: N/A Date: 10:11 Feb 3 2016 Address: град София, ул. Шейново 18
+Name: N/A Type: N/A Date: 10:00 Dec 19 2015 Address: град София, ул. Шейново 18
+Name: Оскар Type: клуб Date: 06:48 Apr 1 2015 Address: град София, ул. Славянска  15
+Name: N/A Type: N/A Date: 13:10 Nov 10 2012 Address: София, кв. Белите брези, ул. Нишава бл. 13
+Name: Оскар Type: заведение Date: 11:00 Mar 14 2015 Address: град София, ул. Славянска беседа  15
+Name: N/A Type: N/A Date: 10:00 Dec 29 2014 Address: град София, ул. Славянска беседа 15
+Name: N/A Type: N/A Date: 13:37 Nov 4 2012 Address: София,жк Света Троица, ул. Русе 2
+Name: N/A Type: клуб Date: 13:31 Nov 11 2012 Address: гр. София, бул. Витоша 31-33- Club JIM BEAM CENTER
+Name: Пойзън Type: бар Date: 01:06 Feb 23 2014 Address: град София, Аксаков 15А
+Name: Poison Type: бар Date: 01:27 Oct 20 2013 Address: гр. София, ул. Аксаков 15а
+Name: N/A Type: N/A Date: 04:10 Oct 7 2013 Address: София жк Стрелбище ул. Орехова гора 42А
+Name: Марионет Type: клуб Date: 12:20 Apr 16 2016 Address: град София, бул. Джеймс Баучер  100
+Name: Монтерей Type: ресторант Date: 03:23 Apr 20 2016 Address: град София, жк Люлин, срещу блок 107, Търговски център Принцеса
+Name: N/A Type: N/A Date: 01:59 Apr 14 2016 Address: град София, жк. Стрелбище, ул.Орехова гора 42А
+Name: JJs Bar Type: клуб Date: 09:05 Nov 26 2013 Address: София, ул. 6-ти Септември 38
+Name: JJs Bar Type: бар Date: 11:50 Mar 15 2013 Address: София, ул. 6-ти Септември 38
+Name: N/A Type: N/A Date: 08:30 Apr 11 2014 Address: град София, ул. 6-ти Септември 38
+Name: с детски кът Relaxa Type: бар Date: 07:40 Nov 28 2013 Address: София, ул. Хаджи Мано Стоянов, ъгъла с Ломско шосе
+Name: N/A Type: N/A Date: 09:55 Feb 14 2013 Address: София, Ул. Дойран 15
+Name: Фиоре Type: ресторант Date: 07:30 Jun 11 2013 Address: София, бул. Гоце Делчев 69
+Name: Фиоре Type: бар Date: 09:59 Mar 1 2013 Address: София, бул. Гоце Делчев 69
+Name: Poison Type: бар Date: 12:25 Apr 10 2016 Address: град София, ул. Аксаков  11
+Name: Sweet Bar & Grill Type: заведение Date: 12:24 Apr 27 2016 Address: град София, жк. Младост 3, между блок 328 и 329
+Name: Парк Бар Type: бар Date: 08:30 Nov 12 2013 Address: София, ул. Шипка 26
+Name: Парк Бар Type: бар Date: 06:01 Jan 4 2014 Address: град София, ул. Оборище  43
+Name: N/A Type: N/A Date: 01:00 Jun 6 2015 Address: град София, бул. Васил Левски  88
+Name: UGO Restaurant Type: пицария Date: 03:00 Apr 29 2016 Address: град София, бул. Витоша  45
+Name: Мистър Пица Type: ресторант Date: 10:53 Oct 12 2013 Address: София, бул. Черни връх 38 А
+Name: Sweet bar & grill Type: заведение Date: 06:16 Jan 18 2015 Address: град София, Младост 3, ул. Свето Преображение, до бл. 328
+Name: N/A Type: N/A Date: 11:46 Jan 22 2015 Address: град София, Младост 3, ул. Свето Преображение, до бл. 328
+Name: N/A Type: N/A Date: 02:58 Mar 26 2015 Address: град София, Младост 3, ул. Свето Преображение бл. 328
+Name: N/A Type: N/A Date: 10:25 Oct 15 2013 Address: София, Бул. Черни връх 38 а
+Name: N/A Type: N/A Date: 07:34 Feb 6 2016 Address: град София, Младост 3, ул. Свето Преображение, до бл. 328
+Name:  Мелнишка скара при Марто Type: ресторант Date: 05:00 Oct 27 2013 Address: град София, бул. Патриарх Евтимий 22
+Name: Адмирал Type: кафе Date: 12:39 Mar 27 2013 Address: София, Студентски град, бл. 36
+Name: Мелнишка скара Type: ресторант Date: 01:11 Oct 21 2013 Address: град София, бул. Патриарх Евтимий  22
+Name: Миленката Type: клуб Date: 02:10 Mar 31 2013 Address: София, Студентски град, бл.22,
+Name: механа Камините Type: ресторант Date: 07:12 Feb 16 2016 Address: град София, бул. Цар Борис III  205
+Name: Beso Type: ресторант Date: 06:20 Feb 10 2014 Address: град София, ул. Тодор Каблешков  45
+Name: Суингинг хол Type: клуб Date: 12:28 Feb 16 2013 Address: София, бул. Драган Цанков 8
+Name: disco bar enigma Type: дискотека Date: 12:20 Jan 11 2014 Address: град софия, ул. позитано 3
+Name: N/A Type: N/A Date: 04:30 Oct 10 2015 Address: град София, бул. Витоша 45
+Name: Ветрило Type: ресторант Date: 02:32 Mar 3 2013 Address: София, ул. Солун срещу Бл.43
+Name: Ветрило Type: ресторант Date: 11:10 Jan 25 2013 Address: София, ул. Солун
+Name: Густоза Type: ресторант Date: 07:39 Nov 18 2013 Address: София, жк. Слатина, бл. 30
+Name: Ветрило Type: ресторант Date: 19:41 Jan 14 2013 Address: София ул Солун срещу бл.43
+Name: Рубаят НДК Type: ресторант Date: 11:40 Mar 8 2013 Address: София, Пл. България 1, НДК, вход А5
+Name: Густоза Type: ресторант Date: 07:39 Nov 18 2013 Address: София, жк. Слатина, бл. 30
+Name: Густоза Type: заведение Date: 10:31 Jan 16 2014 Address: град София, ул. Александър Момчев, срещу бл. 30, до 148-мо СОУ
+Name:  на хотел Сенс Type: бар Date: 04:50 Mar 22 2016 Address: град София, бул. Цар Освободител  16
+Name: Густоза Type: ресторант Date: 07:39 Nov 18 2013 Address: София, жк. Слатина, бл. 30
+Name: планет Type: бар Date: 09:10 Jan 10 2013 Address: софия, Ул оборище
+Name: Хепи - Аско Деница Type: ресторант Date: 09:30 May 10 2014 Address: град София, ж.к. Младост, ул. Ф. Аврамов 1, Нова Деница
+Name: sense roof top bar Type: бар Date: 11:04 May 9 2014 Address: град София, Бул. Цар Освободител 16
+Name: N/A Type: N/A Date: 13:47 Nov 28 2012 Address: град София, жк. Младост 3 ул Свето Преображение, до блок 328
+Name: Рома Type: пицария Date: 10:11 Mar 20 2014 Address: град София, жк. Стрелбище, ул. Златни врата  4
+Name: Red apple Type: ресторант Date: 10:05 Dec 12 2015 Address: град София, ул. Бяла черква  24
+Name: Рома Type: пицария Date: 12:30 Feb 3 2015 Address: град София, ул. Златни врата 4
+Name: Билионер Type: клуб Date: 01:00 Mar 3 2013 Address: София, ул. Съборна 3
+Name: Колелата Type: ресторант Date: 01:51 Jan 5 2013 Address: бул. Ситняково  79 София, България.
+Name: N/A Type: N/A Date: 21:30 Jan 5 2013 Address: София булевард Ситняково 79
+Name: N/A Type: N/A Date: 16:04 Nov 24 2013 Address: софия
+Name: N/A Type: N/A Date: 12:46 Dec 5 2012 Address: София, ул.Орехова гора 42А
+Name: N/A Type: N/A Date: 11:27 Mar 11 2014 Address: град София, ул. Леге 2
+Name: N/A Type: N/A Date: 01:03 Jan 25 2013 Address: София, бул. Акад. Б. Стефанов , бл. 24
+Name: Маракеш Type: ресторант Date: 04:10 Mar 29 2013 Address: София, ул. Йордан Йосифов 20
+Name: N/A Type: N/A Date: 11:00 Dec 21 2012 Address: София, Ул. Г.С.Раковски 123
+Name: Маракеш Type: ресторант Date: 11:59 Mar 29 2013 Address: София, Студентски град, ул. Йордан Йосифов 20
+Name: Парк бар Type: бар Date: 01:00 Mar 29 2013 Address: София, ул. Шипка 26
+Name: N/A Type: N/A Date: 01:05 Mar 30 2013 Address: София, Студентски град, Зимен дворец на спорта
+Name: Верона Type: пицария Date: 05:45 Mar 15 2016 Address: град София, ж.к. Надежда 2, ул. Кирил Драганов, до бл. 266
+Name: Фло Type: кафе Date: 02:44 Mar 31 2013 Address: София, пл. Св. Неделя  3
+Name: Фиоре Type: ресторант Date: 07:50 May 1 2014 Address: град София, Бул. Гоце Делчев 69
+Name: N/A Type: N/A Date: 22:40 Dec 19 2012 Address: София, ул.Неофит Рилски44, пицария Авалон-2-ри етаж
+Name: N/A Type: N/A Date: 01:00 Nov 30 2013 Address: София, Пл александър Невсли
+Name: N/A Type: N/A Date: 01:00 Dec 4 2013 Address: София, ул. Битоля 2
+Name: Петлето Type: ресторант Date: 02:30 Jan 17 2015 Address: град София, Неофит Рилски  44
+Name: N/A Type: ресторант Date: 16:00 Dec 7 2013 Address: София, ул. Неофит Рилски 44
+Name: Бедрум Type: клуб Date: 10:32 Jun 17 2014 Address: град София, ул. Леге 2
+Name: Панорама Type: ресторант Date: 12:08 Mar 13 2014 Address: град София, бул Дондуков 11
+Name: Петлето Type: ресторант Date: 09:00 Jan 22 2015 Address: град София, ул. Неофит Рилски  44
+Name: Камино Type: бар Date: 02:13 Apr 1 2013 Address: София, ул Неофит Рилски 70
+Name: N/A Type: N/A Date: 04:03 Jan 7 2015 Address: град София, бул. Гоце Делчев  67
+Name: Ветрило Type: пицария Date: 02:01 Nov 11 2013 Address: София, ж.к. Борово, ул. Солун срещу бл. 43
+Name: N/A Type: клуб Date: 12:00 Mar 31 2013 Address: София, Бул. Васил Левски 88
+Name: Once Upon a Time Библиотеката Type: клуб Date: 01:00 Mar 30 2013 Address: София, Бул. Васил Левски 88
+Name:   Type: клуб Date: 07:31 Apr 2 2013 Address: София, бул. Джеймс Баучър 100
+Name: Cotton Club Type: дискотека Date: 02:00 Mar 29 2013 Address: София, Студентски град, Зимен дворец на спорта
+Name: Candy Type: клуб Date: 09:30 Mar 28 2013 Address: София, Бул. Дж. Баучер 100
+Name: Sin City Type: дискотека Date: 01:34 Mar 30 2013 Address: София, бул. Христо Ботев 61
+Name: пицария La Рicionara Type: ресторант Date: 06:25 Feb 6 2016 Address: град София, жк. Бъкстон между бл. 23 и 24
+Name: N/A Type: N/A Date: 07:50 Jan 11 2014 Address: София, Ул. Шишман
+Name: Бекярд Type: бар Date: 12:06 Jan 3 2015 Address: град София, ул. Цар Шишман  22
+Name: Бекярд (Backyard) Type: бар Date: 12:00 Nov 28 2013 Address: София, ул. Шишман 22
+Name: N/A Type: N/A Date: 11:30 Mar 28 2013 Address: София, бул. Христо Ботев 61
+Name: Вackyard Type: бар Date: 10:47 Jan 18 2014 Address: град София, ул. Цар Шишман  22
+Name: N/A Type: N/A Date: 08:48 Nov 19 2013 Address: София, Баба Неделя 1, София
+Name: Stereo Type: клуб Date: 02:05 Mar 30 2013 Address: София, ул. Позитано 8
+Name: N/A Type: N/A Date: 08:48 Nov 19 2013 Address: София, Баба Неделя 1, София
+Name: БЕСО Type: ресторант Date: 13:21 Dec 16 2012 Address: ул. Тодор Каблешков 41, София
+Name: N/A Type: N/A Date: 13:32 Jan 8 2013 Address: София тодор каблешков 41
+Name: Коко Type: бар Date: 01:09 Mar 23 2013 Address: София, ул. академик борис стефанов бл.24
+Name: КОКО Type: клуб Date: 07:16 Mar 15 2013 Address: София, Студентски град, ул. Акад. Б. Стефанов , бл. 24
+Name:  на комплекс Вятърните Мелници Type: ресторант Date: 02:33 Jan 6 2014 Address: София, Горна Малина, комплекс Вятърните мелници
+Name: Марайа Класик Type: бар Date: 01:30 Dec 19 2015 Address: град София, бул. Евлоги Георгиев и ул. Христо Смирненски
+Name: N/A Type: N/A Date: 22:52 Dec 28 2012 Address: гр. София, бул. Евлоги Георгиев и ул. Христо Смирненски
+Name: Делано Type: бар Date: 08:15 Dec 6 2013 Address: София, бул. Евлоги и Христо Георгиеви 32
+Name: Коко Type: клуб Date: 01:50 Oct 10 2013 Address: София, Студентски град, бул. Акад. Б. Стефанов , бл. 24
+Name: N/A Type: N/A Date: 06:17 Mar 25 2013 Address: София, ул. Цветан Радославов 6
+Name: Българка Type: механа Date: 21:45 Jan 18 2013 Address: София Изток, бул. Цариградско шосе 2
+Name: Джоки Type: бирария Date: 04:39 Jan 22 2014 Address: град София, ул. Цветан Радославов  6
+Name: Българка Type: механа Date: 03:35 Mar 20 2016 Address: град София, бул. Цариградско шосе  2
+Name: Рубаят Type: ресторант Date: 07:00 Nov 26 2013 Address: София, НДК
+Name: N/A Type: кафе Date: 22:24 Dec 22 2012 Address: София, Люлин 10, Кафене Heineken до Пицария Капри, до изхода на местростанция Зап.парк
+Name: Рубаят Type: ресторант Date: 10:00 Oct 9 2013 Address: София, НДК
+Name: N/A Type: бар Date: 23:00 Jan 8 2013 Address: София, пл. Славейков 7A, ет.2, бар Катерина
+Name: BESO Type: бар Date: 07:45 Jan 11 2013 Address: София, Бул. Тодор Каблешков 45
+Name: N/A Type: заведение Date: 13:28 Dec 13 2012 Address: София,Тодор Каблешков 41
+Name: Арбат Type: бар Date: 01:51 Jan 27 2013 Address: София, Шипка 34
+Name: N/A Type: бар Date: 01:30 Dec 13 2013 Address: София, ул. Шипка 34
+Name: N/A Type: бар Date: 01:20 Dec 22 2012 Address: гр. София, ул. Шипка  34
+Name: Арабат Type: бар Date: 05:11 Oct 25 2013 Address: град София, ул. Шипка 34
+Name: N/A Type: N/A Date: 17:30 Jan 9 2013 Address: София, Жк надежда 2 срещу блок 215
+Name: N/A Type: N/A Date: 10:30 Nov 5 2015 Address: град София, бул. България  132
+Name: N/A Type: N/A Date: 03:32 Oct 4 2013 Address: София, бул.България 118
+Name: Винарна Type: ресторант Date: 12:59 Feb 21 2013 Address: София, ул. Лавеле 19
+Name: Винарна Type: ресторант Date: 21:04 Jan 15 2013 Address: гр.София, ул. Лавеле  19
+Name: Court House Type: заведение Date: 01:16 Jan 8 2015 Address: град София, ул. Лавеле  19
+Name: Court House Club Type: заведение Date: 07:30 Jan 28 2015 Address: град София, ул. Лавале 19
+Name: N/A Type: N/A Date: 03:41 Mar 20 2015 Address: град София, ул. Бяла черква  1
+Name: N/A Type: N/A Date: 11:12 Feb 8 2015 Address: град София, ул. Бяла черква 1
+Name: Рим Type: пицария Date: 02:13 Feb 3 2015 Address: гр. София, кв. Стрелбище, ул. Златни врата 4
+Name: Глория Type: кафе Date: 11:19 Nov 29 2013 Address: Град София, ул. Пирински проход 30 а
+Name: Гато Негро Type: заведение Date: 09:12 Apr 4 2016 Address: град София, кв. Света троица, ул. Бургас
+Name: Мегами Type: клуб Date: 12:06 Apr 9 2016 Address: град София, ул. Джеймс Баучер  100
+Name: Shortcut Type: бар Date: 11:30 Mar 21 2014 Address: град София, бул. Витоша 48
+Name: е в Спортната палата Type: кафе Date: 01:47 Jan 28 2013 Address: София, бул. В.Левски 75 (ъгъла с ул.Иван Вазов)
+Name: 75 Type: бар Date: 09:41 May 1 2014 Address: град София, бул Васил Левски 75
+Name: Годзила Type: ресторант Date: 07:15 Mar 16 2016 Address: град София, бул. Васил Левски  75
+Name: Enjoy Type: ресторант Date: 08:58 Nov 26 2013 Address: София, Ул. Петрич 16
+Name: Mood Type: бар Date: 01:30 Apr 2 2016 Address: град София, Подлеза на ул. Г. С. Раковски и бул. В. Левски
+Name: Клуб Етника Type: ресторант Date: 21:20 Dec 31 2012 Address: София , Ул Варна 3, ж.к. Света Троица
+Name: N/A Type: N/A Date: 11:00 Jan 31 2013 Address: София, Ул. Петрич 16
+Name: Блазе Type: ресторант Date: 12:27 Mar 27 2016 Address: град София, Студентски град, ул. Атанас Манчев  10
+Name: N/A Type: N/A Date: 09:17 Apr 3 2016 Address: град София, бул. България 1
+Name: Zeko Type: ресторант Date: 09:20 Jan 22 2016 Address: град София, ул. Пирински проход  36
+Name: N/A Type: N/A Date: 08:33 Apr 3 2016 Address: град София, ж.к. Бели брези, ул. Битоля  2
+Name: N/A Type: N/A Date: 13:03 Nov 17 2012 Address: гр. София, Бул. Витоша 31-33
+Name: N/A Type: N/A Date: 22:31 Dec 29 2012 Address: гр. София, кв. Стрелбище, ул. Орехова гора  42А,
+Name: N/A Type: пицария Date: 04:26 Dec 10 2013 Address: София, жк. Стрелбище, ул Орехова гора, 42А
+Name: Ветрило 2 Type: пицария Date: 15:41 Jan 13 2013 Address: гр.София, жк. Стрелбище, ул Орехова гора 42А
+Name: N/A Type: N/A Date: 01:00 Nov 17 2012 Address: София, бул. Витоша 31-33, клуб Jim Beam (center)
+Name: N/A Type: клуб Date: 13:42 Nov 17 2012 Address: гр. София
+Name: N/A Type: клуб Date: 13:51 Nov 17 2012 Address: град София Студентски град бл. 24
+Name: N/A Type: N/A Date: 23:29 Nov 17 2012 Address: София, Стрелбище ул. Орехова гора 42А
+Name: N/A Type: кафе Date: 09:10 Feb 19 2014 Address: град София, ул. Хайдушка гора 22; София, Южен парк
+Name: Кали Type: пицария Date: 10:23 May 1 2014 Address: Град София, бул. Гоце Делчев16.
+Name: Jim Beam Type: заведение Date: 01:00 Oct 13 2013 Address: София, бул. Витоша 30
+Name: N/A Type: N/A Date: 01:30 Mar 27 2016 Address: град софия, бул. Драган Цанков 5, парк Борисова градина, ж.к. Гео Милев, ул. Манастирска  35
+Name: Modera Type: бар Date: 10:20 Mar 8 2016 Address: град София, ул. Йордан Йосифов  8 А.
+Name: N/A Type: пицария Date: 20:00 Dec 17 2013 Address: София 1404, ж.к. Стрелбище, ул. Орехова гора 42А
+Name: N/A Type: N/A Date: 11:17 Dec 14 2012 Address: София, НДК, бар Момо срещу билетния център.
+Name: Грамофон Type: клуб Date: 12:13 Mar 26 2016 Address: град София, ул. Будапеща  6
+Name: Кабаре Type: бар Date: 01:30 Mar 27 2016 Address: град София, ул. Христо Белчев 12
+Name: N/A Type: бар Date: 18:26 Jan 17 2013 Address: гр.София, ул.Шипка 26
+Name: La Tratorria Type: ресторант Date: 12:07 Mar 11 2014 Address: София, Младост 3, до блок 309
+Name: Парк бар Type: бар Date: 09:19 Feb 13 2013 Address: София, ул. Шипка 26
+Name: sweet Type: ресторант Date: 07:30 Apr 3 2014 Address: град София, жк Младост 3
+Name: La Trattoria (град София Type: ресторант Date: 12:45 Feb 21 2014 Address: град София, Младост 3, до бл.309
+Name: Парк бар Type: бар Date: 09:42 Feb 19 2013 Address: София, ул. Шипка 26
+Name: Парк бар Type: бар Date: 07:30 Mar 19 2013 Address: София, ул. Шипка 26
+Name: Sweet Bar & Grill Type: ресторант Date: 04:24 Jul 22 2014 Address: град София, ж.к. Младост 3, бул. Свето преображене, между блок 328 и 329
+Name: N/A Type: N/A Date: 09:49 Mar 23 2015 Address: град София, бул. Черни връх 38-А
+Name: Маракеш Type: ресторант Date: 11:53 Apr 24 2013 Address: София, Студентски град, ул. Йордан Йосифов 20
+Name: N/A Type: N/A Date: 04:08 May 21 2014 Address: град София, Студентски град, ул. Доктор Йордан Йосифов  20
+Name: N/A Type: N/A Date: 07:15 Oct 12 2015 Address: град София, Студентски град, ул. Йордан Йосифов  16, пред бл. 35
+Name: Грамофон Type: клуб Date: 01:00 Mar 23 2013 Address: София, ул. Будапеща 6
+Name: Vogue Type: клуб Date: 12:33 Mar 22 2013 Address: София, бул. Васил Левски 88
+Name: N/A Type: N/A Date: 11:06 Mar 22 2013 Address: София, бул Джеймс Баучер 100
+Name: Intrigue Bar&Dinner Type: ресторант Date: 10:10 Mar 22 2013 Address: София, бул. Витоша 102
+Name: Панорама Type: ресторант Date: 11:00 Nov 5 2015 Address: град София, бул. Дондуков  11
+Name: N/A Type: N/A Date: 10:20 Mar 8 2013 Address: София, Бул.  Бяла черква 24
+Name: Зеко Type: ресторант Date: 01:23 Jan 19 2014 Address: Град София, ул. Бяла Черква на ъгъла с бул. Витоша
+Name: red apple  Type: ресторант Date: 07:30 Dec 10 2013 Address: София, Улица Бяла Черква 24
+Name: Samer Grill House Type: ресторант Date: 08:40 Apr 4 2015 Address: град София, ул. Бяла черква  1, Южен парк
+Name: Петлето Type: ресторант Date: 10:06 Jun 6 2015 Address: град София, ул. Неофит Рилски  44
+Name: градина Барбекю Type: ресторант Date: 10:51 Dec 6 2013 Address: гр. София, ул. Козлодуй 117
+Name: N/A Type: N/A Date: 12:54 Mar 24 2013 Address: София, Бул. Васил Левски 88
+Name: Камино Type: бар Date: 01:25 Mar 24 2013 Address: София, ул. Неофит Рилски 70
+Name: N/A Type: N/A Date: 01:29 Jan 12 2013 Address: София бул. Христо Ботев
+Name: N/A Type: бар Date: 01:18 Jan 12 2013 Address: София, ул Иван Рилски 11
+Name: 13-ката Type: клуб Date: 12:08 Jan 15 2013 Address: гр.София, ж.к. Бъкстон бл. 10
+Name: N/A Type: N/A Date: 01:25 Jan 12 2013 Address: София , ул. Позитано 22
+Name:  Once upon a time Biblioteka Type: клуб Date: 01:17 Mar 22 2013 Address: София, ул .В.ЛЕВСКИ 88
+Name: (кръчма) Българка Type: ресторант Date: 10:30 Mar 15 2013 Address: София, бул. Цариградско шосе 2
+Name: N/A Type: N/A Date: 12:30 Mar 17 2013 Address: София, Бул. Васил Левски 88
+Name: N/A Type: бар Date: 12:53 Mar 17 2013 Address: София, Студентски Град ул.Академик Борис Стефанов 4
+Name: N/A Type: N/A Date: 03:00 Jan 12 2013 Address: София, Студентски Град
+Name: N/A Type: N/A Date: 01:02 Jan 12 2013 Address: механа каминните гр. София бул  Цар Борис ||| 205
+Name: N/A Type: N/A Date: 11:00 Jan 11 2013 Address: София, Ндк
+Name: Лорка Type: бар Date: 23:32 Jan 11 2013 Address: гр.София, ул. Солунска 24, под ресторант Мачу Пикчу
+Name: Апетит Type: ресторант Date: 06:30 Feb 10 2013 Address: София, ул. Александър Жендов 6
+Name: N/A Type: N/A Date: 01:00 Jan 29 2013 Address: София, Студентски град, бул. Акад. Б. Стефанов, бл. 24
+Name: N/A Type: N/A Date: 17:05 Dec 26 2012 Address: София, ул. Тодор Каблешков  45
+Name: N/A Type: N/A Date: 13:22 Dec 22 2012 Address: гр. София, ул. Тодор Каблешков  45
+Name: N/A Type: N/A Date: 13:51 Dec 28 2012 Address: гр. София, ул. Тодор каблешков  45
+Name: N/A Type: N/A Date: 20:16 Dec 22 2012 Address: София, ул. Тодор Каблешков  45
+Name: N/A Type: N/A Date: 23:37 Dec 15 2012 Address: София, ул.Тодор Каблешков 45
+Name: е МОМО Type: кафе Date: 12:00 Mar 20 2016 Address: град София, градината на НДК
+Name: Once upon a time Biblioteka Type: клуб Date: 01:00 Mar 20 2016 Address: град София, бул. Васил Левски  88
+Name: N/A Type: N/A Date: 12:20 Dec 10 2013 Address: София, Иван вазов 6
+Name: N/A Type: N/A Date: 00:01 Nov 10 2013 Address: София, Площад Славейков
+Name: N/A Type: N/A Date: 00:01 Nov 10 2013 Address: София, Площад Славейков
+Name: N/A Type: N/A Date: 00:01 Nov 10 2013 Address: София, Площад Славейков
+Name: N/A Type: N/A Date: 06:48 Jan 19 2014 Address: Дякон игнатиий 21, град софия
+Name: You and me Type: бар Date: 05:15 Dec 3 2013 Address: София, Ул. Дякон Игнатий, 19
+Name: Детето Type: пицария Date: 06:38 Mar 19 2016 Address: град София, жк Люлин, кооперативен пазар
+Name: SMILE Type: ресторант Date: 08:30 Mar 19 2016 Address: град София, жк. Младост 2, ул. Св. Киприян 30, (последна спирка на автобус 306)
+Name: Глория Мар Type: ресторант Date: 12:30 Nov 26 2013 Address: гр. София, ул. Славянска N 29
+Name: Глория Мар Type: ресторант Date: 12:30 Nov 20 2013 Address: София, ул Славянска 29
+Name: Глория Мар Type: ресторант Date: 02:07 Nov 26 2013 Address: София, ул. Славянска 29
+Name: Глориа Мар Type: ресторант Date: 10:05 Dec 31 2013 Address: София, ул. Славянска 29
+Name: Пица Рим 2 Type: пицария Date: 13:00 Nov 20 2012 Address: гр. София, ж.к. Младост 1, бл. 515
+Name: N/A Type: N/A Date: 13:22 Nov 20 2012 Address: София, кв. Борово, ул. Солун Бл.43
+Name: N/A Type: заведение Date: 13:07 Nov 20 2012 Address: София, район Лозенец, ул. Крум Попов 64
+Name: N/A Type: N/A Date: 13:49 Nov 20 2012 Address: София, кв. Борово
+Name: N/A Type: N/A Date: 13:36 Nov 21 2012 Address: София, Борово, ул. Солун и Стребище, ул. Орехова гора
+Name: N/A Type: пицария Date: 13:16 Nov 21 2012 Address: пицария Лъчони на адрес гр. София, кв.Младост 2, до блок 202
+Name: N/A Type: заведение Date: 13:29 Nov 21 2012 Address: гр. София
+Name: Once Upon a Time Biblioteka Type: клуб Date: 01:00 Mar 19 2016 Address: град София, бул. Васил Левски  88
+Name: N/A Type: N/A Date: 02:00 Oct 20 2013 Address: София, Бул. Витоша 32
+Name: N/A Type: N/A Date: 01:00 Dec 7 2013 Address: София, бул. Витоша 33
+Name: 1516 Type: бирария Date: 10:00 Mar 19 2016 Address: град София, ул. Цар Асен 2А
+Name: Jim Beam Type: клуб Date: 01:30 Jan 25 2015 Address: София, бул. Витоша 33
+Name: N/A Type: N/A Date: 02:45 Jan 27 2013 Address: София, бул. Витоша 33
+Name: е Sargaletto Type: кафе Date: 10:45 Dec 20 2013 Address: София, Студентски град, ул. Университетски парк,
+Name: N/A Type: N/A Date: 01:00 Nov 18 2012 Address: София, Център, ул. Гурко 16
+Name: Ветрило Type: ресторант Date: 12:53 Mar 12 2016 Address: град София, ж.к. Стрелбище, ул. Орехова гора 42
+Name: Edison Bar and Dinner Type: заведение Date: 07:26 Mar 12 2016 Address: град София, парк Гео Милев, на ъгъл на улица Едисон и улица Трудолюбие (откъм парка)
+Name: Мy bar Type: бар Date: 08:00 Mar 11 2016 Address: град София, бул. Шипченски проход 18
+Name: Джунглата Type: пицария Date: 08:31 Mar 8 2016 Address: град София, Надежда 4, срещу блок 418
+Name: Evergreen Type: ресторант Date: 09:39 Mar 8 2016 Address: град София, Студентски град, ул. Проф. д-р Иван Странски, в близост до Зимния дворец
+Name: 35 Type: бар Date: 03:37 Mar 10 2016 Address: град София, Студентски град, ул. Йордан Йосифов 16
+Name:  О Type: пицария Date: 12:38 Mar 5 2016 Address: град София , кв. Бъкстон, бул. Бр. Бъкстон 22
+Name: Лорка Type: бар Date: 06:16 Mar 3 2013 Address: София, ул. Солунска 24
+Name: Лорка Type: бар Date: 02:01 Mar 15 2014 Address: град София, ул. Солунска 24, в мазето
+Name: Дивака Type: ресторант Date: 09:15 Oct 15 2013 Address: София, Ул. Христо Белчев 16
+Name: Зеко Type: ресторант Date: 07:40 Mar 30 2014 Address: град София, ул. Бяла Черква/бул. Витоша, вход на Южния парк от бул. Витоша
+Name: Zeko Bar and Food  на входа на Южния парк Type: ресторант Date: 07:30 Nov 5 2013 Address: София, ул. Бяла Черква (бул. Витоша)
+Name: о на входа на Южния парк Type: заведение Date: 10:48 Mar 4 2015 Address: град София, ул. Бяла черква, входа на Южния парк
+Name: Амер/Зеко Type: ресторант Date: 08:00 Jul 31 2014 Address: рад София, ул. Бяла Черква (бул. Витоша)
+Name: Карера Клуб Type: бар Date: 12:15 Mar 15 2013 Address: София, ул. Верила 5
+Name: Грамофон Type: клуб Date: 01:20 Mar 16 2013 Address: София, ул.Будапеща  6
+Name: клуб Грамофон Type: клуб Date: 01:30 Mar 16 2013 Address: София, ул.Будапеща  6
+Name: N/A Type: N/A Date: 12:00 Oct 1 2013 Address: град София, ул. Козлодуй 70, на ъгъла с ул. Кресна в ж.к. Банишора.
+Name: Брага Type: бар Date: 11:30 Mar 1 2014 Address: град София, ул. Верила 5
+Name: Брага Type: бар Date: 11:35 Jan 30 2016 Address: град София, ул. Верила  5
+Name: Брага Type: бар Date: 09:30 Sep 27 2013 Address: София, ул.Верила 5
+Name: Брага Type: бар Date: 10:48 Mar 8 2013 Address: София, ул. Верила 5
+Name: N/A Type: N/A Date: 07:00 Mar 6 2013 Address: София, Улица Граф Игнатиев 43
+Name: за хранене Интриг Type: заведение Date: 10:29 Mar 4 2013 Address: София, бул. Витоша 102
+Name: Миражъ Type: ресторант Date: 10:05 Dec 31 2015 Address: град София, ул. Тодор Каблешков  22
+Name:  Миражъ Type: ресторант Date: 10:10 Dec 31 2015 Address: град София , ул.Тодор Каблешков  22
+Name: N/A Type: ресторант Date: 05:39 Feb 9 2014 Address: град София, ул.Бяла черква, на входа на Южния парк
+Name:  Бирария 43 Type: ресторант Date: 07:45 Jan 30 2015 Address: град София, ул. Пиротска  43
+Name: Миражъ Type: ресторант Date: 09:00 Dec 31 2015 Address: град София, ул. Тодор Каблешков  22
+Name: Миражъ Type: механа Date: 09:43 Dec 29 2015 Address: град София, ул. Тодор Каблешков  22
+Name: N/A Type: N/A Date: 01:30 Jan 14 2013 Address: София, Бул. Каблешков 45
+Name: N/A Type: N/A Date: 01:57 Jan 14 2013 Address: гр. София, ул. Кирил и Методи 27
+Name: Лорка Type: бар Date: 02:16 Apr 17 2014 Address: град София, ул. Солунска 24, под ресторант Мачу Пикчу
+Name: Pastorant Type: ресторант Date: 11:00 May 26 2015 Address: град София, ул. Цар Асен  16
+Name: N/A Type: N/A Date: 16:35 Dec 12 2013 Address: София, бул.Витоша, НДК
+Name: N/A Type: N/A Date: 08:12 Mar 2 2016 Address: град София, ул. Верила  3
+Name: Суит Type: бар Date: 01:37 Mar 4 2016 Address: град София, Младост-3, до бл. 328
+Name: Sweet Type: бар Date: 02:39 Feb 28 2016 Address: град София, жк Младост 3, до бл. 329
+Name: Камино Type: бар Date: 07:21 Feb 27 2016 Address: град София, ул. Неофит Рилски 70
+Name: Sweet bar & grill Type: ресторант Date: 09:45 Feb 23 2016 Address: град София, зала Фествална
+Name: N/A Type: N/A Date: 04:28 Feb 26 2016 Address: град София, зала Фестивална
+Name: N/A Type: пицария Date: 21:00 Jan 29 2013 Address: гр.София, ж.к.Младост1А, бл.515,
+Name: N/A Type: N/A Date: 23:00 Dec 11 2012 Address: София, ул. Цар Асен 2А
+Name: N/A Type: N/A Date: 00:55 Dec 6 2012 Address: София, Улица Цар Асен 2А
+Name: N/A Type: N/A Date: 12:01 Nov 22 2012 Address: Гр. София, бул. Джеймс Баучер 124 happy sushi
+Name: Оnce upon a time bibliotekata Type: клуб Date: 01:00 Feb 28 2016 Address: град София, бул. Васил Левски 88
+Name: N/A Type: заведение Date: 01:27 Jan 25 2013 Address: София Младост 1А бл.515
+Name: N/A Type: N/A Date: 01:33 Jan 28 2013 Address: София, Младост 1А, блок 515
+Name: N/A Type: N/A Date: 00:59 Nov 25 2012 Address: София, в заведенир Once upon a time бившо Библиотеката.
+Name: Брилянтин Type: клуб Date: 12:17 Feb 15 2016 Address: град София, ул. Московска 3
+Name: N/A Type: N/A Date: 03:11 Jan 16 2014 Address: град София, Студентски град, ул. Атанас Манчев  1
+Name:  Jim Beam Type: клуб Date: 03:45 Feb 13 2016 Address: град София, Студентски град, ул. Атанас Манчев 3
+Name: Sweet Бар & грил Type: ресторант Date: 03:00 Feb 14 2016 Address: град София, Младост 3, до блок 328 и 329.
+Name: N/A Type: бар Date: 11:32 Dec 15 2013 Address: София, Христо Белчев 22
+Name: Samer Grill House Type: ресторант Date: 09:00 Dec 19 2015 Address: град София, ул. Бяла черква
+Name: Махалото Type: ресторант Date: 08:49 Dec 13 2015 Address: град София, бул. Васил Левски  51
+Name: N/A Type: N/A Date: 08:12 Feb 16 2014 Address: град София, бул. Тодор Каблешков  41
+Name: НА ПОПА Type: бирария Date: 07:20 Jan 23 2014 Address: 1142 град София , ул.Граф Игнатиев 43
+Name: Глори Type: клуб Date: 12:45 Jan 15 2013 Address: гр.София, ул. Пирински проход 18-24 /ж.к.Красно село/
+Name: Шеф дьовър Type: бар Date: 12:08 Mar 2 2013 Address: София, студентски град, бл. 54
+Name: N/A Type: N/A Date: 11:59 Jan 15 2013 Address: луб/Кафе Коко в Студентски град, до блок  24, гр. София.
+Name: Murphys Type: бар Date: 12:18 Jan 1 2015 Address: град София, ул. Кърниградска  6
+Name: N/A Type: N/A Date: 12:28 Feb 11 2016 Address: град София, Младост 1, пазар
+Name: N/A Type: N/A Date: 12:02 Feb 6 2016 Address: град София, ул. Будапеща  6
+Name: Парк Бар Type: ресторант Date: 03:00 Feb 6 2016 Address: град София, ул. Шипка  26
+Name: Deze Type: бар Date: 05:04 Feb 4 2016 Address: град София, кв. Дървеница, бул. Климент Охридски 19, с/у Лесотехническия университет
+Name: N/A Type: ресторант Date: 13:38 Nov 28 2012 Address: гр. София, ул. Тодор Каблешков 45
+Name: N/A Type: N/A Date: 12:00 Feb 8 2016 Address: град София, парк Гео Милев, на ъгъл на улица Едисон и улица Трудолюбие (откъм парка)
+Name: N/A Type: N/A Date: 08:10 Feb 1 2016 Address: град София, ул. Верила  3
+Name: Амстердам Type: бар Date: 02:07 Jan 30 2016 Address: град София, ул. Христо Белчев  38
+Name: Синатра Type: бар Date: 12:30 Jan 31 2016 Address: град София, бул. Арсеналски  5
+Name: N/A Type: N/A Date: 09:07 Jan 28 2016 Address: град София, ул. Денлооглу 16
+Name: Мистър Пица Type: заведение Date: 08:48 Jan 29 2016 Address: град София, ул Верила  3
+Name: Conte Type: заведение Date: 12:16 Jan 26 2016 Address: град София, Студентски град, ул.Йордан Йосифов 4, пред Студ. стол 4
+Name:  Roma Type: ресторант Date: 06:00 Jan 26 2016 Address: град София, кв. Стрелбище, ул. Златна врата  4
+Name: Ла Кубанита Type: ресторант Date: 12:30 Feb 1 2016 Address: град София, ул. Битоля  2
+Name: Бесо Type: бар Date: 09:12 Feb 18 2013 Address: София, бул. Тодор Каблешков 41
+Name: N/A Type: N/A Date: 10:04 Jan 15 2014 Address: град София, бул.Витоша 33
+Name: Дивака Type: ресторант Date: 08:00 Mar 18 2014 Address: град София, ул. Христо Белчев  16
+Name: ONE AND MORE Type: клуб Date: 11:30 Feb 14 2013 Address: София, ул. 8-ми декември 45
+Name: Езерото Type: ресторант Date: 09:50 Feb 16 2013 Address: София, Околовръстен път - Суходол (до язовира)
+Name: Джой Type: клуб Date: 08:35 Feb 15 2013 Address: София, Младост 2 бул. Андрей Ляпчев 56/срещу бензиностанция ШЕЛ/
+Name: N/A Type: N/A Date: 07:00 Feb 15 2013 Address: София, Улица Неофит Рилски 72
+Name: N/A Type: заведение Date: 01:05 Jan 18 2013 Address: клуб Библиотеката, София, Народна Библиотека Кирил и Методи, ул Оборище
+Name: Алиби Type: бистро Date: 10:23 Oct 9 2013 Address: София, кв. Студентски град, бл.54
+Name: Евъргрийн Type: ресторант Date: 10:00 Dec 31 2015 Address: град София, Студентски град, бл. 57, вх. А
+Name: е в Красно село Type: кафе Date: 11:15 Mar 12 2014 Address: град София, ул. Пирински проход  24
+Name: N/A Type: N/A Date: 12:37 Jan 18 2013 Address: гр.София, ул.Русалски лък 1, бистро Дървеното (до пазар Герена)
+Name: N/A Type: кафе Date: 11:35 Jan 18 2013 Address: кафе Жълтото, гр.София, ул.Шандор Петьофи 41
+Name: N/A Type: заведение Date: 01:16 Jan 18 2013 Address: Текила клуб, София хотел Радисън
+Name: N/A Type: N/A Date: 08:54 Jan 17 2013 Address: София, Студентски град ,пресечни проф.Иван Странски и проф.Кирил Попов
+Name: N/A Type: N/A Date: 11:39 Dec 8 2013 Address: София, ул. Иван Денкоглу 14
+Name: N/A Type: N/A Date: 22:24 Jan 2 2013 Address: ул. Св Климент Охридски 10, София
+Name: N/A Type: N/A Date: 08:00 Dec 8 2013 Address: София, Ул Бели Мел 24
+Name: Ресторант-пицария Кривото Type: ресторант Date: 23:00 Jan 3 2013 Address: София, Ул. Св Климент Охридски 10
+Name: N/A Type: N/A Date: 13:25 Dec 11 2012 Address: бул. Андрей Ляпчев 56, Младост 2, гр. София
+Name: Jim Beam Type: дискотека Date: 01:46 Jul 13 2014 Address: град София, Студентски град, ул. Атанас Манчев  3
+Name: N/A Type: N/A Date: 13:18 Dec 1 2012 Address: София, бул. Джеймс Баучер  124
+Name: Чергите Type: ресторант Date: 09:30 Jan 22 2016 Address: град София, Студентски град, блок 60
+Name: N/A Type: N/A Date: 13:20 Dec 1 2012 Address: София, ул. Тодор Каблешков  45 и  53
+Name: Djanam Steak House Type: ресторант Date: 07:05 Jan 23 2016 Address: град София, ул.Пирински проход 61А
+Name: Verge Type: бар Date: 10:00 Jan 24 2016 Address: град София, бул. Патриарх Евтимий  6
+Name: Магията на чергите Type: механа Date: 09:00 Jan 23 2016 Address: град София, жк. Студентски град, бл. 60
+Name: N/A Type: N/A Date: 13:06 Dec 1 2012 Address: гр.софия, Младост, Йерусалим 1
+Name: N/A Type: N/A Date: 13:08 Dec 1 2012 Address: София, бул. Г.С. Раковски  113 (в Националната опера)
+Name: N/A Type: N/A Date: 13:12 Dec 1 2012 Address: София, бул. Христо Ботев  61
+Name: за хранене Ветрило Type: заведение Date: 01:57 Jan 21 2016 Address: град София, ул. Солун 47
+Name: Орехчето Type: механа Date: 02:19 Jan 22 2016 Address: град София, кв. Белите брези, ул. Лерин  52
+Name: Чергите  Type: ресторант Date: 09:17 Jan 22 2016 Address: град София, Студентски град, блок 60
+Name: N/A Type: N/A Date: 11:13 Jan 15 2016 Address: град София, ул. Битоля 2
+Name: N/A Type: N/A Date: 13:55 Nov 30 2012 Address: FLY BAR - София, ул. Шипка 9
+Name: Studio 5 Type: клуб Date: 12:27 Jan 16 2016 Address: град София, НДК, вход А3
+Name: кафе My Bar Type: бар Date: 05:05 Jan 17 2016 Address: град София, бул. Шипченски проход  18
+Name: N/A Type: заведение Date: 01:30 Dec 2 2012 Address: гр. София Неофит Рилски 70
+Name: N/A Type: N/A Date: 12:53 Jan 19 2016 Address: град София, ул. Сан Стефано  24
+Name: N/A Type: N/A Date: 22:19 Dec 1 2012 Address: София, ул. Джеймс Баучер 124, Хепи Саут Парк, ет. 2, в дъното до прозореца
+Name: N/A Type: N/A Date: 06:36 Jan 10 2016 Address: град София, кв. Симеоново, ул. Витошки езера  25
+Name: Кукуш Type: заведение Date: 11:16 Jan 11 2016 Address: град София, кв. Захарна фабрика, ул. Кукуш  8
+Name: The bee Type: ресторант Date: 01:45 Jan 13 2016 Address: град София, кв. Лозенец, ул. Св.Седмочисленици  2
+Name: N/A Type: N/A Date: 08:33 Jan 8 2016 Address: град София, ул. Верила  3
+Name: Carrusel Type: клуб Date: 01:30 Jan 10 2016 Address: град София, ул. Георги С. Раковски 108
+Name: КАТЕРИНА Type: бар Date: 07:00 Jan 5 2016 Address: град София, площад Славейков 7А
+Name: Corner Type: бар Date: 10:15 Jan 5 2016 Address: град София, бул. Никола Вапцаров  35
+Name: La Skara Type: ресторант Date: 09:31 Jan 7 2016 Address: град София, Студентски град, до блок 60
+Name: Синатра Type: бар Date: 12:06 Jan 13 2016 Address: град София, бул. Арсеналски  5
+Name: N/A Type: N/A Date: 08:00 Jan 13 2016 Address: град София, Младост 1, бул. Йерусалим 1
+Name: за хранене Ниагара Type: заведение Date: 12:17 Jan 5 2016 Address: град София, ул. Цар Симеон  140
+Name: Beso Type: заведение Date: 01:01 Feb 12 2013 Address: София, ул. Тодор Каблешков 45
+Name:  gallery Type: кафе Date: 05:20 Feb 25 2014 Address: град София, Ул.Пирин срещу номер 56
+Name: N/A Type: N/A Date: 02:45 Feb 10 2013 Address: София, Будапеща 6
+Name: Friends Type: пицария Date: 09:23 Feb 10 2013 Address: София, кв. Красна поляна, бул. Възкресение 62
+Name: Дивака Type: заведение Date: 09:04 May 24 2014 Address: град София, ул. Христо Белчев  16
+Name: Дивака Type: ресторант Date: 09:21 Apr 10 2014 Address: град София, ул. Христо Белчев 16
+Name: грамофон Type: клуб Date: 01:17 Feb 10 2013 Address: софия, Ул. Будапеща 6
+Name: N/A Type: N/A Date: 21:29 Nov 28 2013 Address: София, ул. Христо Белчев 16
+Name: Еленска механа Type: механа Date: 01:14 Feb 12 2013 Address: София, кв. Витоша, ул Трифон Кунев 9
+Name: Дивака Type: ресторант Date: 08:40 Apr 10 2014 Address: град София, ул. Христо Белчев  16
+Name: N/A Type: N/A Date: 06:01 Feb 11 2013 Address: София , Ул. ЛЪЧЕЗАР СТАНЧЕВ 4
+Name: N/A Type: N/A Date: 13:31 Dec 20 2012 Address: бул. Андрей Ляпчев 56, Младост 2, гр. София
+Name: N/A Type: N/A Date: 02:52 Apr 23 2015 Address: град София, жк Люлин 4, ул. Захари Стоянов, до блок 403
+Name: При дебелаците Type: ресторант Date: 11:48 Jan 26 2013 Address: София Люлин 5 бл 525
+Name: Tabule bar&diner Type: ресторант Date: 09:00 Nov 7 2015 Address: град София, ж.к. Люлин 4, бл. 425
+Name: е Joy  Type: кафе Date: 13:15 Dec 30 2012 Address: София, Младост 2, Андрей Ляпчев 56, Младост 2
+Name: N/A Type: N/A Date: 13:42 Dec 31 2012 Address: гр. София, жк Младост 2, бул. Андрей Ляпчев  56
+Name: N/A Type: N/A Date: 23:06 Dec 30 2012 Address: София, Младост 2, бул. Андрей Ляпчев 56
+Name: Evergreen Type: ресторант Date: 09:20 Nov 7 2013 Address: София, ул. Проф. Д-р Иван Странски 3-Б
+Name: Македонската къща Type: ресторант Date: 04:37 Jan 2 2016 Address: град София, Студентски град, с/у бл. 58
+Name: N/A Type: N/A Date: 12:41 Jan 19 2013 Address: Заведението се намира до ТМАркет в Студентски град, София
+Name: N/A Type: N/A Date: 01:06 Jan 19 2013 Address: Заведението се намира в София, Студентски град , бул. Акад. Б. Стефанов
+Name: N/A Type: клуб Date: 12:11 Jan 19 2013 Address: в сградата на клуб Суингинг хол на бул. Драган Цанков 8 в гр. София
+Name: N/A Type: клуб Date: 17:06 Jan 18 2013 Address: гр.София, ж.к. Младост 2, бул. Андрей Ляпчев 56
+Name: за бързо хранене Дядовата ръкавичка Type: заведение Date: 04:10 Jun 24 2015 Address: град София, ул. Княз Борис I 75, ъгловата кооперация с ул. Денкоглу
+Name: N/A Type: N/A Date: 12:44 Jan 3 2013 Address: гр. София, жк Младост 2, бул. Андрей Ляпчев  56
+Name: Ветрило Type: пицария Date: 03:29 Jan 30 2013 Address: гр. София, ж.к. Борово, ул. Пирински проход No.47
+Name: Sweet кафе и грил Type: ресторант Date: 01:00 Jan 3 2016 Address: град София, зала Фестивална, кв. Гео Милев
+Name: е Йо йо Type: кафе Date: 01:21 Jan 3 2016 Address: град София, ул. Народни будители, до бл. 26 и до магазин Смарт
+Name: Planet Type: клуб Date: 11:00 Dec 31 2015 Address: град София, бул България  1
+Name: N/A Type: N/A Date: 11:39 Dec 2 2012 Address: София ул. Малко Търново  2 пиано бар My Way в салона
+Name: N/A Type: пицария Date: 01:12 Dec 24 2012 Address: гр. София, ул. Шипка  11
+Name:  Belidimo Type: бар Date: 01:00 Jan 11 2014 Address: град София, ул. Шипка  10
+Name: N/A Type: N/A Date: 13:38 Dec 23 2012 Address: София, в пицария О!Шипка,ул. Шипка 11, ет. минус 1
+Name: N/A Type: N/A Date: 11:46 Dec 5 2012 Address: София,НАДЕЖДА-бул.Ломско шосе  73 BAR&DINNER RELAX
+Name: N/A Type: N/A Date: 13:23 Dec 5 2012 Address: Sweet Bar&Gril, София, жк. Младост 3 до бл. 328
+Name: N/A Type: дискотека Date: 00:10 Dec 6 2012 Address: София, ул. Шипка 6, бившия клуб ДАЛИ
+Name: N/A Type: N/A Date: 13:09 Dec 4 2012 Address: София, на попа, безистен да спирката между двтаа Мимаса
+Name: Once upon a time Biblioteka Type: клуб Date: 01:05 Dec 27 2015 Address: град София, бул. Васил Левски 88
+Name: Gramphone Type: бар Date: 01:00 Dec 27 2015 Address: град София, ул. Будапеща  6
+Name: Чикаго Type: бар Date: 12:38 Dec 28 2015 Address: град София, бул. Дондуков 9
+Name: N/A Type: N/A Date: 12:42 Dec 28 2015 Address: град София, Овча Купел 2, срещу магазин Лидъл
+Name: N/A Type: N/A Date: 01:29 Jan 24 2013 Address: гр. София, бул. Тодор Каблешков 45
+Name: Катерина Type: бар Date: 10:00 Dec 29 2015 Address: град София, пл. Славейков 7А, безистен
+Name: N/A Type: N/A Date: 01:39 Jan 29 2013 Address: СОфия, БУЛ.ТОДОР КАБЛЕШКОВ 45
+Name: Marionette Type: ресторант Date: 02:15 Dec 30 2015 Address: град София, бул. Джеймс Баучер  100
+Name: Суит/Sweet Type: ресторант Date: 04:20 Dec 30 2015 Address: град София, Зала Фестивална
+Name: КОКО Type: клуб Date: 01:49 Feb 7 2013 Address: гр. София, Студентски град, бул. Акад. Б. Стефанов , бл. 24 - ниско тяло
+Name: Ниагара Type: ресторант Date: 10:20 Apr 30 2014 Address: град София, ул. Цар Симеон 140
+Name: N/A Type: N/A Date: 08:30 Feb 8 2013 Address: гр. София, жк Люлин 9, ул. Търново, до бл. 916, PIZZA RESTORANT MAX
+Name: N/A Type: механа Date: 01:57 Nov 25 2013 Address: София, ул. Трифон Кунев 9
+Name: Еленска механа Type: ресторант Date: 03:39 Jun 13 2014 Address: град София, ул. Трифон Кунев  9
+Name: N/A Type: заведение Date: 13:53 Jan 5 2013 Address: София, кв. Витоша, ул. Трифон Кунев 9, 
+Name: N/A Type: N/A Date: 10:14 Nov 15 2013 Address: София, ул. Академик Петър Динеков 8
+Name: Еленска механа Type: ресторант Date: 08:41 Feb 20 2014 Address: град София, ул. Трифон Кунев  9
+Name:  УГО 3 Type: ресторант Date: 11:57 Mar 27 2013 Address: София, ул. Хан Крум 2
+Name: N/A Type: N/A Date: 01:00 Dec 14 2013 Address: Зимен дворец на спорта, 1700 София, Студентски град
+Name: Mega Dance Center Type: бар Date: 11:51 Oct 11 2013 Address: София, студентски град, Зимен дворец на спорта, клуб Мегаденс
+Name: N/A Type: N/A Date: 03:00 Apr 19 2015 Address: град София, ж.к. Студентски грaд, Зимен дворец нa спорта
+Name: N/A Type: бар Date: 12:17 Jan 20 2013 Address: гр. София, ул. 6-ти септември 38, заведението все още няма табела с име, тъй като е ново; намира се на мястото на бившия Wonderbar.
+Name: N/A Type: N/A Date: 12:28 Jan 20 2013 Address: София, Бул Васил Левски 88Сградата на Нац Библиотека
+Name: Joy Type: клуб Date: 22:58 Jan 21 2013 Address: гр. София, Младост 2, бул. Андрей Ляпчев 56
+Name: N/A Type: бар Date: 01:50 Jan 20 2013 Address: софия, александър стамболийски 29
+Name: Библиотека Type: дискотека Date: 01:00 Dec 26 2015 Address: град София, бул. Васил Левски 88
+Name: My bar Type: бар Date: 05:20 Dec 26 2015 Address: град София, бул Шипченски проход  18
+Name: Once upon a time Bibliotekata Type: клуб Date: 12:21 Dec 19 2015 Address: град София, бул. Васил Левски  88
+Name: La Cubanita Type: бар Date: 11:26 Dec 24 2015 Address: град София, ул. Битоля 2
+Name: ФуегоСофия Type: кафе Date: 13:54 Dec 6 2012 Address: София ж.к Свобода;Ул.Дилянка 20
+Name: Родопски чанове Type: ресторант Date: 08:00 Dec 16 2015 Address: град София,ж. к. Свобода, ул. Народни будители, с/у бл. 40
+Name: N/A Type: заведение Date: 22:01 Dec 8 2012 Address: бул. Граф Игнатиев 12, гр. София
+Name: N/A Type: N/A Date: 23:00 Dec 7 2012 Address: София, Света Троица, ул. Цар Симеон (до бл.316)
+Name: N/A Type: пицария Date: 13:37 Dec 7 2012 Address: Пицария Ветрило - Стрелбище, ул Хайдушка гора, София
+Name: N/A Type: заведение Date: 13:13 Dec 6 2012 Address: София, в сградата на заведение Хепи Суши на кръстовището на бул. Джеймс Баучер и ул. Богатица (Лозенец), на целия втори етаж
+Name:  Type: бар Date: 11:13 Dec 18 2015 Address: град София, ул. 6-ти септември 22
+Name: Once upon a time Biblioteka Type: дискотека Date: 01:00 Dec 19 2015 Address: град София, бул. Васил Левски  88
+Name: N/A Type: N/A Date: 09:00 Dec 16 2015 Address: град София, кв. Гео Милев, Зала Фестивална
+Name: за бързо хранене Скара на кило Type: заведение Date: 01:19 Dec 18 2015 Address: София, жк Дървеница, ул. Софийско поле (трафопост до бл. 43)
+Name: грил) Type: бар Date: 05:50 Jan 29 2013 Address: София, Централна жп-гара
+Name: N/A Type: N/A Date: 09:00 Nov 29 2013 Address: София, Ул. Г.С.Раковски 181
+Name: N/A Type: заведение Date: 09:00 Oct 9 2013 Address: София, ул. Г. С. Раковски 181
+Name: Уго Type: ресторант Date: 12:06 Mar 28 2013 Address: София, ул. Хан Крум 2
+Name: е Какао Type: кафе Date: 08:00 Dec 9 2015 Address: град София, кв. Свобода, ул. Народни Будители до бл. 26 и супермаркет Smart
+Name: Sweet Type: ресторант Date: 01:06 Dec 14 2015 Address: град София, зала Фестивална в кв. Гео Милев
+Name: N/A Type: N/A Date: 05:00 Dec 6 2015 Address: град София, бул. Джеймс Баучер 100, хотел Маринела
+Name: N/A Type: N/A Date: 05:16 Dec 11 2015 Address: град София, ул. Солун  43
+Name: Mr. Pizza Type: ресторант Date: 10:15 Dec 9 2015 Address: град София, ул. Неофит Рилски  44
+Name: N/A Type: N/A Date: 20:11 Dec 10 2012 Address: София, ул. Тодор Каблешков 45
+Name: N/A Type: заведение Date: 01:15 Dec 9 2012 Address: гр. София, кв. Гео Милев, Galaxy Trade Center, My BAR
+Name: N/A Type: N/A Date: 01:27 Dec 9 2012 Address: бул. Витоша, София, Boutique Lounge Bar
+Name: N/A Type: N/A Date: 09:59 Nov 20 2015 Address: град София, ул. Граф Игнатиев  12
+Name: 4 стаи Type: бар Date: 10:30 Oct 12 2013 Address: софия, ангел кънчев 1
+Name: 4 румс Type: бар Date: 11:00 Oct 4 2013 Address: София, ул. Ангел Кънчев 1
+Name: Антик Type: кафе Date: 11:00 Dec 5 2015 Address: град София, кв. Хиподрума, бл. 9
+Name: Olives Type: ресторант Date: 09:25 Mar 8 2013 Address: София, Граф Игнатиев 12
+Name: N/A Type: N/A Date: 05:04 Nov 28 2015 Address: София, ул. Кукуряк  3
+Name: N/A Type: N/A Date: 02:00 Nov 28 2015 Address: град София, бул. Раковски  94
+Name:  Рубаят Type: ресторант Date: 09:33 Nov 27 2015 Address: град София, пл. България 1, НДК, вход А5 (до пилоните)
+Name: Mr. Pizza Type: пицария Date: 08:30 Nov 27 2015 Address: град София, ул. Верила  3
+Name: N/A Type: N/A Date: 10:50 Nov 27 2015 Address: град София, ул. Битоля 2
+Name: Мълиганс Type: ресторант Date: 12:54 Nov 25 2015 Address: град София, ул.Славянска  24
+Name: Mr. Pizza Type: ресторант Date: 09:00 Nov 29 2015 Address: град София, Младост 1, бул. Йерусалим  22
+Name: La Cubanita Type: ресторант Date: 03:00 Nov 29 2015 Address: град София, ул. Битоля 2
+Name: Боримечката Type: ресторант Date: 11:07 Nov 28 2015 Address: град София, Студентски град, до бл. 24, в близост до зала Христо Ботев
+Name: Марайа Fusion Bar & Dinner Type: ресторант Date: 09:30 Nov 24 2015 Address: София, ул. Георги С. Раковски 123
+Name: N/A Type: заведение Date: 01:09 Jan 27 2013 Address: София, ул. Будапеща 6
