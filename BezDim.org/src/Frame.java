@@ -158,20 +158,6 @@ public class Frame extends JXFrame {
     }
 
     public static List<Entry> fixData(List<Entry> entries) {
-        final String[] PLACE_TYPES = {
-                "бар",
-                "клуб",
-                "ресторант",
-                "бирария",
-                "механа",
-                "кръчма",
-                "дискотека",
-                "заведение",
-                "пицария",
-                "кафе",
-                "кафене",
-                "бистро"
-        };
         //make a golden entry set with entries with no missing slots
         //and remove duplicate entries by location
         //because missing slots have same values Constants.BLANK

@@ -43,11 +43,7 @@ public class MyCrawler extends WebCrawler {
 			"бистро"
 	};
 	
-	private final static int MAX_ENTRIES = 200;
-	
 	private List<Entry> entryArray = new ArrayList<>();
-	
-	private boolean isFinished = false;
 
 	@Override
 	public boolean shouldVisit(Page referringPage, WebURL url) {
@@ -121,9 +117,11 @@ public class MyCrawler extends WebCrawler {
 					placeName = "N/A";
 				}
 
-                placeName = placeName.replaceAll("\"", "").replaceAll("'", "").replaceAll("”", "").replaceAll("“", "").replaceAll("„", "");
-                date = date.replaceAll("\"", "").replaceAll("'", "").replaceAll("”", "").replaceAll("“", "").replaceAll("„", "");
-                location = location.replaceAll("\"", "").replaceAll("'", "").replaceAll("”", "").replaceAll("“", "").replaceAll("„", "").replace("№", "");
+				final String pattern = "[���'�\\\\]+";
+				
+				placeName = placeName.replaceAll(pattern, "");
+				date = date.replaceAll(pattern, "");
+				location = location.replaceAll(pattern, "");
 				
 				Entry entry = new Entry(typeName, placeName, date, location);
 
